@@ -1,0 +1,608 @@
+ids;naming_set;tablas;subset;datavaluespath;values;datavaluescolumn;datavaluessubset;ID RULE;CATALOG (TAXONOMY/STATIC) (3.5-6.1-6.10);Frequency of measurement;Subset;DEFINITION PERIOD;PUBLICATION DATE;STATUS DEVELOPMENT;STATUS IMPLANTATION;Parameters;datavaluespath_str
+27993d15e4;{'gf_default_taxo_group_id'};t_cmov_bbva_categorized_mov;gf_default_taxo_group_id is not null and gf_default_taxo_group_id != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27993d15e4;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27993d164c;{'gf_default_taxo_category_id'};t_cmov_bbva_categorized_mov;gf_default_taxo_category_id is not null and gf_default_taxo_category_id != '';['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;27993d164c;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27993d16f3;{'gf_default_taxo_subcategory_id'};t_cmov_bbva_categorized_mov;gf_default_taxo_subcategory_id is not null and gf_default_taxo_subcategory_id != '';['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;27993d16f3;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+27993d1750;{'gf_tailored_taxo_group_id'};t_cmov_bbva_categorized_mov;gf_tailored_taxo_group_id is not null and gf_tailored_taxo_group_id != '';['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;27993d1750;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_3
+27993d17b5;{'gf_custom_taxo_group_id'};t_cmov_bbva_categorized_mov;gf_custom_taxo_group_id is not null and gf_custom_taxo_group_id != '';['MASTERSCHEMA.CATALOG_TABLE_4'];;CATALOG_COLUMN_4;CATALOG_CODE_4;27993d17b5;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_4: Columna del catálogo local 
+CATALOG_CODE_4: Filtrado del catálogo local
+CATALOG_TABLE_4: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_4
+27993d1805;{'gf_shown_taxo_group_id'};t_cmov_bbva_categorized_mov;gf_shown_taxo_group_id is not null and gf_shown_taxo_group_id != '';['MASTERSCHEMA.CATALOG_TABLE_5'];;CATALOG_COLUMN_5;CATALOG_CODE_5;27993d1805;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_5: Columna del catálogo local 
+CATALOG_CODE_5: Filtrado del catálogo local
+CATALOG_TABLE_5: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_5
+27993d185b;{'gf_tailored_taxo_category_id'};t_cmov_bbva_categorized_mov;gf_tailored_taxo_category_id is not null and gf_tailored_taxo_category_id != '';['MASTERSCHEMA.CATALOG_TABLE_6'];;CATALOG_COLUMN_6;CATALOG_CODE_6;27993d185b;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_6: Columna del catálogo local 
+CATALOG_CODE_6: Filtrado del catálogo local
+CATALOG_TABLE_6: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_6
+27993d18b5;{'gf_custom_taxo_category_id'};t_cmov_bbva_categorized_mov;gf_custom_taxo_category_id is not null and gf_custom_taxo_category_id != '';['MASTERSCHEMA.CATALOG_TABLE_7'];;CATALOG_COLUMN_7;CATALOG_CODE_7;27993d18b5;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_7: Columna del catálogo local 
+CATALOG_CODE_7: Filtrado del catálogo local
+CATALOG_TABLE_7: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_7
+27993d18ff;{'gf_shown_taxo_category_id'};t_cmov_bbva_categorized_mov;gf_shown_taxo_category_id is not null and gf_shown_taxo_category_id != '';['MASTERSCHEMA.CATALOG_TABLE_8'];;CATALOG_COLUMN_8;CATALOG_CODE_8;27993d18ff;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_8: Columna del catálogo local 
+CATALOG_CODE_8: Filtrado del catálogo local
+CATALOG_TABLE_8: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_8
+27993d194f;{'gf_tailored_taxo_subcateg_id'};t_cmov_bbva_categorized_mov;gf_tailored_taxo_subcateg_id is not null and gf_tailored_taxo_subcateg_id != '';['MASTERSCHEMA.CATALOG_TABLE_9'];;CATALOG_COLUMN_9;CATALOG_CODE_9;27993d194f;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_9: Columna del catálogo local 
+CATALOG_CODE_9: Filtrado del catálogo local
+CATALOG_TABLE_9: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_9
+27993d19a2;{'gf_custom_taxo_subcategory_id'};t_cmov_bbva_categorized_mov;gf_custom_taxo_subcategory_id is not null and gf_custom_taxo_subcategory_id != '';['MASTERSCHEMA.CATALOG_TABLE_10'];;CATALOG_COLUMN_10;CATALOG_CODE_10;27993d19a2;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_10: Columna del catálogo local 
+CATALOG_CODE_10: Filtrado del catálogo local
+CATALOG_TABLE_10: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_10
+27993d19e7;{'gf_shown_taxo_subcategory_id'};t_cmov_bbva_categorized_mov;gf_shown_taxo_subcategory_id is not null and gf_shown_taxo_subcategory_id != '';['MASTERSCHEMA.CATALOG_TABLE_11'];;CATALOG_COLUMN_11;CATALOG_CODE_11;27993d19e7;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_11: Columna del catálogo local 
+CATALOG_CODE_11: Filtrado del catálogo local
+CATALOG_TABLE_11: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_11
+27993d1a32;{'gf_default_taxo_category_id'};t_cmov_nobbva_categorized_mov;gf_default_taxo_category_id is not null and gf_default_taxo_category_id != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27993d1a32;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27993d1a8a;{'gf_tailored_taxo_category_id'};t_cmov_nobbva_categorized_mov;gf_tailored_taxo_category_id is not null and gf_tailored_taxo_category_id != '';['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;27993d1a8a;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27993d1ad8;{'gf_custom_taxo_category_id'};t_cmov_nobbva_categorized_mov;gf_custom_taxo_category_id is not null and gf_custom_taxo_category_id != '';['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;27993d1ad8;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+27993d1b28;{'gf_shown_taxo_category_id'};t_cmov_nobbva_categorized_mov;gf_shown_taxo_category_id is not null and gf_shown_taxo_category_id != '';['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;27993d1b28;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_3
+27993d1b6e;{'gf_default_taxo_subcategory_id'};t_cmov_nobbva_categorized_mov;gf_default_taxo_subcategory_id is not null and gf_default_taxo_subcategory_id != '';['MASTERSCHEMA.CATALOG_TABLE_4'];;CATALOG_COLUMN_4;CATALOG_CODE_4;27993d1b6e;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_4: Columna del catálogo local 
+CATALOG_CODE_4: Filtrado del catálogo local
+CATALOG_TABLE_4: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_4
+27993d1bc3;{'gf_tailored_taxo_subcateg_id'};t_cmov_nobbva_categorized_mov;gf_tailored_taxo_subcateg_id is not null and gf_tailored_taxo_subcateg_id != '';['MASTERSCHEMA.CATALOG_TABLE_5'];;CATALOG_COLUMN_5;CATALOG_CODE_5;27993d1bc3;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_5: Columna del catálogo local 
+CATALOG_CODE_5: Filtrado del catálogo local
+CATALOG_TABLE_5: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_5
+27993d1c59;{'gf_shown_taxo_subcategory_id'};t_cmov_nobbva_categorized_mov;gf_shown_taxo_subcategory_id is not null and gf_shown_taxo_subcategory_id != '';['MASTERSCHEMA.CATALOG_TABLE_6'];;CATALOG_COLUMN_6;CATALOG_CODE_6;27993d1c59;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_6: Columna del catálogo local 
+CATALOG_CODE_6: Filtrado del catálogo local
+CATALOG_TABLE_6: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_6
+27993d1cab;{'gf_default_taxo_group_id'};t_cmov_nobbva_categorized_mov;gf_default_taxo_group_id is not null and gf_default_taxo_group_id != '';['MASTERSCHEMA.CATALOG_TABLE_7'];;CATALOG_COLUMN_7;CATALOG_CODE_7;27993d1cab;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_7: Columna del catálogo local 
+CATALOG_CODE_7: Filtrado del catálogo local
+CATALOG_TABLE_7: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_7
+27993d1cfd;{'gf_tailored_taxo_group_id'};t_cmov_nobbva_categorized_mov;gf_tailored_taxo_group_id is not null and gf_tailored_taxo_group_id != '';['MASTERSCHEMA.CATALOG_TABLE_8'];;CATALOG_COLUMN_8;CATALOG_CODE_8;27993d1cfd;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_8: Columna del catálogo local 
+CATALOG_CODE_8: Filtrado del catálogo local
+CATALOG_TABLE_8: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_8
+27993d1d50;{'gf_custom_taxo_group_id'};t_cmov_nobbva_categorized_mov;gf_custom_taxo_group_id is not null and gf_custom_taxo_group_id != '';['MASTERSCHEMA.CATALOG_TABLE_9'];;CATALOG_COLUMN_9;CATALOG_CODE_9;27993d1d50;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_9: Columna del catálogo local 
+CATALOG_CODE_9: Filtrado del catálogo local
+CATALOG_TABLE_9: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_9
+27993d1d9d;{'gf_shown_taxo_group_id'};t_cmov_nobbva_categorized_mov;gf_shown_taxo_group_id is not null and gf_shown_taxo_group_id != '';['MASTERSCHEMA.CATALOG_TABLE_10'];;CATALOG_COLUMN_10;CATALOG_CODE_10;27993d1d9d;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_10: Columna del catálogo local 
+CATALOG_CODE_10: Filtrado del catálogo local
+CATALOG_TABLE_10: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_10
+27993d1c0e;{'gf_custom_taxo_subcategory_id'};t_cmov_nobbva_categorized_mov;gf_custom_taxo_subcategory_id is not null and gf_custom_taxo_subcategory_id != '';['MASTERSCHEMA.CATALOG_TABLE_11'];;CATALOG_COLUMN_11;CATALOG_CODE_11;27993d1c0e;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o Vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_11: Columna del catálogo local 
+CATALOG_CODE_11: Filtrado del catálogo local
+CATALOG_TABLE_11: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_11
+27bcbdeb3a;{'gf_prt_sign_stat_type'};t_ctar_sign_proc_participant;gf_prt_sign_stat_type is not null and gf_prt_sign_stat_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27bcbdeb3a;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27bcbdebdc;{'gf_doc_sign_type'};t_ctar_sign_proc_participant;gf_doc_sign_type is not null and gf_doc_sign_type != '';['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;27bcbdebdc;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27bcbde783;{'gf_sign_proc_status_type'};t_ctar_signature_process;gf_sign_proc_status_type is not null and gf_sign_proc_status_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27bcbde783;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27bcbdea05;{'gf_sign_proc_oper_type'};t_ctar_signature_process;gf_sign_proc_oper_type is not null and gf_sign_proc_oper_type != '';['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;27bcbdea05;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27bcbdea5f;{'gf_sign_proc_event_type'};t_ctar_signature_process;gf_sign_proc_event_type is not null and gf_sign_proc_event_type != '';['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;27bcbdea5f;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+27fe323c3f;{'gf_aso_acc_medm_type'};t_dtau_act_regis_hist_inf_rpt;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27fe323c3f;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27fe323cb0;{'gf_request_customer_type'};t_dtau_act_regis_hist_inf_rpt;;['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;27fe323cb0;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27fe323d9c;{'gf_contract_product_type'};t_dtau_act_regis_hist_inf_rpt;;['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;27fe323d9c;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+27fe323fd4;{'gf_local_contract_type'};t_dtau_act_regis_hist_inf_rpt;;['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;27fe323fd4;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_3
+27fe323e78;{'gf_aux_contract_product_type'};t_dtau_act_regis_hist_inf_rpt;;['MASTERSCHEMA.CATALOG_TABLE_4'];;CATALOG_COLUMN_4;CATALOG_CODE_4;27fe323e78;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;3Q24;Nov_2024;FINISHED;DELIVERED;"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_4: Columna del catálogo local 
+     CATALOG_CODE_4: Filtrado del catálogo local
+     CATALOG_TABLE_4: Nombre de tabla local
+JOB EXTRALIBS:
+     extralibs: Link to custom repository";MASTERSCHEMA.CATALOG_TABLE_4
+27fe324064;{'gf_aux_local_contract_type'};t_dtau_act_regis_hist_inf_rpt;;['MASTERSCHEMA.CATALOG_TABLE_5'];;CATALOG_COLUMN_5;CATALOG_CODE_5;27fe324064;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;3Q24;Nov_2024;FINISHED;DELIVERED;"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_5: Columna del catálogo local 
+     CATALOG_CODE_5: Filtrado del catálogo local
+     CATALOG_TABLE_5: Nombre de tabla local
+
+JOB EXTRALIBS:
+     extralibs: Link to custom repository";MASTERSCHEMA.CATALOG_TABLE_5
+28012ca0e4;{'gf_aso_acc_medm_type'};t_dtau_activity_register;gf_aso_acc_medm_type is not null and gf_aso_acc_medm_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;28012ca0e4;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+28012ca150;{'gf_request_customer_type'};t_dtau_activity_register;gf_request_customer_type is not null and gf_request_customer_type != '';['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;28012ca150;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+28012ca248;{'gf_contract_product_type'};t_dtau_activity_register;gf_contract_product_type is not null and gf_contract_product_type != '';['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;28012ca248;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+28012ca4c0;{'gf_local_contract_type'};t_dtau_activity_register;gf_local_contract_type is not null and gf_local_contract_type != '';['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;28012ca4c0;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_3
+28142ab8f0;{'gf_app_channel_id'};t_dtau_activity_register;gf_app_channel_id is not null and gf_app_channel_id != '';['MASTERSCHEMA.CATALOG_TABLE_4'];;CATALOG_COLUMN_4;CATALOG_CODE_4;28142ab8f0;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de null o vacío;3Q24;Nov_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_4: Columna del catálogo local 
+CATALOG_CODE_4: Filtrado del catálogo local
+CATALOG_TABLE_4: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_4
+28142ab9e1;{'gf_aap_id'};t_dtau_activity_register;gf_aap_id is not null and gf_aap_id != '';['MASTERSCHEMA.CATALOG_TABLE_5'];;CATALOG_COLUMN_5;CATALOG_CODE_5;28142ab9e1;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de null o vacío;3Q24;Nov_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_5: Columna del catálogo local 
+CATALOG_CODE_5: Filtrado del catálogo local
+CATALOG_TABLE_5: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_5
+28012ca33a;{'gf_aux_contract_product_type'};t_dtau_activity_register;gf_aux_contract_product_type is not null and gf_aux_contract_product_type != '';['MASTERSCHEMA.CATALOG_TABLE_6'];;CATALOG_COLUMN_6;CATALOG_CODE_6;28012ca33a;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de null o vacío;3Q24;Nov_2024;FINISHED;DELIVERED;"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_6: Columna del catálogo local 
+     CATALOG_CODE_6: Filtrado del catálogo local
+     CATALOG_TABLE_6: Nombre de tabla local
+
+JOB EXTRALIBS:
+     extralibs: Link to custom repository";MASTERSCHEMA.CATALOG_TABLE_6
+28012ca52a;{'gf_aux_local_contract_type'};t_dtau_activity_register;gf_aux_local_contract_type is not null and gf_aux_local_contract_type != '';['MASTERSCHEMA.CATALOG_TABLE_7'];;CATALOG_COLUMN_7;CATALOG_CODE_7;28012ca52a;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de null o vacío;3Q24;Nov_2024;FINISHED;DELIVERED;"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_7: Columna del catálogo local 
+     CATALOG_CODE_7: Filtrado del catálogo local
+     CATALOG_TABLE_7: Nombre de tabla local
+
+JOB EXTRALIBS:
+     extralibs: Link to custom repository";MASTERSCHEMA.CATALOG_TABLE_7
+GL_DOL_t_j7il_customer_personalization_3.5_000;{'gf_notification_family_id'};t_j7il_customer_personalization;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_j7il_customer_personalization_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27b91e8830;{'gf_cmun_logical_operator_type'};t_j7il_customer_personalization;gf_cmun_logical_operator_type is not null and gf_cmun_logical_operator_type != '';['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;27b91e8830;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+GL_DOL_t_j7il_customer_refusals_3.5_000;{'gf_communication_refusal_id'};t_j7il_customer_refusals;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_j7il_customer_refusals_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_j7il_notification_management_3.5_000;{'gf_notification_family_id'};t_j7il_notification_management;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_j7il_notification_management_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_j7il_notification_management_3.5_001;{'gf_notif_status_type'};t_j7il_notification_management;;['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;GL_DOL_t_j7il_notification_management_3.5_001;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27b91e87e7;{'gf_response_code_feedback_type'};t_j7il_touchpoint;gf_response_code_feedback_type is not null and gf_response_code_feedback_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27b91e87e7;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_katc_relevant_facts_3.5_000;{'gf_head_expense_group_id'};t_katc_relevant_facts;gf_head_expense_group_id is not null and gf_head_expense_group_id != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_katc_relevant_facts_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jun_2024;FINISHED;DELIVERED;"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_0: Columna del catálogo local 
+     CATALOG_CODE_0: Filtrado del catálogo local
+     CATALOG_TABLE_0: Nombre de tabla local
+
+JOB EXTRALIBS:
+     extralibs: Link to custom repository";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_katc_relevant_facts_3.5_001;{'gf_head_expense_category_id'};t_katc_relevant_facts;gf_head_expense_category_id is not null and gf_head_expense_category_id != '';['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;GL_DOL_t_katc_relevant_facts_3.5_001;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jun_2024;FINISHED;DELIVERED;"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_1: Columna del catálogo local 
+     CATALOG_CODE_1: Filtrado del catálogo local
+     CATALOG_TABLE_1: Nombre de tabla local
+
+JOB EXTRALIBS:
+     extralibs: Link to custom repository";MASTERSCHEMA.CATALOG_TABLE_1
+GL_DOL_t_katc_relevant_facts_3.5_002;{'gf_head_expense_subcategory_id'};t_katc_relevant_facts;gf_head_expense_subcategory_id is not null and gf_head_expense_subcategory_id != '';['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;GL_DOL_t_katc_relevant_facts_3.5_002;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jun_2024;FINISHED;DELIVERED;"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_2: Columna del catálogo local 
+     CATALOG_CODE_2: Filtrado del catálogo local
+     CATALOG_TABLE_2: Nombre de tabla local
+
+JOB EXTRALIBS:
+     extralibs: Link to custom repository";MASTERSCHEMA.CATALOG_TABLE_2
+GL_DOL_t_katc_relevant_facts_3.5_003;{'gf_tail_expense_group_id'};t_katc_relevant_facts;gf_tail_expense_group_id is not null and gf_tail_expense_group_id != '';['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;GL_DOL_t_katc_relevant_facts_3.5_003;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jun_2024;FINISHED;DELIVERED;"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_3: Columna del catálogo local 
+     CATALOG_CODE_3: Filtrado del catálogo local
+     CATALOG_TABLE_3: Nombre de tabla local
+
+JOB EXTRALIBS:
+     extralibs: Link to custom repository";MASTERSCHEMA.CATALOG_TABLE_3
+GL_DOL_t_katc_relevant_facts_3.5_004;{'gf_tail_expense_category_id'};t_katc_relevant_facts;gf_tail_expense_category_id is not null and gf_tail_expense_category_id != '';['MASTERSCHEMA.CATALOG_TABLE_4'];;CATALOG_COLUMN_4;CATALOG_CODE_4;GL_DOL_t_katc_relevant_facts_3.5_004;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jun_2024;FINISHED;DELIVERED;"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_4: Columna del catálogo local 
+     CATALOG_CODE_4: Filtrado del catálogo local
+     CATALOG_TABLE_4: Nombre de tabla local
+JOB EXTRALIBS:
+     extralibs: Link to custom repository";MASTERSCHEMA.CATALOG_TABLE_4
+GL_DOL_t_katc_relevant_facts_3.5_005;{'gf_tail_expense_subcategory_id'};t_katc_relevant_facts;gf_tail_expense_subcategory_id is not null and gf_tail_expense_subcategory_id != '';['MASTERSCHEMA.CATALOG_TABLE_5'];;CATALOG_COLUMN_5;CATALOG_CODE_5;GL_DOL_t_katc_relevant_facts_3.5_005;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jun_2024;FINISHED;DELIVERED;"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_5: Columna del catálogo local 
+     CATALOG_CODE_5: Filtrado del catálogo local
+     CATALOG_TABLE_5: Nombre de tabla local
+
+JOB EXTRALIBS:
+     extralibs: Link to custom repository";MASTERSCHEMA.CATALOG_TABLE_5
+278213f09a;{'gf_detl_recurring_incomes_type'};t_kceg_cust_agg_recurring_income;gf_detl_recurring_incomes_type is not null and gf_detl_recurring_incomes_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;278213f09a;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27ec9403fa;{'gf_information_source_id'};t_kceg_cust_prod_any_holder;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27ec9403fa;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27ec936dae;{'gf_information_source_id'};t_kceg_cust_prod_main_holder;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27ec936dae;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+28142ab7e5;{'gf_cust_class_quadrant_segment_type'};t_kceg_customer_engagement;gf_cust_class_quadrant_segment_type is not null and gf_cust_class_quadrant_segment_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;28142ab7e5;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Distinto de null o vacío;3Q24;Nov_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27dd4949e1;{'gf_cont_status_vldy_type'};t_kcpg_customer_cust_prod;gf_cont_status_vldy_type is not null and gf_cont_status_vldy_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27dd4949e1;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Si gf_cont_status_vldy_type no es nulo ni vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27dd455a09;{'gf_goal_status_type'};t_kcpg_customer_invest_goals;gf_goal_status_type is not null and gf_goal_status_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27dd455a09;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;Si gf_goal_status_type no es nulo ni vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+2849d00d5f;{'gf_product_ars'};t_kctd_digital_interaction;gf_product_ars is not null;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;2849d00d5f;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;3Q24;Nov_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_kfcm_cust_fdbk_3.5_000;{'gf_cust_fdbk_scope_name'};t_kfcm_cust_fdbk;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_kfcm_cust_fdbk_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_kfcm_nps_detail_3.5_000;{'gf_question_id'};t_kfcm_nps_detail;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_kfcm_nps_detail_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_kfcm_nps_detail_3.5_001;{'gf_nps_survey_cnsmr_ex_type'};t_kfcm_nps_detail;;['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;GL_DOL_t_kfcm_nps_detail_3.5_001;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+GL_DOL_t_kfcm_nps_detail_3.5_002;{'gf_respodent_answer_id'};t_kfcm_nps_detail;;['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;GL_DOL_t_kfcm_nps_detail_3.5_002;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+GL_DOL_t_kfcm_nps_sv_respondent_retail_3.5_000;{'gf_rsp_socioeconomic_lvl_type'};t_kfcm_nps_sv_respondent_retail;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_kfcm_nps_sv_respondent_retail_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_kfcm_nps_sv_respondent_smes_3.5_000;{'gf_last_year_co_sales_vol_type'};t_kfcm_nps_sv_respondent_smes;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_kfcm_nps_sv_respondent_smes_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_kfcm_nps_sv_respondent_smes_3.5_001;{'gf_cut_co_econ_activity_id'};t_kfcm_nps_sv_respondent_smes;;['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;GL_DOL_t_kfcm_nps_sv_respondent_smes_3.5_001;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+GL_DOL_t_knfa_energy_certifications_3.5_003;{'gf_energ_cert_sust_type'};t_knfa_energy_certifications;;['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;GL_DOL_t_knfa_energy_certifications_3.5_003;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_3
+GL_DOL_t_knfa_home_center_3.5_000;{'gf_cadaster_id'};t_knfa_home_center;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_knfa_home_center_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27b99234d6;{'gf_property_label_type_id'};t_knfa_home_center;gf_property_label_type_id is not null and gf_property_label_type_id != '';['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;27b99234d6;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27b9923564;{'gf_energy_efficy_label_type_id'};t_knfa_home_center;gf_energy_efficy_label_type_id is not null and gf_energy_efficy_label_type_id != '';['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;27b9923564;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+GL_DOL_t_knfa_real_estate_favourites_3.5_000;{'gf_cadaster_id'};t_knfa_real_estate_favourites;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_knfa_real_estate_favourites_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_knfa_vehicles_center_3.5_000;{'gf_cust_prch_comm_brand_id'};t_knfa_vehicles_center;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_knfa_vehicles_center_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_knfa_vehicles_center_3.5_001;{'gf_gbl_cntr_vehicle_model_id'};t_knfa_vehicles_center;;['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;GL_DOL_t_knfa_vehicles_center_3.5_001;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27b99235b6;{'gf_vehicle_eco_label_type_id'};t_knfa_vehicles_center;gf_vehicle_eco_label_type_id is not null and gf_vehicle_eco_label_type_id != '';['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;27b99235b6;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+GL_DOL_t_knfa_vehicles_favourites_3.5_000;{'gf_cust_prch_comm_brand_id'};t_knfa_vehicles_favourites;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_knfa_vehicles_favourites_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_knfa_vehicles_favourites_3.5_001;{'gf_gbl_cntr_vehicle_model_id'};t_knfa_vehicles_favourites;;['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;GL_DOL_t_knfa_vehicles_favourites_3.5_001;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27b99236d7;{'gf_vehicle_eco_label_type_id'};t_knfa_vehicles_favourites;gf_vehicle_eco_label_type_id is not null and gf_vehicle_eco_label_type_id != '';['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;27b99236d7;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+27dd456269;{'gf_heating_transmitter_type'};t_kpan_home_partner_oppy;;['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;27dd456269;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27dd4562e4;{'gf_heating_system_type'};t_kpan_home_partner_oppy;;['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;27dd4562e4;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+27dd45636f;{'gf_climatic_zone_type'};t_kpan_home_partner_oppy;;['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;27dd45636f;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_3
+27dd456c31;{'gf_building_construction_type'};t_kpan_home_partner_oppy;;['MASTERSCHEMA.CATALOG_TABLE_4'];;CATALOG_COLUMN_4;CATALOG_CODE_4;27dd456c31;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_4: Columna del catálogo local 
+CATALOG_CODE_4: Filtrado del catálogo local
+CATALOG_TABLE_4: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_4
+2803fd22c0;{'gf_cancellation_price_type'};t_kpan_mgr_comm_opportunity;gf_cancellation_price_type is not null and gf_cancellation_price_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;2803fd22c0;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27dd494ae7;{'gf_cf_product_type'};t_kpan_mobility_partner_oppy;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27dd494ae7;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27dd494b9a;{'gf_vehicle_availability_type'};t_kpan_mobility_partner_oppy;;['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;27dd494b9a;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27dd4568c1;{'gf_status_test_drive_type'};t_kpan_mobility_partner_oppy;;['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;27dd4568c1;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+27dd456934;{'gf_driving_test_satisfaction_type'};t_kpan_mobility_partner_oppy;;['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;27dd456934;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_3
+GL_DOL_t_kpan_opportunity_3.5_001;{'gf_opportunity_stage_type'};t_kpan_opportunity;;['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;GL_DOL_t_kpan_opportunity_3.5_001;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+GL_DOL_t_kpan_opportunity_3.5_002;{'gf_opportunity_status_type'};t_kpan_opportunity;;['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;GL_DOL_t_kpan_opportunity_3.5_002;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+GL_DOL_t_kpan_opportunity_3.5_003;{'gf_opportunity_substage_type'};t_kpan_opportunity;;['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;GL_DOL_t_kpan_opportunity_3.5_003;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_3
+280d14c3f6;{'gf_opportunity_type'};t_kpan_opportunity;;['MASTERSCHEMA.CATALOG_TABLE_4'];;CATALOG_COLUMN_4;CATALOG_CODE_4;280d14c3f6;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;3Q24;Nov_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_4: Columna del catálogo local 
+CATALOG_CODE_4: Filtrado del catálogo local
+CATALOG_TABLE_4: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_4
+285189036e;{'gf_opportunity_status_type'};t_kpan_oppy_status_trcblty;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;285189036e;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;1Q25;Feb_2025;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_kszg_queue_controller_3.5_000;{'gf_geco_ticket_req_reason_type'};t_kszg_queue_controller;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_kszg_queue_controller_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_kszg_trnslty_by_channel_3.5_000;{'gf_branch_id'};t_kszg_trnslty_by_channel;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_kszg_trnslty_by_channel_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_kwth_light_price_3.5_000;{'gf_province_id'};t_kwth_light_price;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_kwth_light_price_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_kwth_taxi_fares_calculation_3.5_000;{'gf_taxi_fare_type'};t_kwth_taxi_fares_calculation;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_kwth_taxi_fares_calculation_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Annually;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_nm7r_lead_3.5_000;{'gf_branch_id'};t_nm7r_lead;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_nm7r_lead_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_nm7r_lead_3.5_001;{'gf_lead_discard_reason_type'};t_nm7r_lead;;['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;GL_DOL_t_nm7r_lead_3.5_001;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+GL_DOL_t_nm7r_lead_3.5_002;{'gf_lead_priority_type'};t_nm7r_lead;;['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;GL_DOL_t_nm7r_lead_3.5_002;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+GL_DOL_t_nm7r_lead_3.5_003;{'gf_lead_stage_type'};t_nm7r_lead;;['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;GL_DOL_t_nm7r_lead_3.5_003;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_3
+GL_DOL_t_nm7r_lead_3.5_004;{'gf_lead_status_type'};t_nm7r_lead;;['MASTERSCHEMA.CATALOG_TABLE_4'];;CATALOG_COLUMN_4;CATALOG_CODE_4;GL_DOL_t_nm7r_lead_3.5_004;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_4: Columna del catálogo local 
+CATALOG_CODE_4: Filtrado del catálogo local
+CATALOG_TABLE_4: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_4
+GL_DOL_t_nm7r_lead_3.5_005;{'gf_lead_subcategory_type'};t_nm7r_lead;;['MASTERSCHEMA.CATALOG_TABLE_5'];;CATALOG_COLUMN_5;CATALOG_CODE_5;GL_DOL_t_nm7r_lead_3.5_005;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_5: Columna del catálogo local 
+CATALOG_CODE_5: Filtrado del catálogo local
+CATALOG_TABLE_5: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_5
+GL_DOL_t_nm7r_lead_3.5_006;{'gf_lead_type'};t_nm7r_lead;;['MASTERSCHEMA.CATALOG_TABLE_6'];;CATALOG_COLUMN_6;CATALOG_CODE_6;GL_DOL_t_nm7r_lead_3.5_006;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Monthly;;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_6: Columna del catálogo local 
+CATALOG_CODE_6: Filtrado del catálogo local
+CATALOG_TABLE_6: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_6
+GL_DOL_t_re4m_autom_resolution_3.5_000;{'gf_model_response_type'};t_re4m_autom_resolution;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_re4m_autom_resolution_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_re4m_autom_resolution_3.5_001;{'gf_manager_response_type'};t_re4m_autom_resolution;;['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;GL_DOL_t_re4m_autom_resolution_3.5_001;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+GL_DOL_t_re4m_autom_resolution_3.5_002;{'gf_auai_rs_mdtfdk_cnv_ind_type'};t_re4m_autom_resolution;gf_auai_rs_mdtfdk_cnv_ind_type is not null and gf_auai_rs_mdtfdk_cnv_ind_type != '';['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;GL_DOL_t_re4m_autom_resolution_3.5_002;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+27b9a3fed1;{'gf_tr_reason_type'};t_re4m_conversation_transfer;gf_tr_reason_type is not null and gf_tr_reason_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27b9a3fed1;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27b91e7d83;{'gf_ivr_abndn_momnt_catg_type'};t_re4m_interaction_call;gf_ivr_abndn_momnt_catg_type is not null and gf_ivr_abndn_momnt_catg_type != '';['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;27b91e7d83;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27b91e7e1d;{'gf_service_attended_type'};t_re4m_interaction_call;gf_service_attended_type is not null and gf_service_attended_type != '';['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;27b91e7e1d;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+27b91e861c;{'gf_int_service_flow_ars'};t_re4m_interaction_call;gf_int_service_flow_ars is not null and gf_int_service_flow_ars != '';['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;27b91e861c;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_3
+27b91e7f9d;{'gf_status_self_serv_exec_type'};t_re4m_interaction_call;gf_status_self_serv_exec_type is not null and gf_status_self_serv_exec_type != '';['MASTERSCHEMA.CATALOG_TABLE_4'];;CATALOG_COLUMN_4;CATALOG_CODE_4;27b91e7f9d;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_4: Columna del catálogo local 
+CATALOG_CODE_4: Filtrado del catálogo local
+CATALOG_TABLE_4: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_4
+27b91e7feb;{'gf_self_serv_flow_type'};t_re4m_interaction_call;gf_self_serv_flow_type is not null and gf_self_serv_flow_type != '';['MASTERSCHEMA.CATALOG_TABLE_5'];;CATALOG_COLUMN_5;CATALOG_CODE_5;27b91e7feb;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_5: Columna del catálogo local 
+CATALOG_CODE_5: Filtrado del catálogo local
+CATALOG_TABLE_5: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_5
+27b9a441e3;{'gf_tr_reason_type'};t_re4m_message_transfer;gf_tr_reason_type is not null and gf_tr_reason_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27b9a441e3;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOM_t_re4m_messages_insights_3.5_001;{'g_facet_value_id'};t_re4m_messages_insights;;['/data/master/p68x/data/t_p68x_insights_relations'];;g_facet_value_id;;GL_DOM_t_re4m_messages_insights_3.5_001;t_p68x_insights_relations;Daily;;1Q23;Mar_2023;FINISHED;DELIVERED;CUTOFF_DATE: Date of the data;/data/master/p68x/data/t_p68x_insights_relations
+2786a95653;{'gf_int_participant_type'};t_re4m_phone_convers_particip;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;2786a95653;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+2786a8dc57;{'gf_participant_origin_type'};t_re4m_phrase_transcription;gf_participant_origin_type is not null and gf_participant_origin_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;2786a8dc57;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+277831f048;{'gf_message_origin_type'};t_re4m_physical_interaction_acti;gf_message_origin_type is not null and gf_message_origin_type != '';['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;277831f048;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27b91e8234;{'gf_msg_not_show_cust_rqst_type'};t_re4m_physical_interaction_acti;gf_msg_not_show_cust_rqst_type is not null and gf_msg_not_show_cust_rqst_type != '';['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;27b91e8234;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+27b91e82e5;{'gf_interaction_substatus_type'};t_re4m_physical_interaction_acti;gf_interaction_substatus_type is not null and gf_interaction_substatus_type != '';['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;27b91e82e5;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_3
+27b91e8428;{'gf_dig_repo_item_msg_type'};t_re4m_physical_interaction_acti;gf_dig_repo_item_msg_type is not null and gf_dig_repo_item_msg_type != '';['MASTERSCHEMA.CATALOG_TABLE_4'];;CATALOG_COLUMN_4;CATALOG_CODE_4;27b91e8428;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_4: Columna del catálogo local 
+CATALOG_CODE_4: Filtrado del catálogo local
+CATALOG_TABLE_4: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_4
+27b91e8571;{'gf_convr_message_readed_type'};t_re4m_physical_interaction_acti;gf_convr_message_readed_type is not null and gf_convr_message_readed_type != '';['MASTERSCHEMA.CATALOG_TABLE_5'];;CATALOG_COLUMN_5;CATALOG_CODE_5;27b91e8571;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_5: Columna del catálogo local 
+CATALOG_CODE_5: Filtrado del catálogo local
+CATALOG_TABLE_5: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_5
+27b933b57e;{'gf_tr_reason_type'};t_re4m_physical_interaction_acti;gf_tr_reason_type is not null and gf_tr_reason_type != '';['MASTERSCHEMA.CATALOG_TABLE_6'];;CATALOG_COLUMN_6;CATALOG_CODE_6;27b933b57e;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_6: Columna del catálogo local 
+CATALOG_CODE_6: Filtrado del catálogo local
+CATALOG_TABLE_6: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_6
+GL_DOL_t_re4m_physical_interaction_3.5_001;{'gf_status_type'};t_re4m_physical_interaction;;['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;GL_DOL_t_re4m_physical_interaction_3.5_001;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27b91e828f;{'gf_interaction_substatus_type'};t_re4m_physical_interaction;gf_interaction_substatus_type is not null and gf_interaction_substatus_type != '';['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;27b91e828f;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+27b91e83dd;{'gf_disclosure_info_type'};t_re4m_physical_interaction;gf_disclosure_info_type is not null and gf_disclosure_info_type != '';['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;27b91e83dd;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_3
+27b91e8483;{'gf_pg_convr_not_show_cst_type'};t_re4m_physical_interaction;gf_pg_convr_not_show_cst_type is not null and gf_pg_convr_not_show_cst_type != '';['MASTERSCHEMA.CATALOG_TABLE_4'];;CATALOG_COLUMN_4;CATALOG_CODE_4;27b91e8483;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_4: Columna del catálogo local 
+CATALOG_CODE_4: Filtrado del catálogo local
+CATALOG_TABLE_4: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_4
+27b91e84d2;{'gf_interaction_purpose_type'};t_re4m_physical_interaction;gf_interaction_purpose_type is not null and gf_interaction_purpose_type != '';['MASTERSCHEMA.CATALOG_TABLE_5'];;CATALOG_COLUMN_5;CATALOG_CODE_5;27b91e84d2;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_5: Columna del catálogo local 
+CATALOG_CODE_5: Filtrado del catálogo local
+CATALOG_TABLE_5: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_5
+27b91e85c9;{'gf_conversation_creation_type'};t_re4m_physical_interaction;gf_conversation_creation_type is not null and gf_conversation_creation_type != '';['MASTERSCHEMA.CATALOG_TABLE_6'];;CATALOG_COLUMN_6;CATALOG_CODE_6;27b91e85c9;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jun_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_6: Columna del catálogo local 
+CATALOG_CODE_6: Filtrado del catálogo local
+CATALOG_TABLE_6: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_6
+27b91e8524;{'gf_main_contact_type'};t_re4m_physical_interaction;gf_main_contact_type is not null and gf_main_contact_type != '';['MASTERSCHEMA.CATALOG_TABLE_7'];;CATALOG_COLUMN_7;CATALOG_CODE_7;27b91e8524;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;1Q25;Feb_2025;FINISHED;DELIVERED;"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_7: Columna del catálogo local 
+     CATALOG_CODE_7: Filtrado del catálogo local
+     CATALOG_TABLE_7: Nombre de tabla local
+
+JOB EXTRALIBS:
+     extralibs: Link to custom repository";MASTERSCHEMA.CATALOG_TABLE_7
+27b91e7b48;{'gf_typ_opt_rel_type'};t_re4m_typification_interaction;gf_typ_opt_rel_type is not null and gf_typ_opt_rel_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;27b91e7b48;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27b91e7be2;{'gf_typ_prdt_rel_type'};t_re4m_typification_interaction;gf_typ_prdt_rel_type is not null and gf_typ_prdt_rel_type != '';['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;27b91e7be2;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+27b91e7d2b;{'gf_int_typification_type'};t_re4m_typification_interaction;gf_int_typification_type is not null and gf_int_typification_type != '';['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;27b91e7d2b;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+GL_DOL_t_tdi3_campaign_3.5_000;{'gf_campaign_petitioner_type'};t_tdi3_campaign;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_tdi3_campaign_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_tdi3_communication_3.5_000;{'gf_subchannel_id'};t_tdi3_communication;gf_subchannel_id != '' and gf_subchannel_id is not null;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_tdi3_communication_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+28142ab5fa;{'gf_promo_cust_rol_type'};t_tdi3_cust_promo_adhesion_dp;gf_promo_cust_rol_type is not null and gf_promo_cust_rol_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;28142ab5fa;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de null o vacío;3Q24;Nov_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_tdi3_tracking_code_3.5_000;{'gf_tracking_code_comm_prd_type'};t_tdi3_tracking_code;gf_tracking_code_comm_prd_type is not null and gf_tracking_code_comm_prd_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_tdi3_tracking_code_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;1Q25;Feb_2025;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_tlhr_complaints_claims_3.5_000;{'gf_subject_type'};t_tlhr_complaints_claims;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_tlhr_complaints_claims_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+GL_DOL_t_tlhr_complaints_claims_3.5_001;{'gf_resolution_category_id'};t_tlhr_complaints_claims;;['MASTERSCHEMA.CATALOG_TABLE_1'];;CATALOG_COLUMN_1;CATALOG_CODE_1;GL_DOL_t_tlhr_complaints_claims_3.5_001;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_1
+GL_DOL_t_tlhr_complaints_claims_3.5_002;{'gf_case_type'};t_tlhr_complaints_claims;;['MASTERSCHEMA.CATALOG_TABLE_2'];;CATALOG_COLUMN_2;CATALOG_CODE_2;GL_DOL_t_tlhr_complaints_claims_3.5_002;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_2
+GL_DOM_t_tlhr_complaints_claims_3.5_003;{'gf_case_status_type'};t_tlhr_complaints_claims;gf_case_status_type is not null and gf_case_status_type != '';['MASTERSCHEMA.CATALOG_TABLE_3'];;CATALOG_COLUMN_3;CATALOG_CODE_3;GL_DOM_t_tlhr_complaints_claims_3.5_003;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Si gf_case_status_type no es nulo ni vacío;2Q24;Jul_2024;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_3

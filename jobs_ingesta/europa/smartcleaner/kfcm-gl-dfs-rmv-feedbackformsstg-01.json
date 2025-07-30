@@ -1,0 +1,27 @@
+{
+    "_id": "kfcm-gl-dfs-rmv-feedbackformsstg-01",
+    "kind": "processing",
+    "description": "kfcm-gl-dfs-rmv-feedbackformsstg-01",
+    "runtime": "spark:3.1",
+    "streaming": false,
+    "size": "S",
+    "params": {
+        "artifactUrl": "https://artifactory-gdt.central-01.nextgen.igrupobbva/artifactory/gl-datio-spark-libs-maven-local/com/bbva/projectsdatio/smartcleaner/0.4.3/smartcleaner-0.4.3-jar-with-dependencies.jar",
+        "configUrl": "https://artifactory-gdt.central-01.nextgen.igrupobbva/artifactory/gl-datio-spark-libs-maven-local/com/bbva/c360_datio_generic_config/0.3.0/com/datiodb/smartcleaner/borrado_stg.conf",
+        "mainClass": "com.bbva.projectsdatio.pocsmodeloseguridad.smartcleaner.SmartCleaner",
+        "sparkHistoryEnabled": "false"
+    },
+    "env": {
+        "time_amount": "7",
+        "input_path": "/in/staging/datax/kfcm/t_kfcm_feedback_forms/",
+        "frequency": "D",
+        "is_directory": "true"
+    },
+    "tags": [
+        "modeloglobal",
+        "gdh",
+        "c360",
+        "smartcleaner",
+        "stg"
+    ]
+}

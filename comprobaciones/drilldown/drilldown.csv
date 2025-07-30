@@ -1,0 +1,41 @@
+ids;drilldown;tablas;ID RULE;Drilldown;DEFINITION PERIOD
+279d4f3973;['g_holding_group_id', 'gf_year_id'];t_b0hn_sust_group_mark;279d4f3973;g_holding_group_id, gf_year_id;2Q24
+279d4f39d7;['g_holding_group_id', 'gf_year_id'];t_b0hn_sust_group_mark;279d4f39d7;g_holding_group_id, gf_year_id;2Q24
+280e9e0ec0;['g_country_id'];t_g5m3_sust_mob_operations_cib;280e9e0ec0;g_country_id;2Q24
+280e9d906c;['gf_source_system_sust_type'];t_g5m3_sust_mob_operations_cib;280e9d906c;gf_source_system_sust_type;2Q24
+27d5f10d85;['gf_contract_branch_id'];t_kceg_agg_balances;27d5f10d85;gf_contract_branch_id;1Q24
+27cabb040b;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_cmpny_crbn_data;27cabb040b;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0475;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_cmpny_crbn_data;27cabb0475;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb04cd;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_cmpny_crbn_data;27cabb04cd;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0536;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_cmpny_crbn_data;27cabb0536;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0595;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_cmpny_crbn_data;27cabb0595;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0638;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_cmpny_crbn_data;27cabb0638;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb069b;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_cmpny_crbn_data;27cabb069b;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0703;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_cmpny_crbn_data;27cabb0703;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0769;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_cmpny_crbn_data;27cabb0769;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb07d1;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_cmpny_crbn_data;27cabb07d1;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb083e;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_crbn_data_scp3;27cabb083e;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb08a2;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_crbn_data_scp3;27cabb08a2;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0902;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_crbn_data_scp3;27cabb0902;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb095d;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_crbn_data_scp3;27cabb095d;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb09d0;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_crbn_data_scp3;27cabb09d0;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0a33;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_crbn_data_scp3;27cabb0a33;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0a97;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_crbn_data_scp3;27cabb0a97;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0b02;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_crbn_data_scp3;27cabb0b02;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0b68;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_crbn_data_scp3;27cabb0b68;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0bc4;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_crbn_data_scp3;27cabb0bc4;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0c24;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_paris_alignment;27cabb0c24;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0c85;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_paris_alignment;27cabb0c85;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0ce1;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_paris_alignment;27cabb0ce1;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0d38;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_paris_alignment;27cabb0d38;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+27cabb0d91;['g_holding_group_id', 'g_lst_annual_rpt_year_id'];t_l9ct_grp_clnt_paris_alignment;27cabb0d91;g_holding_group_id, g_lst_annual_rpt_year_id;2Q24
+279d4f3a3a;['g_holding_group_id', 'g_sp_year_id'];t_l9ct_grp_clnt_paris_alignment;279d4f3a3a;g_holding_group_id, g_sp_year_id ;2Q24
+279d4f3bf3;['g_holding_group_id', 'g_sp_year_id'];t_l9ct_grp_clnt_paris_alignment;279d4f3bf3;g_holding_group_id, g_sp_year_id ;2Q24
+279ff213a7;['g_holding_group_id', 'g_sp_year_id'];t_l9ct_grp_clnt_paris_alignment;279ff213a7;g_holding_group_id, g_sp_year_id ;2Q24
+279ff21415;['g_holding_group_id', 'g_sp_year_id'];t_l9ct_grp_clnt_paris_alignment;279ff21415;g_holding_group_id, g_sp_year_id ;2Q24
+279d4f3d36;['g_holding_group_id', 'g_sp_year_id'];t_l9ct_grp_clnt_paris_alignment;279d4f3d36;g_holding_group_id, g_sp_year_id ;2Q24
+279d4f3dc1;['g_holding_group_id', 'g_sp_year_id'];t_l9ct_grp_clnt_paris_alignment;279d4f3dc1;g_holding_group_id, g_sp_year_id ;2Q24
+27a36db5cf;['g_holding_group_id', 'g_sp_year_id'];t_l9ct_grp_clnt_paris_alignment;27a36db5cf;g_holding_group_id, g_sp_year_id ;2Q24
+279d4f3a9d;['g_holding_group_id', 'g_sp_year_id'];t_l9ct_grp_clnt_paris_alignment;279d4f3a9d;g_holding_group_id,g_sp_year_id ;2Q24
+27b5841b93;['gf_source_system_sust_type'];t_rzua_sust_operations_cib;27b5841b93;t_rzua_sust_operations_cib-gf_source_system_sust_type;2Q24
+27b5841c13;['g_country_id'];t_rzua_sust_operations_cib;27b5841c13;t_rzua_sust_operations_cib-g_country_id;2Q24

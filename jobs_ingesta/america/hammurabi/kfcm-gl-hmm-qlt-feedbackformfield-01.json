@@ -1,0 +1,24 @@
+{
+    "_id": "kfcm-gl-hmm-qlt-feedbackformfield-01",
+    "kind": "processing",
+    "description": "kfcm-gl-hmm-qlt-feedbackformfield-01",
+    "runtime": "hammurabi-lts",
+    "streaming": false,
+    "size": "S",
+    "params": {
+        "configUrl": "https://artifactory-gdt.central-02.nextgen.igrupobbva/artifactory/gl-datio-spark-libs-maven-local/com/bbva/gl/cs/360/gdh/inq/confs/kfcm/2.1.2/hammurabi/confs/master/kfcm/t_kfcm_feedback_form_field-qlm-kfcm_ext_mvpi.conf",
+        "sparkHistoryEnabled": "false"
+    },
+    "env": {
+        "XD_ENABLED": "True",
+        "myschemacountry": "xx",
+        "myschemaversionmaster": "latest"
+    },
+    "tags": [
+        "modeloglobal",
+        "gdh",
+        "c360",
+        "master",
+        "hammurabi"
+    ]
+}

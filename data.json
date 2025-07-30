@@ -1,0 +1,15 @@
+{
+    "description": " test",
+    "size": "XS",
+    "runtime": "hammurabi-lts",
+    "streaming": false,
+    "params": {
+        "configUrl": "https://artifactory-gdt.central-01.nextgen.igrupobbva/artifactory/gl-datio-spark-libs-maven-dev-local/com/datiobd/c360-hammurabi/99.9.9-PR-351-SNAPSHOT/entregable_hammurabi/L9CT/L9CT_grp-clnt-cmpny-crbn-data_CIB_MRField.conf",
+        "repoSecurity": "artifactory",
+        "sparkHistoryEnabled": "true",
+        "extraLibs": "https://artifactory-gdt.central-01.nextgen.igrupobbva/artifactory/gl-datio-spark-libs-maven-local/com/bbva/gdh/hammurabi-maxminfilter/1.2.0/hammurabi-maxminfilter-1.2.0-jar-with-dependencies.jar"
+    },
+    "env": {},
+    "tags": [],
+    "kind": "processing"
+}

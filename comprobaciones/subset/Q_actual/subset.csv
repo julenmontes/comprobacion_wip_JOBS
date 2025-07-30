@@ -1,0 +1,74 @@
+ids;subset;naming_set;tablas;ID RULE;Subset;DEFINITION PERIOD
+284c60dd7b;gf_vehicle_horse_power_ex1_number is not null;{'gf_vehicle_horse_power_ex1_number'};t_knfa_vehicles_center;284c60dd7b;Distinto de Null;1Q25
+GL_DOM_t_l9ct_client_paris_alignment_3.4_000;gf_company_ems_cyr_number is not null;{'gf_company_ems_cyr_number'};t_l9ct_client_paris_alignment;GL_DOM_t_l9ct_client_paris_alignment_3.4_000;Si el campo (gf_company_ems_cyr_number) es diferente a NULL;1Q25
+GL_DOM_t_l9ct_client_paris_alignment_3.4_001;gf_aligned_ems_cyr_number is not null;{'gf_aligned_ems_cyr_number'};t_l9ct_client_paris_alignment;GL_DOM_t_l9ct_client_paris_alignment_3.4_001;Si el campo (gf_aligned_ems_cyr_number) es diferente a NULL;1Q25
+GL_DOM_t_l9ct_client_paris_alignment_5.3_000;gf_ems_align_deg_cyr_number is not null;{'gf_ems_align_deg_cyr_number'};t_l9ct_client_paris_alignment;GL_DOM_t_l9ct_client_paris_alignment_5.3_000;Si el campo (gf_ems_align_deg_cyr_number) es diferente a NULL;1Q25
+2848d7cfac;g_holding_group_id is not null and g_holding_group_id != '';{'g_holding_group_id'};t_l9ct_gp_cust_ext_data_comp;2848d7cfac;La regla solo debe ejecutarse cuando el campo g_holding_group_id esté rellenado. ;1Q25
+282f87a1e3;g_green_bond_ind_type is not null;{'g_green_bond_ind_type'};t_l9ct_green_bonds_secty_flag;282f87a1e3;No debe aplicarse cuando el campo sea nulo.;1Q25
+282f87a2ed;g_eu_taxo_green_bond_ind_type is not null;{'g_eu_taxo_green_bond_ind_type'};t_l9ct_green_bonds_secty_flag;282f87a2ed;No debe aplicarse cuando el campo sea nulo.;1Q25
+282f87a42e;g_icma_stds_green_bnd_ind_type is not null;{'g_icma_stds_green_bnd_ind_type'};t_l9ct_green_bonds_secty_flag;282f87a42e;No debe aplicarse cuando el campo sea nulo.;1Q25
+282f87a0b4;g_esg_bond_type_id is not null;{'g_esg_bond_type_id'};t_l9ct_green_bonds_secty_flag;282f87a0b4;No debe aplicarse cuando el campo sea nulo.;1Q25
+GL_DOM_t_l9ct_grp_clnt_paris_alignment_3.4_000;gf_company_ems_cyr_number is not null;{'gf_company_ems_cyr_number'};t_l9ct_grp_clnt_paris_alignment;GL_DOM_t_l9ct_grp_clnt_paris_alignment_3.4_000;Si el campo (gf_company_ems_cyr_number) es diferente a NULL;1Q25
+GL_DOM_t_l9ct_grp_clnt_paris_alignment_3.4_001;gf_aligned_ems_cyr_number is not null;{'gf_aligned_ems_cyr_number'};t_l9ct_grp_clnt_paris_alignment;GL_DOM_t_l9ct_grp_clnt_paris_alignment_3.4_001;Si el campo (gf_aligned_ems_cyr_number) es diferente a NULL;1Q25
+GL_DOM_t_l9ct_grp_clnt_paris_alignment_5.3_000;gf_ems_align_deg_cyr_number is not null;{'gf_ems_align_deg_cyr_number'};t_l9ct_grp_clnt_paris_alignment;GL_DOM_t_l9ct_grp_clnt_paris_alignment_5.3_000;Si el campo (gf_ems_align_deg_cyr_number) es diferente a NULL;1Q25
+GL_DOM_t_l9ct_grp_nclnt_paris_alignment_3.4_000;gf_company_ems_cyr_number is not null;{'gf_company_ems_cyr_number'};t_l9ct_grp_nclnt_paris_alignment;GL_DOM_t_l9ct_grp_nclnt_paris_alignment_3.4_000;Si el campo (gf_company_ems_cyr_number) es diferente a NULL;1Q25
+GL_DOM_t_l9ct_grp_nclnt_paris_alignment_3.4_001;gf_aligned_ems_cyr_number is not null;{'gf_aligned_ems_cyr_number'};t_l9ct_grp_nclnt_paris_alignment;GL_DOM_t_l9ct_grp_nclnt_paris_alignment_3.4_001;Si el campo (gf_aligned_ems_cyr_number) es diferente a NULL;1Q25
+GL_DOM_t_l9ct_grp_nclnt_paris_alignment_5.3_000;gf_ems_align_deg_cyr_number is not null;{'gf_ems_align_deg_cyr_number'};t_l9ct_grp_nclnt_paris_alignment;GL_DOM_t_l9ct_grp_nclnt_paris_alignment_5.3_000;Si el campo (gf_ems_align_deg_cyr_number) es diferente a NULL;1Q25
+27b91e8524;gf_main_contact_type is not null and gf_main_contact_type != '';{'gf_main_contact_type'};t_re4m_physical_interaction;27b91e8524;Distinto de Null o vacío;1Q25
+28496418d7;g_sust_status_oper_type = 'SC' OR g_sust_status_oper_type = 'NC';{'gf_ctr_sustnbl_subcateg_per'};t_rzua_sust_operations_eod;28496418d7;Ejecutar la regla si el campo g_sust_status_oper_type está informado como SC o NC.;1Q25
+GL_DOM_t_rzua_sust_operations_eod_3.5_001;gf_sustainability_mark_id = 'C593' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_category_id'};t_rzua_sust_operations_eod;GL_DOM_t_rzua_sust_operations_eod_3.5_001;"gf_sustainability_mark_id igual a C593 y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_eod_3.5_002;gf_sustainability_mark_id = 'RBCR' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_category_id'};t_rzua_sust_operations_eod;GL_DOM_t_rzua_sust_operations_eod_3.5_002;"gf_sustainability_mark_id igual a RBCR y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_eod_3.5_003;gf_sustainability_mark_id = 'RBES' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_category_id'};t_rzua_sust_operations_eod;GL_DOM_t_rzua_sust_operations_eod_3.5_003;"gf_sustainability_mark_id igual a RBES y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_eod_3.5_004;gf_sustainability_mark_id = 'RBGR' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_category_id'};t_rzua_sust_operations_eod;GL_DOM_t_rzua_sust_operations_eod_3.5_004;"gf_sustainability_mark_id es igual a RBGR y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_eod_3.5_005;gf_sustainability_mark_id = 'RBOI' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_category_id'};t_rzua_sust_operations_eod;GL_DOM_t_rzua_sust_operations_eod_3.5_005;"gf_sustainability_mark_id es igual a RBOI y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_eod_3.5_006;gf_sustainability_mark_id = 'RBSO' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_category_id'};t_rzua_sust_operations_eod;GL_DOM_t_rzua_sust_operations_eod_3.5_006;"gf_sustainability_mark_id es igual a RBSO y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_eod_3.5_007;gf_sustainability_mark_id = 'C593' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_subcatg_id'};t_rzua_sust_operations_eod;GL_DOM_t_rzua_sust_operations_eod_3.5_007;"gf_sustainability_mark_id igual a C593 y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_eod_3.5_008;gf_sustainability_mark_id = 'RBCR' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_subcatg_id'};t_rzua_sust_operations_eod;GL_DOM_t_rzua_sust_operations_eod_3.5_008;"gf_sustainability_mark_id igual a RBCR y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_eod_3.5_009;gf_sustainability_mark_id = 'RBES' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_subcatg_id'};t_rzua_sust_operations_eod;GL_DOM_t_rzua_sust_operations_eod_3.5_009;"gf_sustainability_mark_id igual a RBES y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_eod_3.5_010;gf_sustainability_mark_id = 'RBGR' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_subcatg_id'};t_rzua_sust_operations_eod;GL_DOM_t_rzua_sust_operations_eod_3.5_010;"gf_sustainability_mark_id es igual a RBGR y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_eod_3.5_011;gf_sustainability_mark_id = 'RBOI' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_subcatg_id'};t_rzua_sust_operations_eod;GL_DOM_t_rzua_sust_operations_eod_3.5_011;"gf_sustainability_mark_id es igual a RBOI y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_eod_3.5_012;gf_sustainability_mark_id = 'RBSO' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_subcatg_id'};t_rzua_sust_operations_eod;GL_DOM_t_rzua_sust_operations_eod_3.5_012;"gf_sustainability_mark_id es igual a RBSO y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+2849639000;g_sust_status_oper_type = 'SC' OR g_sust_status_oper_type = 'NC';{'gf_ctr_sustnbl_subcateg_per'};t_rzua_sust_operations;2849639000;Ejecutar la regla si el campo g_sust_status_oper_type está informado como SC o NC.;1Q25
+GL_DOM_t_rzua_sust_operations_3.5_002;gf_sustainability_mark_id = 'C593' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_category_id'};t_rzua_sust_operations;GL_DOM_t_rzua_sust_operations_3.5_002;"gf_sustainability_mark_id igual a C593 y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_3.5_003;gf_sustainability_mark_id = 'RBCR' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_category_id'};t_rzua_sust_operations;GL_DOM_t_rzua_sust_operations_3.5_003;"gf_sustainability_mark_id igual a RBCR y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_3.5_004;gf_sustainability_mark_id = 'RBES' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_category_id'};t_rzua_sust_operations;GL_DOM_t_rzua_sust_operations_3.5_004;"gf_sustainability_mark_id igual a RBES y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_3.5_005;gf_sustainability_mark_id = 'RBGR' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_category_id'};t_rzua_sust_operations;GL_DOM_t_rzua_sust_operations_3.5_005;"gf_sustainability_mark_id es igual a RBGR y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_3.5_006;gf_sustainability_mark_id = 'RBOI' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_category_id'};t_rzua_sust_operations;GL_DOM_t_rzua_sust_operations_3.5_006;"gf_sustainability_mark_id es igual a RBOI y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_3.5_007;gf_sustainability_mark_id = 'RBSO' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_category_id'};t_rzua_sust_operations;GL_DOM_t_rzua_sust_operations_3.5_007;"gf_sustainability_mark_id es igual a RBSO y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_3.5_008;gf_sustainability_mark_id = 'C593' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_subcatg_id'};t_rzua_sust_operations;GL_DOM_t_rzua_sust_operations_3.5_008;"gf_sustainability_mark_id igual a C593 y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_3.5_009;gf_sustainability_mark_id = 'RBCR' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_subcatg_id'};t_rzua_sust_operations;GL_DOM_t_rzua_sust_operations_3.5_009;"gf_sustainability_mark_id igual a RBCR y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_3.5_010;gf_sustainability_mark_id = 'RBES' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_subcatg_id'};t_rzua_sust_operations;GL_DOM_t_rzua_sust_operations_3.5_010;"gf_sustainability_mark_id igual a RBES y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_3.5_011;gf_sustainability_mark_id = 'RBGR' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_subcatg_id'};t_rzua_sust_operations;GL_DOM_t_rzua_sust_operations_3.5_011;"gf_sustainability_mark_id es igual a RBGR y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_3.5_012;gf_sustainability_mark_id = 'RBOI' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_subcatg_id'};t_rzua_sust_operations;GL_DOM_t_rzua_sust_operations_3.5_012;"gf_sustainability_mark_id es igual a RBOI y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_3.5_013;gf_sustainability_mark_id = 'RBSO' and (date_format(gf_acquisition_sust_data_date, 'y M') = date_format('CUTOFF_DATE', 'y M'));{'gf_sustainability_subcatg_id'};t_rzua_sust_operations;GL_DOM_t_rzua_sust_operations_3.5_013;"gf_sustainability_mark_id es igual a RBSO y gf_acquisition_sust_data_date
+mismo mes que gf_cutoff_date";1Q25
+GL_DOM_t_rzua_sust_operations_3.5_015;g_sust_status_oper_type is not null and g_sust_status_oper_type != '';{'g_sust_status_oper_type'};t_rzua_sust_operations;GL_DOM_t_rzua_sust_operations_3.5_015;Si el campo (g_sust_status_oper_type) es distinto a NULL o vacío;1Q25
+GL_DOM_t_tdi3_communication_3.5_000;g_communication_purp_type is not null and g_communication_purp_type != '';{'g_communication_purp_type'};t_tdi3_communication;GL_DOM_t_tdi3_communication_3.5_000;Distinto de Null o vacío;1Q25
+GL_DOM_t_tdi3_communication_3.5_007;g_information_platform_type is not null and g_information_platform_type != '';{'g_information_platform_type'};t_tdi3_communication;GL_DOM_t_tdi3_communication_3.5_007;Distinto de Null o vacío;1Q25
+GL_DOM_t_tdi3_communication_3.5_011;g_cmun_always_on_ind_type != '' and g_cmun_always_on_ind_type is not null;{'g_cmun_always_on_ind_type'};t_tdi3_communication;GL_DOM_t_tdi3_communication_3.5_011;Distinto de Null o vacío;1Q25
+GL_DOM_t_tdi3_communication_3.5_012;g_cmun_product_category_type is not null and g_cmun_product_category_type != '';{'g_cmun_product_category_type'};t_tdi3_communication;GL_DOM_t_tdi3_communication_3.5_012;Distinto de Null o vacío;1Q25
+GL_DOL_t_tdi3_tracking_code_3.5_000;gf_tracking_code_comm_prd_type is not null and gf_tracking_code_comm_prd_type != '';{'gf_tracking_code_comm_prd_type'};t_tdi3_tracking_code;GL_DOL_t_tdi3_tracking_code_3.5_000;Distinto de Null o vacío;1Q25
+GL_DOM_t_tdi3_tracking_code_3.5_001;g_information_platform_type is not null and g_information_platform_type != '';{'g_information_platform_type'};t_tdi3_tracking_code;GL_DOM_t_tdi3_tracking_code_3.5_001;Distinto de Null o vacío;1Q25

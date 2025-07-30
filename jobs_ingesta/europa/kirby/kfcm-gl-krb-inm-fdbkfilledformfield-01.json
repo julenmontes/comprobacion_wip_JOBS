@@ -1,0 +1,26 @@
+{
+    "_id": "kfcm-gl-krb-inm-fdbkfilledformfield-01",
+    "kind": "processing",
+    "description": "kfcm-gl-krb-inm-fdbkfilledformfield-01",
+    "runtime": "kirby3-lts",
+    "streaming": false,
+    "size": "S",
+    "params": {
+        "configUrl": "https://artifactory-gdt.central-01.nextgen.igrupobbva/artifactory/gl-datio-spark-libs-maven-local/com/bbva/gl/cs/360/gdh/inq/confs/kfcm/2.1.2/kirby/confs/master/kfcm/t_kfcm_fdbk_filled_form_field-inm-stg_kfcm_ext.conf",
+        "sparkHistoryEnabled": "false"
+    },
+    "env": {
+        "XD_ENABLED": "True",
+        "myschemacountry": "xx",
+        "myschemaversionmaster": "latest",
+        "c360_compact": "true",
+        "mydbcatalog": "xx_master"
+    },
+    "tags": [
+        "modeloglobal",
+        "gdh",
+        "c360",
+        "master",
+        "kirby"
+    ]
+}

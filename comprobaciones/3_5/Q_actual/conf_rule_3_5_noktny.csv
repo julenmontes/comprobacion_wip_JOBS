@@ -1,0 +1,17 @@
+ids;naming_set;tablas;subset;datavaluespath;values;datavaluescolumn;datavaluessubset;ID RULE;CATALOG (TAXONOMY/STATIC) (3.5-6.1-6.10);Frequency of measurement;Subset;DEFINITION PERIOD;PUBLICATION DATE;STATUS DEVELOPMENT;STATUS IMPLANTATION;Parameters;datavaluespath_str
+285189036e;{'gf_opportunity_status_type'};t_kpan_oppy_status_trcblty;;['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;285189036e;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;;1Q25;Feb_2025;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
+27b91e8524;{'gf_main_contact_type'};t_re4m_physical_interaction;gf_main_contact_type is not null and gf_main_contact_type != '';['MASTERSCHEMA.CATALOG_TABLE_7'];;CATALOG_COLUMN_7;CATALOG_CODE_7;27b91e8524;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;1Q25;Feb_2025;FINISHED;DELIVERED;"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_7: Columna del catálogo local 
+     CATALOG_CODE_7: Filtrado del catálogo local
+     CATALOG_TABLE_7: Nombre de tabla local
+
+JOB EXTRALIBS:
+     extralibs: Link to custom repository";MASTERSCHEMA.CATALOG_TABLE_7
+GL_DOL_t_tdi3_tracking_code_3.5_000;{'gf_tracking_code_comm_prd_type'};t_tdi3_tracking_code;gf_tracking_code_comm_prd_type is not null and gf_tracking_code_comm_prd_type != '';['MASTERSCHEMA.CATALOG_TABLE_0'];;CATALOG_COLUMN_0;CATALOG_CODE_0;GL_DOL_t_tdi3_tracking_code_3.5_000;LOCAL: La definición del catálogo a usar dependerá del equipo de Gobierno local;Daily;Distinto de Null o vacío;1Q25;Feb_2025;FINISHED;DELIVERED;"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local";MASTERSCHEMA.CATALOG_TABLE_0
