@@ -1,2 +1,2 @@
-Nuevas reglas y modificaciones sobre las existentes, todo cambio está docuemntado en el WIp, version 16.1.2:
+Nuevas reglas y modificaciones sobre las existentes, todo cambio está docuemntado en el WIp, version 17.4.0:
 https://docs.google.com/spreadsheets/d/1aLELrHoXPwm8CSY2a6DN6DRqoIkruHQO37JrQcaZFNM/edit?gid=916179586#gid=916179586&fvid=1265875221
