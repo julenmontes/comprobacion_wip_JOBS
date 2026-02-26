@@ -1,0 +1,30 @@
+{
+    "jobName": "kszg-gl-dfs-rmv-trnsltybychannelstg-01",
+    "kind": "processing",
+    "description": "kszg-gl-dfs-rmv-trnsltybychannelstg-01",
+    "runtime": "spark:3.1",
+    "streaming": false,
+    "concurrency": 10,
+    "size": "S",
+    "params": {
+        "artifactUrl": "s3://ada-eu-south-2-core-live-artifacts/maven/com/bbva/projectsdatio/smartcleaner/1.0.2/smartcleaner-1.0.2-jar-with-dependencies.jar",
+        "metaConfig": "gl:kddc:gl-cs-360-gdh-ing:gl-cs-360-others_smartcleaner_confs_delete_stg-biz-filterByRegex:1.3.0",
+        "mainClass": "com.bbva.projectsdatio.pocsmodeloseguridad.smartcleaner.SmartCleaner",
+        "sparkHistoryEnabled": "false"
+    },
+    "env": {
+        "time_amount": "7",
+        "input_path": "/in/staging/datax/kszg/t_kszg_trnslty_by_channel/",
+        "frequency": "D",
+        "is_directory": "true",
+        "initial_expr": "EKSZG_D01",
+        "final_expr": "_trnslty_by_channel"
+    },
+    "tags": [
+        "modeloglobal",
+        "gdh",
+        "c360",
+        "smartcleaner",
+        "stg"
+    ]
+}

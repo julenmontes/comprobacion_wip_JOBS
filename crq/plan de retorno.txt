@@ -1,0 +1,1 @@
+Plan de retorno no necesario debido a que se implanta un software global en Holding que, en caso de fallo, se vuelve a una versión anterior en el job Dataproc.

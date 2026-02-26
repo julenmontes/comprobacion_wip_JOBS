@@ -1,0 +1,26 @@
+{
+    "jobName": "kszg-gl-krb-inm-trnsltybychannel-01",
+    "kind": "processing",
+    "description": "kszg-gl-krb-inm-trnsltybychannel-01",
+    "runtime": "kirby3-lts",
+    "streaming": false,
+    "size": "S",
+    "concurrency": 10,
+    "params": {
+        "metaConfig": "gl:kszg:gl-cs-360-gdh-inq:t_kszg_trnslty_by_channel-inm-stg_kceg_int.conf:0.1.0",
+        "sparkHistoryEnabled": "false"
+    },
+    "env": {
+        "XD_ENABLED": "true",
+        "myschemacountry": "xx",
+        "myschemaversionmaster": "latest",
+        "c360_compact": "true"
+    },
+    "tags": [
+        "modeloglobal",
+        "gdh",
+        "c360",
+        "master",
+        "kirby"
+    ]
+}

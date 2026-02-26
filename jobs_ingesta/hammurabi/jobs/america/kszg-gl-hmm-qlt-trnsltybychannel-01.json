@@ -1,0 +1,25 @@
+{
+    "jobName": "kszg-gl-hmm-qlt-trnsltybychannel-01",
+    "kind": "processing",
+    "description": "kszg-gl-hmm-qlt-trnsltybychannel-01",
+    "runtime": "hammurabi-lts",
+    "streaming": false,
+    "size": "S",
+    "concurrency": 10,
+    "params": {
+        "metaConfig": "gl:kszg:gl-cs-360-gdh-inq:t_kszg_trnslty_by_channel-qls-mvpi.conf:0.1.0",
+        "sparkHistoryEnabled": "false"
+    },
+    "env": {
+        "XD_ENABLED": "true",
+        "myschemacountry": "xx",
+        "myschemaversionmaster": "latest"
+    },
+    "tags": [
+        "modeloglobal",
+        "gdh",
+        "c360",
+        "master",
+        "hammurabi"
+    ]
+}
