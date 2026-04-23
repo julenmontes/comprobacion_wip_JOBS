@@ -6434,7 +6434,7 @@ TRUE,FALSE,t_l9ct_co_asset_rel_emissions,4Q25,https://jira.globaldevtools.bbva.c
 TRUE,FALSE,,,,L9CT_co-asset-rel-emissions_L9CT_esg-ext-data-companies_MMRule.conf,N/A,l9ct-gl-hmm-qlt-coasstrelems-03,l9ct-gl-hmm-qlt-coasstrelems-03-iIfUD3VDmchlGV5,,MArcos LEon
 TRUE,FALSE,,,,L9CT_co-asset-rel-emissions_MRField.conf,N/A,l9ct-gl-hmm-qlt-coasstrelems-01,l9ct-gl-hmm-qlt-coasstrelems-01-w3xBFPugIPlBtsg,,MArcos LEon
 TRUE,FALSE,,,,L9CT_co-asset-rel-emissions_MRObject.conf,N/A,l9ct-gl-hmm-qlt-coasstrelems-02,l9ct-gl-hmm-qlt-coasstrelems-02-AtuXolLGlIbsENG,,MArcos LEon
-TRUE,TRUE,t_l9ct_bk_supp_prch_g_svc_s3_ems,3Q25,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-3754,28efb4ba0e,"----> -------------------------------
+TRUE,TRUE,t_l9ct_bk_supp_prch_g_svc_s3_ems,4Q25,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-3754,28efb4ba0e,"----> -------------------------------
 ----> Rule: 3.4 (com.datio.hammurabi.rules.validity.DynamicCatalogRule)
 ----> Subset: None
 ----> Physical field: gf_emissions_number
@@ -6448,7 +6448,7 @@ TRUE,TRUE,t_l9ct_bk_supp_prch_g_svc_s3_ems,3Q25,https://jira.globaldevtools.bbva
 ----> Acceptance Min: None
 ----> Final status: Passed
 ----> -------------------------------",l9ct-gl-hmm-qlt-bksuppprchgsvcs3ems-01,l9ct-gl-hmm-qlt-coassetrelemissions-02-jBqRoRYa8M1JGXt,,Egoitz Lopez
-TRUE,TRUE,t_kceg_principality_score,3Q25,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-3752,28f345223c,"######                          DATA QUALITY RESULTS                          ########
+TRUE,TRUE,t_kceg_principality_score,4Q25,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-3752,28f345223c,"######                          DATA QUALITY RESULTS                          ########
 ########################################################################################
 --> DATASET
 ----> ObjectPath: Some(/data/master/kceg/data/t_kceg_principality_score)
@@ -9981,181 +9981,2639 @@ TRUE,TRUE,t_l9ct_subs_companies,4Q25,https://jira.globaldevtools.bbva.com/browse
 ########                             END OF RESULTS                             ########
 ########################################################################################
 
-Process finished with exit code 0",l9ct-gl-hmm-qlt-subscompanies-01,l9ct-gl-hmm-qlt-subscompanies-01-ngtSQhFO665dEMU,,Marcos Leon
+Process finished with exit code 0
+",l9ct-gl-hmm-qlt-subscompanies-01,l9ct-gl-hmm-qlt-subscompanies-01-ngtSQhFO665dEMU,,Marcos Leon
 TRUE,TRUE,,,,292127e6f3,,,,,Marcos Leon
 TRUE,TRUE,,,,292127e7cc,,,,,Marcos Leon
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
-FALSE,FALSE,,,,,,,,,
+TRUE,TRUE,t_kpan_mobility_partner_oppy,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4422,2924b75272,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kpan/data/t_kpan_mobility_partner_oppy)
+----> PhysicalObject: t_kpan_mobility_partner_oppy
+----> UUAA: g5m3
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2025-12-30 15:32:50.271
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_entific_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_data_source_origin_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_entific_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_data_source_origin_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+",kpan-gl-hmm-qlt-mobilitypartneroppy-01-0yoRA57mfXJkmwk,kpan-gl-hmm-qlt-mobilitypartneroppy-01-OsVSVuxv1tIaAkR,,Marcos Leon
+TRUE,TRUE,,,,2924b75387,,,,,Marcos Leon
+TRUE,TRUE,,,,2924b75482,,,,,Marcos Leon
+TRUE,TRUE,,,,2924b7557d,,,,,Marcos Leon
+TRUE,TRUE,t_kfcm_fdbk_saturation_rules,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4429,292633e355,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kfcm/data/t_kfcm_fdbk_saturation_rules)
+----> PhysicalObject: t_kfcm_fdbk_saturation_rules
+----> UUAA: kfcm
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-02-02 10:31:53.381
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_data_source_origin_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_data_source_origin_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+",kfcm-gl-hmm-qlt-fdbksaturationrules-01,kfcm-gl-hmm-qlt-fdbksaturationrules-01-3e8gETj25cOF4gQ,,Julen Montes
+TRUE,TRUE,,,,292633e44c,,,,,Julen Montes
+TRUE,TRUE,t_re4m_agent_worker_map,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4512,293015cd3d,"########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/re4m/data/t_re4m_agent_worker_map)
+----> PhysicalObject: t_re4m_agent_worker_map
+----> UUAA: re4m
+----> Subset: Some(gf_cutoff_date='1997-01-01')
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-01-22 09:09:53.347
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_country_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: gf_agent_user_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_country_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_agent_user_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################",re4m-gl-hmm-qlt-agentworkermap-01,re4m-gl-hmm-qlt-agentworkermap-01-JtedgLOsrjZk7gT,,Marcos Leon
+TRUE,TRUE,,,,293015ce44,,,,,Marcos Leon
+TRUE,TRUE,,,,293015cf37,,,,,Marcos Leon
+TRUE,TRUE,,,,293015d08a,,,,,Marcos Leon
+TRUE,TRUE,,,,293015d17e,,,,,Marcos Leon
+TRUE,TRUE,t_l9ct_grp_cs_co_tx_align_sctr_r,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4531,28bd1439bc ,NA,l9ct-gl-hmm-qlt-grpcscotxalignsctrr-01,l9ct-gl-hmm-qlt-grpcscotxalignsctrr-01-ANYj97BgEtGTPW4,,Marcos Leon
+TRUE,TRUE,,,,28bd1438a3 ,,,,,Marcos Leon
+TRUE,TRUE,,,,28bd143674 ,,,,,Marcos Leon
+TRUE,TRUE,t_g5m3_sust_mob_operations,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4573,2934a87d0a,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/g5m3/data/t_g5m3_sust_mob_operations)
+----> PhysicalObject: t_g5m3_sust_mob_operations
+----> UUAA: g5m3
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-01-30 12:18:16.646
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_entity_id
+----> Is Critical: false
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_entity_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################",g5m3-gl-hmm-qlt-sustmoboperations-01,g5m3-gl-hmm-qlt-sustmoboperations-01-0lmBArwljJfFkB3,,Marcos Leon
+TRUE,TRUE,,,,2934a87e06,,,,,Marcos Leon
+TRUE,TRUE,,,,GL_STR_t_g5m3_sust_mob_operations_4.2_000,,,,,Marcos Leon
+TRUE,TRUE,t_g5m3_sust_mob_operations_eod,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4575,2934a87f14,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/g5m3/data/t_g5m3_sust_mob_operations_eod)
+----> PhysicalObject: t_g5m3_sust_mob_operations_eod
+----> UUAA: g5m3
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-01-30 12:28:43.054
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_entity_id
+----> Is Critical: false
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_entity_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+",g5m3-gl-hmm-qlt-sustmoboperationseod-01,g5m3-gl-hmm-qlt-sustmoboperationseod-01-MMchAe3YxIkqcag,,Marcos Leon
+TRUE,TRUE,,,,2934a8802d,,,,,Marcos Leon
+TRUE,TRUE,,,,277e947ac7,,,,,Marcos Leon
+TRUE,TRUE,t_kstb_sust_operations_board,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4577,2936390de5,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kstb/data/t_kstb_sust_operations_board)
+----> PhysicalObject: t_kstb_sust_operations_board
+----> UUAA: kstb
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-02-03 10:48:43.054
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: gf_source_system_sust_type
+----> Is Critical: false
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_source_system_sust_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+",kstb-gl-hmm-qlt-sustoperationsboard-01,kstb-gl-hmm-qlt-sustoperationsboard-01-Shu7ymSkmlzxfBR,,Marcos Leon
+TRUE,TRUE,,,,2936390efb,,,,,Marcos Leon
+TRUE,TRUE,,,,GL_STR_t_kstb_sust_operations_board_4.2_000,,,,,Marcos Leon
+TRUE,TRUE,t_scat_sustainability_master,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4618,2841242c13 ,NA,scat-gl-hmm-qlt-sustainabilitymaster-01,scat-gl-hmm-qlt-sustainabilitymaster-01-VnkbfVmABY7fUJi,,Marcos Leon
+TRUE,TRUE,,,,GL_DOM_t_scat_sustainability_master_3.4_000 ,,,,,Marcos Leon
+TRUE,TRUE,,,,GL_DOM_t_scat_sustainability_master_3.4_001 ,,,,,Marcos Leon
+TRUE,TRUE,t_kpan_opportunity,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4714,"KPAN_opportunity_NM7R_lead_MMRule.conf
+",NA,kpan-gl-hmm-qlt-oppnm7r-01,kpan-gl-hmm-qlt-oppnm7r-01-pOv2iVd6WMk8rpk,,Marcos Leon
+TRUE,TRUE,,,,KPAN_opportunity_MRObject.conf,,kpan-gl-hmm-qlt-opportunityobject-01,kpan-gl-hmm-qlt-opportunityobject-01-Sshoji6VVPDkfsm,,Marcos Leon
+TRUE,TRUE,,,,KPAN_opportunity_KCOG_entity_MMRule.conf,,kpan-gl-hmm-qlt-oppkcog-01,kpan-gl-hmm-qlt-oppkcog-01-KOOf3zkUgjTnsTF,,Marcos Leon
+TRUE,TRUE,,,,KPAN_opportunity_MRField,,kpan-gl-hmm-qlt-opportunity-01,kpan-gl-hmm-qlt-opportunity-01-qdXnex8aCia3qhu,,Marcos Leon
+TRUE,TRUE,t_kctd_information_application,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4749,293bda2523,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kctd/data/t_kctd_information_application)
+----> PhysicalObject: t_kctd_information_application
+----> UUAA: kctd
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-02-16 13:17:07.951
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_attributed_event_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_attributed_event_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+",kctd-gl-hmm-qlt-informapplication-01,kctd-gl-hmm-qlt-informapplication-01-WBdTGyME16B4i5V,,Marcos Leon
+TRUE,TRUE,,,,293bda262e,,,,,Marcos Leon
+TRUE,TRUE,,,,GL_STR_t_kctd_information_application_4.2_000,,,,,Marcos Leon
+TRUE,TRUE,t_kctd_attributions,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4751,293bda273f,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kctd/data/t_kctd_attributions)
+----> PhysicalObject: t_kctd_attributions
+----> UUAA: kctd
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-02-16 13:32:01.421
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_attributed_event_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_attributed_event_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+
+
+",kctd-gl-hmm-qlt-attributionss-01,kctd-gl-hmm-qlt-attributionss-01-ZrGWdgRJJLJjAcQ,,Marcos Leon
+TRUE,TRUE,,,,293bda282e,,,,,Marcos Leon
+TRUE,TRUE,,,,GL_STR_t_kctd_attributions_4.2_000,,,,,Marcos Leon
+TRUE,TRUE,t_kctd_ip_device,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4753,293bda2d4b,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kctd/data/t_kctd_ip_device)
+----> PhysicalObject: t_kctd_ip_device
+----> UUAA: kctd
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-02-16 14:12:11.521
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_attributed_event_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_attributed_event_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+
+
+",kctd-gl-hmm-qlt-ipdevice-01,kctd-gl-hmm-qlt-ipdevice-01-D79fpw62L9abUXQ,,Marcos Leon
+TRUE,TRUE,,,,293bda2e4b,,,,,Marcos Leon
+TRUE,TRUE,,,,GL_STR_t_kctd_ip_device_4.2_000,,,,,Marcos Leon
+TRUE,TRUE,t_kctd_event_information,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4755,293bda2f3d,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kctd/data/t_kctd_event_information)
+----> PhysicalObject: t_kctd_event_information
+----> UUAA: kctd
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-02-16 14:22:54.325
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_attributed_event_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_attributed_event_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+
+",kctd-gl-hmm-qlt-eventinformationn-01,kctd-gl-hmm-qlt-eventinformationn-01-2Qk9G74iqbtyT8I,,Marcos Leon
+TRUE,TRUE,,,,293bda3037,,,,,Marcos Leon
+TRUE,TRUE,,,,GL_STR_t_kctd_event_information_4.2_000,,,,,Marcos Leon
+TRUE,TRUE,t_kctd_device_information,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4757,293bda3125,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kctd/data/t_kctd_device_information)
+----> PhysicalObject: t_kctd_device_information
+----> UUAA: kctd
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-02-16 14:26:27.447
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_attributed_event_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_attributed_event_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+
+",kctd-gl-hmm-qlt-devicelocation-01,kctd-gl-hmm-qlt-devicelocation-01-3JdshHuT0vdzHwZ,,Marcos Leon
+TRUE,TRUE,,,,293bda321a,,,,,Marcos Leon
+TRUE,TRUE,,,,GL_STR_t_kctd_device_information_4.2_000,,,,,Marcos Leon
+TRUE,TRUE,t_kctd_device_location,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4759,293bda3308,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kctd/data/t_kctd_device_location)
+----> PhysicalObject: t_kctd_device_location
+----> UUAA: kctd
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-02-16 14:46:17.877
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_attributed_event_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_attributed_event_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+
+
+",kctd-gl-hmm-qlt-devicelocationn-01,kctd-gl-hmm-qlt-devicelocationn-01-F6l2miMCPk8ntwv,,Marcos Leon
+TRUE,TRUE,,,,293bda3401,,,,,Marcos Leon
+TRUE,TRUE,,,,GL_STR_t_kctd_device_location_4.2_000,,,,,Marcos Leon
+TRUE,TRUE,t_katc_burned_collections,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4782,293e6fc0c1,"########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/katc/data/t_katc_burned_collections)
+----> PhysicalObject: t_katc_burned_collections
+----> UUAA: katc
+----> Subset: Some(gf_cutoff_date='1997-01-01')
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-02-18 12:11:31.31
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_data_source_origin_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_entity_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_customer_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_collection_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_space_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_data_source_origin_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_entity_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_customer_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_collection_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_space_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field:
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################",katc-gl-hmm-qlt-burnedcollections-01,katc-gl-hmm-qlt-burnedcollections-01-JqJ0TgC20BoX0r4,,Marcos Leon
+TRUE,TRUE,,,,293e6fc144,,,,,Marcos Leon
+TRUE,TRUE,,,,293e6fc1da,,,,,Marcos Leon
+TRUE,TRUE,,,,293e6fc268,,,,,Marcos Leon
+TRUE,TRUE,,,,293e6fc2ee,,,,,Marcos Leon
+TRUE,TRUE,,,,293e6fc385,,,,,Marcos Leon
+TRUE,TRUE,,,,293e6fc412,,,,,Marcos Leon
+TRUE,TRUE,,,,293e6fc4a2,,,,,Marcos Leon
+TRUE,TRUE,,,,293e6fc524,,,,,Marcos Leon
+TRUE,TRUE,,,,293e6fc5b9,,,,,Marcos Leon
+TRUE,TRUE,,,,293e6fc641,,,,,Marcos Leon
+TRUE,TRUE,t_g5m3_agg_mlzed_amount,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4767,G5M3_agg-mlzed-amount_MRField.conf,NA,g5m3-gl-hmm-qlt-aggmzedamonunt-01,g5m3-gl-hmm-qlt-aggmzedamonunt-01-LuVEsQWrJ3gp8dP,,Julen Montes
+TRUE,TRUE,,,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4767,G5M3_agg-mlzed-amount_SCAT_sustainability-hierarch_MMRule.conf,NA,g5m3-gl-hmm-qlt-aggmlzedamount-02,g5m3-gl-hmm-qlt-aggmlzedamount-02-g0j4JUyReOxKNkm,,Julen Montes
+TRUE,TRUE,t_kceg_group_principality_score,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4841,29418928af,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kpan/data/t_kceg_group_principality_score)
+----> PhysicalObject: t_kceg_group_principality_score
+----> UUAA: kceg
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-02-24 12:31:08.97
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_entity_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: gf_model_version_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_business_entity_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_business_entity_ind_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_currency_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_entity_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_model_version_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_business_entity_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_business_entity_ind_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_currency_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0",kceg-gl-hmm-qlt-groupprincpscore-01,kceg-gl-hmm-qlt-groupprincpscore-01-LLeBy62gaeksbd5,,Marcos Leon
+TRUE,TRUE,,,,2941892941,,,,,Marcos Leon
+TRUE,TRUE,,,,29418929ca,,,,,Marcos Leon
+TRUE,TRUE,,,,2941892a55,,,,,Marcos Leon
+TRUE,TRUE,,,,2941892ae1,,,,,Marcos Leon
+TRUE,TRUE,,,,2941892b6c,,,,,Marcos Leon
+TRUE,TRUE,,,,2941892bf8,,,,,Marcos Leon
+TRUE,TRUE,,,,2941892c7c,,,,,Marcos Leon
+TRUE,TRUE,,,,2941892d0f,,,,,Marcos Leon
+TRUE,TRUE,,,,2941892d98,,,,,Marcos Leon
+TRUE,TRUE,,,,2941892e1a,,,,,Marcos Leon
+TRUE,TRUE,t_kceg_principality_score,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4843,28f34520a8,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kpan/data/t_kceg_principality_score)
+----> PhysicalObject: t_kceg_principality_score
+----> UUAA: kceg
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-02-24 12:35:02.632
+--> RESULTS
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+",kceg-gl-hmm-qlt-principalityscore-01,kceg-gl-hmm-qlt-principalityscore-01-7ruKM8LYylBlqv7,,Marcos Leon
+TRUE,TRUE,t_kstb_sust_operations_board_cib,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4875,29420a1dbc,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kstb/data/t_kstb_sust_operations_board_cib)
+----> PhysicalObject: t_kstb_sust_operations_board_cib
+----> UUAA: kstb
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-02-25 10:46:18.357
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: gf_source_system_sust_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_source_system_sust_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0",kstb-gl-hmm-qlt-sustoperationsboardcib-01,kstb-gl-hmm-qlt-sustoperationsboardcib-01-YGQiDAGCPUmsT7Z,,Marcos Leon
+TRUE,TRUE,,,,29420a1e4b,,,,,Marcos Leon
+TRUE,TRUE,,,,2889405ea4,,,,,Marcos Leon
+TRUE,TRUE,t_g5m3_agg_mlzed_amount,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4886,2944a8da05,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/g5m3/data/t_g5m3_agg_mlzed_amount)
+----> PhysicalObject: t_g5m3_agg_mlzed_amount
+----> UUAA: g5m3
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-03-02 15:21:48.458
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_customer_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_customer_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0",g5m3-gl-hmm-qlt-aggmzedamonunt-01,g5m3-gl-hmm-qlt-aggmzedamonunt-01-phkdBiBYSp5NxVJ,,Marcos Leon
+TRUE,TRUE,,,,2944a8da97,,,,,Marcos Leon
+TRUE,TRUE,,,,287b3bd19d,,,,,Marcos Leon
+TRUE,TRUE,t_kszg_trnslty_by_channel,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4894,294537d1a2,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kszg/data/t_kszg_trnslty_by_channel)
+----> PhysicalObject: t_kszg_trnslty_by_channel
+----> UUAA: kszg
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-03-03 15:45:41.234
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: gf_specific_trans_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_specific_trans_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+",kszg-gl-hmm-qlt-trnsltybychannel-01,kszg-gl-hmm-qlt-trnsltybychannel-01-USuGa1W1GeUikuS,,Marcos Leon
+TRUE,TRUE,,,,294537d29a,,,,,Marcos Leon
+TRUE,TRUE,,,,GL_STR_t_kszg_trnslty_by_channel_4.2_000,,,,,Marcos Leon
+TRUE,TRUE,,,,DEL-GL_MVP_t_kszg_trnslty_by_channel_3.1_012,,,,,Marcos Leon
+TRUE,TRUE,,,,DEL-GL_MVP_t_kszg_trnslty_by_channel_3.2_012,,,,,Marcos Leon
+TRUE,TRUE,t_tlhr_complaints_claims,1Q26,NA,TLHR_complaints-claims_MRObject.conf,NA,tlhr-gl-hmm-qlt-complaintsclaimsobjct-01,tlhr-gl-hmm-qlt-complaintsclaimsobjct-01-p11BYBzDLDUQ1PM,,
+TRUE,TRUE,t_kszg_unavail_serv_cust,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4897,2945a6a5a5,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kszg/data/t_kszg_unavail_serv_cust)
+----> PhysicalObject: t_kszg_unavail_serv_cust
+----> UUAA: kszg
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-03-05 12:35:41.234
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_country_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: gf_access_channel_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: gf_aap_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_customer_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_customer_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_affected_operation_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_country_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_access_channel_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_aap_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_customer_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+",kszg-gl-hmm-qlt-unavailservcust-01,kszg-gl-hmm-qlt-unavailservcust-01-aUa4uhbLaaacizP,,Marcos Leon
+TRUE,TRUE,,,,2945a6a63a,,,,,Marcos Leon
+TRUE,TRUE,,,,2945a6a6c0,,,,,Marcos Leon
+TRUE,TRUE,,,,2945a6a75b,,,,,Marcos Leon
+TRUE,TRUE,,,,2945a6a855,,,,,Marcos Leon
+TRUE,TRUE,,,,2945a6a932,,,,,Marcos Leon
+TRUE,TRUE,,,,2945a6aa25,,,,,Marcos Leon
+TRUE,TRUE,,,,2945a6aabe,,,,,Marcos Leon
+TRUE,TRUE,,,,2945a6ab50,,,,,Marcos Leon
+TRUE,TRUE,,,,2945a6abf2,,,,,Marcos Leon
+TRUE,TRUE,,,,2945a6ac80,,,,,Marcos Leon
+TRUE,TRUE,t_kszg_cust_digital_access,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4899,2945a6acf8,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/kszg/data/t_kszg_cust_digital_access)
+----> PhysicalObject: t_kszg_cust_digital_access
+----> UUAA: kszg
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-03-05 12:37:44.125
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_country_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: gf_access_channel_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_access_channel_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_country_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0",kszg-gl-hmm-qlt-custdigacces-01,kszg-gl-hmm-qlt-custdigacces-01-D43kBNeI7wfMQCS,,Marcos Leon
+TRUE,TRUE,,,,2945a6ad9e,,,,,Marcos Leon
+TRUE,TRUE,,,,2945a6ae2a,,,,,Marcos Leon
+TRUE,TRUE,,,,2945a6aebc,,,,,Marcos Leon
+TRUE,TRUE,,,,2945a6afad,,,,,Marcos Leon
+TRUE,TRUE,t_kceg_customer_products,1Q26,NA,GL_STR_t_kceg_customer_products_4.3_002,NA,kceg-gl-hmm-qlt-customerproductseom-01,NA,,Aitor Garcia
+TRUE,TRUE,t_kcdg_graph_nodes,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5010,277e947aed,NA,kcdg-gl-hmm-qlt-graphnodes-02,kcdg-gl-hmm-qlt-graphnodes-02-C9fYq6p8QHhjj9d,,Marcos Leon
+TRUE,TRUE,t_g5m3_agg_mlzed_amount,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-4886,287b3bd0f4,NA,g5m3-gl-hmm-qlt-aggmzedamonunt-01,g5m3-gl-hmm-qlt-aggmzedamonunt-01-X7cBJZ50Sqfk8yQ,,Marcos Leon
+TRUE,TRUE,t_j7il_notification_type,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5029,294bd38eef,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/j7il/data/t_j7il_notification_type)
+----> PhysicalObject: t_j7il_notification_type
+----> UUAA: j7il
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-03-16 12:37:44.125
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_notification_type_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_notification_type_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0",j7il-gl-hmm-qlt-notificationtype-01,j7il-gl-hmm-qlt-notificationtype-01-4eWnucFRDHv3Np9,,Marcos Leon
+TRUE,TRUE,,,,294bd38f86,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd39010,,,,,Marcos Leon
+TRUE,TRUE,t_j7il_notifications,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5032,294bd3907c,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/j7il/data/t_j7il_notifications)
+----> PhysicalObject: t_j7il_notifications
+----> UUAA: j7il
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-03-16 12:45:33.178
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_notification_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_notification_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0",j7il-gl-hmm-qlt-notifications-01,j7il-gl-hmm-qlt-notifications-01-HzFiixKwgxA9YIB,,Marcos Leon
+TRUE,TRUE,,,,294bd39119,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd3919c,,,,,Marcos Leon
+TRUE,TRUE,t_j7il_email_notifications,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5034,294bd3920b,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/j7il/data/t_j7il_email_notifications)
+----> PhysicalObject: t_j7il_email_notifications
+----> UUAA: j7il
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-03-16 12:47:02.178
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_notification_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: gf_notification_user_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_notification_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_notification_user_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0",j7il-gl-hmm-qlt-emailnotifications-01,j7il-gl-hmm-qlt-emailnotifications-01-JvYrw5TlaOdJbhW,,Marcos Leon
+TRUE,TRUE,,,,294bd392a6,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd3932f,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd393da,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd39467,,,,,Marcos Leon
+TRUE,TRUE,t_j7il_push_notifications,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5036,294bd394de,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/j7il/data/t_j7il_push_notifications)
+----> PhysicalObject: t_j7il_push_notifications
+----> UUAA: j7il
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-03-16 12:49:42.147
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_notification_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_device_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_notification_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_device_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0",j7il-gl-hmm-qlt-pushnotifications-01,j7il-gl-hmm-qlt-pushnotifications-01-Ei28h9gpAlGAeMx,,Marcos Leon
+TRUE,TRUE,,,,294bd3957d,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd39610,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd396bd,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd3973d,,,,,Marcos Leon
+TRUE,TRUE,t_j7il_sms_notifications,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5039,294bd397a9,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/j7il/data/t_j7il_sms_notifications)
+----> PhysicalObject: t_j7il_sms_notifications
+----> UUAA: j7il
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-03-16 12:52:44.527
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_notification_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: gf_notification_user_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_notification_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_notification_user_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+",j7il-gl-hmm-qlt-smsnotifications-01,j7il-gl-hmm-qlt-smsnotifications-01-bzef6P9hRMeFtdh,,Marcos Leon
+TRUE,TRUE,,,,294bd39832,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd398ba,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd3993f,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd399c3,,,,,Marcos Leon
+TRUE,TRUE,t_j7il_webpush_notifications,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5041,294bd39a2e,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/j7il/data/t_j7il_webpush_notifications)
+----> PhysicalObject: t_j7il_webpush_notifications
+----> UUAA: j7il
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-03-16 12:53:44.527
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_notification_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: gf_web_app_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_notification_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_web_app_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+
+",j7il-gl-hmm-qlt-webpushnotifications-01,j7il-gl-hmm-qlt-webpushnotifications-01-yyxeug75Ndv7DM0,,Marcos Leon
+TRUE,TRUE,,,,294bd39abc,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd39b41,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd39bc9,,,,,Marcos Leon
+TRUE,TRUE,,,,294bd39c4f,,,,,Marcos Leon
+TRUE,FALSE,t_kszg_trnslty_by_channel,1Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5149,KSZG_trnslty-by-channel_MRField.conf,NA,kszg-gl-hmm-qlt-trnsltybychannel-01,kszg-gl-hmm-qlt-trnsltybychannel-01-g2woPTwTPEdwdB5,,Marcos Leon
+TRUE,FALSE,,,,KSZG_trnslty-by-channel_MRObject.conf,NA,kszg-gl-hmm-qlt-trnsltybychannelobject-01,kszg-gl-hmm-qlt-trnsltybychannelobject-01-xUsoBKuLrdYXvIo,,Marcos Leon
+TRUE,FALSE,,,,KSZG_trnslty-by-channel_KCOG_entity_MMRule.conf,NA,kszg-gl-hmm-qlt-trnsltybychannelkcog-01,kszg-gl-hmm-qlt-trnsltybychannelkcog-01-K7JNT66T9SRG78b,,Marcos Leon
+TRUE,FALSE,,,,DEL-KSZG_trnslty-by-channel_KCOG_country_MMRule.conf,NA,NA,NA,,Marcos Leon
+TRUE,FALSE,,,,DEL-KSZG_trnslty-by-channel_YH2J_gbl-product-hier-master_MMRule.conf,NA,NA,NA,,Marcos Leon
+TRUE,TRUE,t_b0hn_toolkit_esg_strategy,2Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5169,295ac04247,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/b0hn/data/t_b0hn_toolkit_esg_strategy)
+----> PhysicalObject: t_b0hn_toolkit_esg_strategy
+----> UUAA: b0hn
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-04-15 10:53:44.527
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_holding_group_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_holding_group_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0",b0hn-gl-hmm-qlt-toolkitesgstratgy-01,b0hn-gl-hmm-qlt-toolkitesgstratgy-01-QZ2NR59yMFbhp6S,,Marcos Leon
+TRUE,TRUE,,,,295ac042eb,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac04387,,,,,Marcos Leon
+TRUE,TRUE,t_b0hn_toolkit_ems_metric_target,2Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5171,295ac043f8,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/b0hn/data/t_b0hn_toolkit_ems_metric_target)
+----> PhysicalObject: t_b0hn_toolkit_ems_metric_target
+----> UUAA: b0hn
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-04-15 10:56:47.127
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_holding_group_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: gf_info_origin_source_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_holding_group_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_info_origin_source_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0",b0hn-gl-hmm-qlt-emsmetrictarget-01,b0hn-gl-hmm-qlt-emsmetrictarget-01-scsSglJpL4zfdLh,,Marcos Leon
+TRUE,TRUE,,,,295ac04494,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac0452c,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac045bd,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac04648,,,,,Marcos Leon
+TRUE,TRUE,t_b0hn_toolkit_esg_top_5_geo,2Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5177,295ac046b3,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/b0hn/data/t_b0hn_toolkit_esg_top_5_geo)
+----> PhysicalObject: t_b0hn_toolkit_esg_top_5_geo
+----> UUAA: b0hn
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-04-15 10:58:14.548
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_holding_group_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_country_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_activity_per_parameter_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_holding_group_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_country_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_activity_per_parameter_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0",b0hn-gl-hmm-qlt-esgtop5geo-01,b0hn-gl-hmm-qlt-esgtop5geo-01-GnFFSJDZD5STf22,,Marcos Leon
+TRUE,TRUE,,,,295ac0474a,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac047e2,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac04871,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac04904,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac0499c,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac04a24,,,,,Marcos Leon
+TRUE,TRUE,t_b0hn_toolkit_esg_general_data,2Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5173,295ac04a97,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/b0hn/data/t_b0hn_toolkit_esg_general_data)
+----> PhysicalObject: t_b0hn_toolkit_esg_general_data
+----> UUAA: b0hn
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-04-15 11:02:14.214
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_holding_group_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_holding_group_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0",b0hn-gl-hmm-qlt-esggeneraldata-01,b0hn-gl-hmm-qlt-esggeneraldata-01-J0kenk9NadEwyuM,,Marcos Leon
+TRUE,TRUE,,,,295ac04b20,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac04bac,,,,,Marcos Leon
+TRUE,TRUE,t_b0hn_toolkit_esg_rating,2Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5167,295ac04c16,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/b0hn/data/t_b0hn_toolkit_esg_rating)
+----> PhysicalObject: t_b0hn_toolkit_esg_rating
+----> UUAA: b0hn
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-04-15 10:59:24.384
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_holding_group_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_information_source_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_rating_dimension_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_holding_group_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_holding_group_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_rating_dimension_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0",b0hn-gl-hmm-qlt-toolkitesgrating-01,b0hn-gl-hmm-qlt-toolkitesgrating-01-xMuMZXH7snByHqd,,Marcos Leon
+TRUE,TRUE,,,,295ac04ca3,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac04d30,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac04dba,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac04e61,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac04f04,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac04f9f,,,,,Marcos Leon
+TRUE,TRUE,t_b0hn_toolkit_esg_sector,2Q26,https://jira.globaldevtools.bbva.com/browse/DECSCLIENT-5175,295ac0500b,"########################################################################################
+########                          DATA QUALITY RESULTS                          ########
+########################################################################################
+--> DATASET
+----> ObjectPath: Some(/data/master/b0hn/data/t_b0hn_toolkit_esg_sector)
+----> PhysicalObject: t_b0hn_toolkit_esg_sector
+----> UUAA: b0hn
+----> Subset: None
+----> FrequencyRuleExecution: None
+----> Dataset size: 8 rows
+----> Data date: 1997-01-01
+----> Execution date: 2026-04-15 10:59:24.384
+--> RESULTS
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_holding_group_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_economic_actvy_sector_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: g_economic_activity_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.1 (com.datio.hammurabi.rules.validity.NotNullValidationRule)
+----> Subset: None
+----> Physical field: gf_sustainability_metric_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_holding_group_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_economic_actvy_sector_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: g_economic_activity_type
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 3.2 (com.datio.hammurabi.rules.validity.FormatValidationRule)
+----> Subset: None
+----> Physical field: gf_sustainability_metric_id
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+----> Rule: 4.2 (com.datio.hammurabi.rules.consistence.DuplicateRule)
+----> Subset: None
+----> Physical field: 
+----> Is Critical: true
+----> DrillDown: Some()->Some()
+----> MinimumThreshold: None
+----> TargetThreshold: None
+----> Passed records: 8 
+----> Total records affected: 8
+----> Compliance percentage: 100.0
+----> Acceptance Min: None
+----> Final status: Passed
+----> -------------------------------
+########################################################################################
+########                             END OF RESULTS                             ########
+########################################################################################
+
+Process finished with exit code 0
+",b0hn-gl-hmm-qlt-toolkitesgsector-01,b0hn-gl-hmm-qlt-toolkitesgsector-01-8u1sLLDqrabxYxT,,Marcos Leon
+TRUE,TRUE,,,,295ac05099,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac0512b,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac051f0,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac05278,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac0530a,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac0538e,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac0541b,,,,,Marcos Leon
+TRUE,TRUE,,,,295ac054a5,,,,,Marcos Leon
 FALSE,FALSE,,,,,,,,,
 FALSE,FALSE,,,,,,,,,
 FALSE,FALSE,,,,,,,,,

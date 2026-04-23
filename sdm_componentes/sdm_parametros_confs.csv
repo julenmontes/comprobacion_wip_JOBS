@@ -104,41 +104,36 @@ FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"CUTOFF_DATE: Date of the data
 OPERATION_DATE: Date of the data without hyphen","CUTOFF_DATE, OPERATION_DATE"
-t_b0hn_toolkit_esg_group_output,B0HN_toolkit-esg-group-output_MRField.conf,DELIVERED,15.1.0,B0HN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+t_b0hn_toolkit_ems_metric_target,t_b0hn_toolkit_ems_metric_target-qlm-MRField.conf,DELIVERED,19.0.0,B0HN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
 OPERATION_DATE: Date of the data without hyphen
 PREVIOUS_CUTOFF_DATE: Previous date to be compared","CUTOFF_DATE, OPERATION_DATE, PREVIOUS_CUTOFF_DATE"
+t_b0hn_toolkit_esg_general_data,t_b0hn_toolkit_esg_general_data-qlm-MRField.conf,DELIVERED,19.0.0,B0HN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_PATH_0: Ruta del catálogo local
+CATALOG_SCHEMA_0:  Esquema de la tabla local","CUTOFF_DATE, CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_PATH_0, CATALOG_SCHEMA_0"
+t_b0hn_toolkit_esg_group_output,B0HN_toolkit-esg-group-output_MRField.conf,DELIVERED,15.1.0,B0HN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_PATH_1: Ruta del catálogo local
+CATALOG_SCHEMA_1: Esquema de la tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_PATH_1, CATALOG_SCHEMA_1"
 t_b0hn_toolkit_esg_group_output,B0HN_toolkit-esg-group-output_MRField.conf,DELIVERED,15.1.0,B0HN,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository","CUTOFF_DATE, extralibs",,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_0: Columna del catálogo local 
-CATALOG_CODE_0: Filtrado del catálogo local
-CATALOG_PATH_0: Ruta del catálogo local
-CATALOG_SCHEMA_0:  Esquema de la tabla local","CUTOFF_DATE, CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_PATH_0, CATALOG_SCHEMA_0"
-t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_KBTQ_customer-info_MMRule.conf,DELIVERED,18.3.0,CGJ7,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_1: Columna del catálogo local 
-CATALOG_CODE_1: Filtrado del catálogo local
-CATALOG_PATH_1: Ruta del catálogo local
-CATALOG_SCHEMA_1: Esquema de la tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_PATH_1, CATALOG_SCHEMA_1"
-t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_KCOG_country_MMRule.conf,DELIVERED,18.3.3,CGJ7,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
 PREVIOUS_CUTOFF_DATE: Previous date to be compared","CUTOFF_DATE, PREVIOUS_CUTOFF_DATE"
-t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_KCOG_country_MMRule.conf,DELIVERED,18.3.0,CGJ7,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+t_b0hn_toolkit_esg_rating,t_b0hn_toolkit_esg_rating-qlm-MRField.conf,DELIVERED,19.0.0,B0HN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_1: Columna del catálogo local 
 CATALOG_CODE_1: Filtrado del catálogo local
 CATALOG_PATH_1: Ruta del catálogo local
 CATALOG_SCHEMA_1:  Esquema de la tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_PATH_1, CATALOG_SCHEMA_1"
-t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,CGJ7,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+t_b0hn_toolkit_esg_sector,t_b0hn_toolkit_esg_sector-qlm-MRField.conf,DELIVERED,19.0.0,B0HN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_0: Columna del catálogo local 
 CATALOG_CODE_0: Filtrado del catálogo local
 CATALOG_PATH_0: Ruta del catálogo local
 CATALOG_SCHEMA_0: Esquema de la tabla local","CUTOFF_DATE, CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_PATH_0, CATALOG_SCHEMA_0"
-t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_MRField.conf,DELIVERED,15.1.0,CGJ7,"RUNNING JOB PARAMS:
-     CUTOFF_DATE: Date of the data
-     PREVIOUS_CUTOFF_DATE: Previous date to be compared
-
-JOB EXTRALIBS:
-     extralibs: Link to custom repository","CUTOFF_DATE, PREVIOUS_CUTOFF_DATE, extralibs",,,,"RUNNING JOB PARAMS:
+t_b0hn_toolkit_esg_strategy,t_b0hn_toolkit_esg_strategy-qlm-MRField.conf,DELIVERED,19.0.0,B0HN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_0: Columna del catálogo local 
      CATALOG_CODE_0: Filtrado del catálogo local
@@ -146,7 +141,7 @@ JOB EXTRALIBS:
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository","CUTOFF_DATE, CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_PATH_0, CATALOG_SCHEMA_0, extralibs"
-t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_MRField.conf,DELIVERED,18.3.3,CGJ7,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
+t_b0hn_toolkit_esg_top_5_geo,t_b0hn_toolkit_esg_top_5_geo-qlm-MRField.conf,DELIVERED,19.0.0,B0HN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_1: Columna del catálogo local 
      CATALOG_CODE_1: Filtrado del catálogo local
@@ -154,10 +149,7 @@ t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_MRField.conf,DEL
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_PATH_1, CATALOG_SCHEMA_1, extralibs"
-t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_MRObject.conf,DELIVERED,15.1.0,CGJ7,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"RUNNING JOB PARAMS:
+t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_KBTQ_customer-info_MMRule.conf,DELIVERED,18.3.0,CGJ7,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_2: Columna del catálogo local 
      CATALOG_CODE_2: Filtrado del catálogo local
@@ -165,8 +157,7 @@ UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_PATH_2, CATALOG_SCHEMA_2, extralibs"
-t_cgj7_sust_customer_mark,CGJ7_sust-customer-mark_MRField.conf,DELIVERED,18.3.3,CGJ7,"CUTOFF_DATE: Date of the data
-SOURCE_LIST: Origin of data (gf_information_source_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST",,,,"RUNNING JOB PARAMS:
+t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_KCOG_country_MMRule.conf,DELIVERED,18.3.3,CGJ7,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_3: Columna del catálogo local 
      CATALOG_CODE_3: Filtrado del catálogo local
@@ -174,8 +165,7 @@ SOURCE_LIST: Origin of data (gf_information_source_type): Example: 'SOURCE_LIST'
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_PATH_3, CATALOG_SCHEMA_3, extralibs"
-t_cgj7_sust_customer_mark,CGJ7_sust-customer-mark_MRField.conf,DELIVERED,18.4.0,CGJ7,"CUTOFF_DATE: Date of the data
-SOURCE_LIST: Origin of data (gf_information_source_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST",,,,"RUNNING JOB PARAMS:
+t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_KCOG_country_MMRule.conf,DELIVERED,18.3.0,CGJ7,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_4: Columna del catálogo local 
      CATALOG_CODE_4: Filtrado del catálogo local
@@ -183,8 +173,7 @@ SOURCE_LIST: Origin of data (gf_information_source_type): Example: 'SOURCE_LIST'
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_PATH_4, CATALOG_SCHEMA_4, extralibs"
-t_cgj7_sust_customer_mark,CGJ7_sust-customer-mark_MRField.conf,DELIVERED,18.3.7,CGJ7,"CUTOFF_DATE: Date of the data
-SOURCE_LIST: Origin of data (gf_information_source_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST",,,,"RUNNING JOB PARAMS:
+t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,CGJ7,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_5: Columna del catálogo local 
      CATALOG_CODE_5: Filtrado del catálogo local
@@ -192,285 +181,281 @@ SOURCE_LIST: Origin of data (gf_information_source_type): Example: 'SOURCE_LIST'
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_5, CATALOG_CODE_5, CATALOG_PATH_5, CATALOG_SCHEMA_5, extralibs"
+t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_MRField.conf,DELIVERED,15.1.0,CGJ7,"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     PREVIOUS_CUTOFF_DATE: Previous date to be compared
+
+JOB EXTRALIBS:
+     extralibs: Link to custom repository","CUTOFF_DATE, PREVIOUS_CUTOFF_DATE, extralibs",,,,"CUTOFF_DATE: Date of the data
+FECHA_VOLUMETRIC: Date of values to compare with
+LOWER_BOUND: Lower percentage bound
+UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND"
+t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_MRField.conf,DELIVERED,18.3.3,CGJ7,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+PREVIOUS_CUTOFF_DATE: Previous date to be compared","CUTOFF_DATE, PREVIOUS_CUTOFF_DATE"
+t_cgj7_customer_carbon_footprint,CGJ7_customer-carbon-footprint_MRObject.conf,DELIVERED,15.1.0,CGJ7,"CUTOFF_DATE: Date of the data
+FECHA_VOLUMETRIC: Date of values to compare with
+LOWER_BOUND: Lower percentage bound
+UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"CLOSING_DATE: Closing date of the data
+ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe.","CLOSING_DATE, ADOBE_REPORT_SUITE_NAME"
+t_cgj7_sust_customer_mark,CGJ7_sust-customer-mark_MRField.conf,DELIVERED,18.3.3,CGJ7,"CUTOFF_DATE: Date of the data
+SOURCE_LIST: Origin of data (gf_information_source_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST",,,,"CLOSING_DATE: Closing date of the data 
+DATE_VOLUMETRIC: Closing date of values to compare with
+ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe. 
+LOWER_BOUND: Lower percentage bound 
+UPPER_BOUND: Upper percentage bound","CLOSING_DATE, DATE_VOLUMETRIC, ADOBE_REPORT_SUITE_NAME, LOWER_BOUND, UPPER_BOUND"
+t_cgj7_sust_customer_mark,CGJ7_sust-customer-mark_MRField.conf,DELIVERED,18.4.0,CGJ7,"CUTOFF_DATE: Date of the data
+SOURCE_LIST: Origin of data (gf_information_source_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST",,,,"CUTOFF_DATE: Date of the data
+ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe.","CUTOFF_DATE, ADOBE_REPORT_SUITE_NAME"
+t_cgj7_sust_customer_mark,CGJ7_sust-customer-mark_MRField.conf,DELIVERED,18.3.7,CGJ7,"CUTOFF_DATE: Date of the data
+SOURCE_LIST: Origin of data (gf_information_source_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST",,,,"CUTOFF_DATE: Date of the data 
+FECHA_VOLUMETRIC: Closing date of values to compare with
+ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe. 
+LOWER_BOUND: Lower percentage bound 
+UPPER_BOUND: Upper percentage bound","CLOSING_DATE, FECHA_VOLUMETRIC, ADOBE_REPORT_SUITE_NAME, LOWER_BOUND, UPPER_BOUND"
 t_cgj7_sust_customer_mark,CGJ7_sust-customer-mark_MRObject.conf,DELIVERED,18.3.3,CGJ7,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound
 SOURCE_LIST: Origin of data (gf_information_source_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE_LIST",,,,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_KMOL_account-movements_MMRule.conf,DELIVERED,18.3.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-PREVIOUS_CUTOFF_DATE: Previous date to be compared","CUTOFF_DATE, PREVIOUS_CUTOFF_DATE"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_KMOL_card-movements_MMRule.conf,DELIVERED,18.3.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CLOSING_DATE: Closing date of the data
-ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe.","CLOSING_DATE, ADOBE_REPORT_SUITE_NAME"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CLOSING_DATE: Closing date of the data 
-DATE_VOLUMETRIC: Closing date of values to compare with
-ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe. 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound","CLOSING_DATE, DATE_VOLUMETRIC, ADOBE_REPORT_SUITE_NAME, LOWER_BOUND, UPPER_BOUND"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,18.4.4,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe.","CUTOFF_DATE, ADOBE_REPORT_SUITE_NAME"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_0: Columna del catálogo local 
-CATALOG_CODE_0: Filtrado del catálogo local
-CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,"CUTOFF_DATE: Date of the data 
-FECHA_VOLUMETRIC: Closing date of values to compare with
-ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe. 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound","CLOSING_DATE, FECHA_VOLUMETRIC, ADOBE_REPORT_SUITE_NAME, LOWER_BOUND, UPPER_BOUND"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_1: Columna del catálogo local 
-CATALOG_CODE_1: Filtrado del catálogo local
-CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_2: Columna del catálogo local 
 CATALOG_CODE_2: Filtrado del catálogo local
 CATALOG_PATH_2: Ruta del catálogo local
 CATALOG_SCHEMA_2:  Esquema de la tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_PATH_2, CATALOG_SCHEMA_2"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_2: Columna del catálogo local 
-CATALOG_CODE_2: Filtrado del catálogo local
-CATALOG_TABLE_2: Nombre de tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2",,,,"CUTOFF_DATE: Date of the data
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_KMOL_account-movements_MMRule.conf,DELIVERED,18.3.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_3: Columna del catálogo local 
 CATALOG_CODE_3: Filtrado del catálogo local
 CATALOG_PATH_3: Ruta del catálogo local
 CATALOG_SCHEMA_3:  Esquema de la tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_PATH_3, CATALOG_SCHEMA_3"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_3: Columna del catálogo local 
-CATALOG_CODE_3: Filtrado del catálogo local
-CATALOG_TABLE_3: Nombre de tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3",,,,"CUTOFF_DATE: Date of the data
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_KMOL_card-movements_MMRule.conf,DELIVERED,18.3.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
 SOURCE: Origin of data (g_data_source_origin_type)","CUTOFF_DATE, SOURCE"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_4: Columna del catálogo local 
-CATALOG_CODE_4: Filtrado del catálogo local
-CATALOG_TABLE_4: Nombre de tabla local",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_TABLE_4",,,,"CUTOFF_DATE: Date of the data
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_2: Columna del catálogo local 
 CATALOG_CODE_2: Filtrado del catálogo local
 CATALOG_PATH_2: Ruta del catálogo local
 CATALOG_SCHEMA_2: Esquema de la tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_PATH_2, CATALOG_SCHEMA_2"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_5: Columna del catálogo local 
-CATALOG_CODE_5: Filtrado del catálogo local
-CATALOG_TABLE_5: Nombre de tabla local",", CATALOG_COLUMN_5, CATALOG_CODE_5, CATALOG_TABLE_5",,,,"CUTOFF_DATE: Date of the data
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,18.4.4,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound
 SOURCE: Origin of data (g_data_source_origin_type)","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE"
 t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_6: Columna del catálogo local 
-CATALOG_CODE_6: Filtrado del catálogo local
-CATALOG_TABLE_6: Nombre de tabla local",", CATALOG_COLUMN_6, CATALOG_CODE_6, CATALOG_TABLE_6",,,,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,"CUTOFF_DATE: Date of the data
 BILLING_AGR_PRODUCT_ID: Billing grouping product identifier","CUTOFF_DATE, BILLING_AGR_PRODUCT_ID"
 t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_7: Columna del catálogo local 
-CATALOG_CODE_7: Filtrado del catálogo local
-CATALOG_TABLE_7: Nombre de tabla local",", CATALOG_COLUMN_7, CATALOG_CODE_7, CATALOG_TABLE_7",,,,BILLING_AGR_PRODUCT_ID: Billing grouping product identifier,BILLING_AGR_PRODUCT_ID
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,BILLING_AGR_PRODUCT_ID: Billing grouping product identifier,BILLING_AGR_PRODUCT_ID
 t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_8: Columna del catálogo local 
-CATALOG_CODE_8: Filtrado del catálogo local
-CATALOG_TABLE_8: Nombre de tabla local",", CATALOG_COLUMN_8, CATALOG_CODE_8, CATALOG_TABLE_8",,,,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2",,,,"CUTOFF_DATE: Date of the data
 SCHEMA_COUNTRY: Country to be deployed
 SCHEMA_VERSION_MASTER: Version to be deployed
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, SCHEMA_COUNTRY, SCHEMA_VERSION_MASTER, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND"
 t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_9: Columna del catálogo local 
-CATALOG_CODE_9: Filtrado del catálogo local
-CATALOG_TABLE_9: Nombre de tabla local",", CATALOG_COLUMN_9, CATALOG_CODE_9, CATALOG_TABLE_9",,,,"CUTOFF_DATE: Date of the data
-SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, SOURCE"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_10: Columna del catálogo local 
-CATALOG_CODE_10: Filtrado del catálogo local
-CATALOG_TABLE_10: Nombre de tabla local",", CATALOG_COLUMN_10, CATALOG_CODE_10, CATALOG_TABLE_10",,,,"CUTOFF_DATE: Date of the data 
-FECHA_VOLUMETRIC: Date of values to compare with 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound
-SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_11: Columna del catálogo local 
-CATALOG_CODE_11: Filtrado del catálogo local
-CATALOG_TABLE_11: Nombre de tabla local",", CATALOG_COLUMN_11, CATALOG_CODE_11, CATALOG_TABLE_11",,,,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound
-SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,17.2.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_4: Columna del catálogo local 
-CATALOG_CODE_4: Filtrado del catálogo local
-CATALOG_PATH_4: Ruta del catálogo local
-CATALOG_SCHEMA_4:  Esquema de la tabla local",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_PATH_4, CATALOG_SCHEMA_4"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,17.1.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_5: Columna del catálogo local 
-CATALOG_CODE_5: Filtrado del catálogo local
-CATALOG_PATH_5: Ruta del catálogo local
-CATALOG_SCHEMA_5:  Esquema de la tabla local",", CATALOG_COLUMN_5, CATALOG_CODE_5, CATALOG_PATH_5, CATALOG_SCHEMA_5"
-t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRObject.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data 
-FECHA_VOLUMETRIC: Date of values to compare with 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_6: Columna del catálogo local 
-CATALOG_CODE_6: Filtrado del catálogo local
-CATALOG_PATH_6: Ruta del catálogo local
-CATALOG_SCHEMA_6:  Esquema de la tabla local",", CATALOG_COLUMN_6, CATALOG_CODE_6, CATALOG_PATH_6, CATALOG_SCHEMA_6"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_KMOL_account-nobbva-move_MMRule.conf,DELIVERED,18.3.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-SOURCE: Origin of data (g_data_source_origin_type)","CUTOFF_DATE, SOURCE"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_KMOL_card-nobbva-move_MMRule.conf,DELIVERED,18.3.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-mydbcatalog: Catalog that specify country (co) and data layer (layer). Format: {co}_{layer}. Example: ho_master.","CUTOFF_DATE, mydbcatalog"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_0: Columna del catálogo local 
-CATALOG_CODE_0: Filtrado del catálogo local
-CATALOG_PATH_0: Ruta del catálogo local
-CATALOG_SCHEMA_0: Esquema de la tabla local","CUTOFF_DATE, CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_PATH_0, CATALOG_SCHEMA_0"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_0: Columna del catálogo local 
-CATALOG_CODE_0: Filtrado del catálogo local
-CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,"CUTOFF_DATE: Date of the data
-mydbcatalog: Catalog that specify country (co) and data layer (layer). Format: ""{co}_{layer}"". Example: ""ho_master"".","CUTOFF_DATE, mydbcatalog"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_1: Columna del catálogo local 
-CATALOG_CODE_1: Filtrado del catálogo local
-CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,"CUTOFF_DATE: Date of the data 
-FECHA_VOLUMETRIC: Date of values to compare with 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound 
-6.9IS_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule
-mydbcatalog: Catalog that specify country (co) and data layer (layer). Format: ""{co}_{layer}"". Example: ""ho_master"".","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, 6.9IS_CRITICAL, mydbcatalog"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_2: Columna del catálogo local 
-CATALOG_CODE_2: Filtrado del catálogo local
-CATALOG_TABLE_2: Nombre de tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2",,,,"CUTOFF_DATE: Date of the data
-PREVIOUS_CUTOFF_DATE: Previous date to be compared","CUTOFF_DATE, PREVIOUS_CUTOFF_DATE"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_3: Columna del catálogo local 
 CATALOG_CODE_3: Filtrado del catálogo local
 CATALOG_TABLE_3: Nombre de tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3",,,,"CUTOFF_DATE: Date of the data
-mydbcatalog: Catalog that specify country and data layer. Format: ""co_layer"". Example: ""ho_master"".","CUTOFF_DATE, mydbcatalog"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, SOURCE"
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_4: Columna del catálogo local 
 CATALOG_CODE_4: Filtrado del catálogo local
 CATALOG_TABLE_4: Nombre de tabla local",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_TABLE_4",,,,"CUTOFF_DATE: Date of the data 
 FECHA_VOLUMETRIC: Date of values to compare with 
 LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound 
-6.9IS_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule
-mydbcatalog: Catalog that specify country (co) and data layer (layer). Format: {co}_{layer}. Example: ho_master.","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, 6.9IS_CRITICAL, mydbcatalog"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+UPPER_BOUND: Upper percentage bound
+SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE"
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_5: Columna del catálogo local 
 CATALOG_CODE_5: Filtrado del catálogo local
 CATALOG_TABLE_5: Nombre de tabla local",", CATALOG_COLUMN_5, CATALOG_CODE_5, CATALOG_TABLE_5",,,,"CUTOFF_DATE: Date of the data
-YEAR_0: Año actual de la ejecución (CUTOFF_DATE)
-YEAR_1: Año actual de la ejecución (CUTOFF_DATE) - 1","CUTOFF_DATE, YEAR_0, YEAR_1"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_11: Columna del catálogo local 
-CATALOG_CODE_11: Filtrado del catálogo local
-CATALOG_TABLE_11: Nombre de tabla local",", CATALOG_COLUMN_11, CATALOG_CODE_11, CATALOG_TABLE_11",,,,"CUTOFF_DATE: Date of the data
-YEAR_1: Año actual de la ejecución (CUTOFF_DATE) - 1
-YEAR_2: Año actual de la ejecución (CUTOFF_DATE) - 2",", YEAR_2"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+FECHA_VOLUMETRIC: Date of values to compare with
+LOWER_BOUND: Lower percentage bound
+UPPER_BOUND: Upper percentage bound
+SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE"
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_6: Columna del catálogo local 
 CATALOG_CODE_6: Filtrado del catálogo local
 CATALOG_TABLE_6: Nombre de tabla local",", CATALOG_COLUMN_6, CATALOG_CODE_6, CATALOG_TABLE_6",,,,"CUTOFF_DATE: Date of the data
-YEAR_2: Año actual de la ejecución (CUTOFF_DATE) - 2
-YEAR_3: Año actual de la ejecución (CUTOFF_DATE) - 3",", YEAR_3"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_4: Columna del catálogo local 
+CATALOG_CODE_4: Filtrado del catálogo local
+CATALOG_PATH_4: Ruta del catálogo local
+CATALOG_SCHEMA_4:  Esquema de la tabla local",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_PATH_4, CATALOG_SCHEMA_4"
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_7: Columna del catálogo local 
 CATALOG_CODE_7: Filtrado del catálogo local
 CATALOG_TABLE_7: Nombre de tabla local",", CATALOG_COLUMN_7, CATALOG_CODE_7, CATALOG_TABLE_7",,,,"CUTOFF_DATE: Date of the data
-YEAR_3: Año actual de la ejecución (CUTOFF_DATE) - 3
-YEAR_4: Año actual de la ejecución (CUTOFF_DATE) - 4",", YEAR_4"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_5: Columna del catálogo local 
+CATALOG_CODE_5: Filtrado del catálogo local
+CATALOG_PATH_5: Ruta del catálogo local
+CATALOG_SCHEMA_5:  Esquema de la tabla local",", CATALOG_COLUMN_5, CATALOG_CODE_5, CATALOG_PATH_5, CATALOG_SCHEMA_5"
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_8: Columna del catálogo local 
 CATALOG_CODE_8: Filtrado del catálogo local
 CATALOG_TABLE_8: Nombre de tabla local",", CATALOG_COLUMN_8, CATALOG_CODE_8, CATALOG_TABLE_8",,,,"CUTOFF_DATE: Date of the data
-YEAR_1: Año actual de la ejecución (CUTOFF_DATE) - 4
-YEAR_2: Año actual de la ejecución (CUTOFF_DATE) - 5",", YEAR_5"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_6: Columna del catálogo local 
+CATALOG_CODE_6: Filtrado del catálogo local
+CATALOG_PATH_6: Ruta del catálogo local
+CATALOG_SCHEMA_6:  Esquema de la tabla local",", CATALOG_COLUMN_6, CATALOG_CODE_6, CATALOG_PATH_6, CATALOG_SCHEMA_6"
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_9: Columna del catálogo local 
 CATALOG_CODE_9: Filtrado del catálogo local
 CATALOG_TABLE_9: Nombre de tabla local",", CATALOG_COLUMN_9, CATALOG_CODE_9, CATALOG_TABLE_9",,,,"CUTOFF_DATE: Date of the data
+SOURCE: Origin of data (g_data_source_origin_type)","CUTOFF_DATE, SOURCE"
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_10: Columna del catálogo local 
+CATALOG_CODE_10: Filtrado del catálogo local
+CATALOG_TABLE_10: Nombre de tabla local",", CATALOG_COLUMN_10, CATALOG_CODE_10, CATALOG_TABLE_10",,,,"CUTOFF_DATE: Date of the data
+mydbcatalog: Catalog that specify country (co) and data layer (layer). Format: {co}_{layer}. Example: ho_master.","CUTOFF_DATE, mydbcatalog"
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_11: Columna del catálogo local 
+CATALOG_CODE_11: Filtrado del catálogo local
+CATALOG_TABLE_11: Nombre de tabla local",", CATALOG_COLUMN_11, CATALOG_CODE_11, CATALOG_TABLE_11",,,,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_PATH_0: Ruta del catálogo local
+CATALOG_SCHEMA_0: Esquema de la tabla local","CUTOFF_DATE, CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_PATH_0, CATALOG_SCHEMA_0"
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,17.2.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+mydbcatalog: Catalog that specify country (co) and data layer (layer). Format: ""{co}_{layer}"". Example: ""ho_master"".","CUTOFF_DATE, mydbcatalog"
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRField.conf,DELIVERED,17.1.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data 
+FECHA_VOLUMETRIC: Date of values to compare with 
+LOWER_BOUND: Lower percentage bound 
+UPPER_BOUND: Upper percentage bound 
+6.9IS_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule
+mydbcatalog: Catalog that specify country (co) and data layer (layer). Format: ""{co}_{layer}"". Example: ""ho_master"".","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, 6.9IS_CRITICAL, mydbcatalog"
+t_cmov_bbva_categorized_mov,CMOV_bbva-categorized-mov_MRObject.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data 
+FECHA_VOLUMETRIC: Date of values to compare with 
+LOWER_BOUND: Lower percentage bound 
+UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"CUTOFF_DATE: Date of the data
+PREVIOUS_CUTOFF_DATE: Previous date to be compared","CUTOFF_DATE, PREVIOUS_CUTOFF_DATE"
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_KMOL_account-nobbva-move_MMRule.conf,DELIVERED,18.3.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+mydbcatalog: Catalog that specify country and data layer. Format: ""co_layer"". Example: ""ho_master"".","CUTOFF_DATE, mydbcatalog"
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_KMOL_card-nobbva-move_MMRule.conf,DELIVERED,18.3.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data 
+FECHA_VOLUMETRIC: Date of values to compare with 
+LOWER_BOUND: Lower percentage bound 
+UPPER_BOUND: Upper percentage bound 
+6.9IS_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule
+mydbcatalog: Catalog that specify country (co) and data layer (layer). Format: {co}_{layer}. Example: ho_master.","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, 6.9IS_CRITICAL, mydbcatalog"
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+YEAR_0: Año actual de la ejecución (CUTOFF_DATE)
+YEAR_1: Año actual de la ejecución (CUTOFF_DATE) - 1","CUTOFF_DATE, YEAR_0, YEAR_1"
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,"CUTOFF_DATE: Date of the data
+YEAR_1: Año actual de la ejecución (CUTOFF_DATE) - 1
+YEAR_2: Año actual de la ejecución (CUTOFF_DATE) - 2",", YEAR_2"
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,"CUTOFF_DATE: Date of the data
+YEAR_2: Año actual de la ejecución (CUTOFF_DATE) - 2
+YEAR_3: Año actual de la ejecución (CUTOFF_DATE) - 3",", YEAR_3"
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2",,,,"CUTOFF_DATE: Date of the data
+YEAR_3: Año actual de la ejecución (CUTOFF_DATE) - 3
+YEAR_4: Año actual de la ejecución (CUTOFF_DATE) - 4",", YEAR_4"
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3",,,,"CUTOFF_DATE: Date of the data
+YEAR_1: Año actual de la ejecución (CUTOFF_DATE) - 4
+YEAR_2: Año actual de la ejecución (CUTOFF_DATE) - 5",", YEAR_5"
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_4: Columna del catálogo local 
+CATALOG_CODE_4: Filtrado del catálogo local
+CATALOG_TABLE_4: Nombre de tabla local",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_TABLE_4",,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_0: Columna del catálogo local 
 CATALOG_CODE_0: Filtrado del catálogo local
 CATALOG_PATH_0: Ruta del catálogo local
 CATALOG_SCHEMA_0: Esquema de la tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_PATH_0, CATALOG_SCHEMA_0"
 t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_10: Columna del catálogo local 
-CATALOG_CODE_10: Filtrado del catálogo local
-CATALOG_TABLE_10: Nombre de tabla local",", CATALOG_COLUMN_10, CATALOG_CODE_10, CATALOG_TABLE_10",,,,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_5: Columna del catálogo local 
+CATALOG_CODE_5: Filtrado del catálogo local
+CATALOG_TABLE_5: Nombre de tabla local",", CATALOG_COLUMN_5, CATALOG_CODE_5, CATALOG_TABLE_5",,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_0: Columna del catálogo local 
 CATALOG_CODE_0: Filtrado del catálogo local
 CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0"
-t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRObject.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data 
-FECHA_VOLUMETRIC: Date of values to compare with 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"CUTOFF_DATE: Date of the data
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_11: Columna del catálogo local 
+CATALOG_CODE_11: Filtrado del catálogo local
+CATALOG_TABLE_11: Nombre de tabla local",", CATALOG_COLUMN_11, CATALOG_CODE_11, CATALOG_TABLE_11",,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_1: Columna del catálogo local 
 CATALOG_CODE_1: Filtrado del catálogo local
 CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1"
-t_ctar_sign_proc_contract,CTAR_sign-proc-contract_MRField.conf,DELIVERED,18.3.3,CTAR,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_6: Columna del catálogo local 
+CATALOG_CODE_6: Filtrado del catálogo local
+CATALOG_TABLE_6: Nombre de tabla local",", CATALOG_COLUMN_6, CATALOG_CODE_6, CATALOG_TABLE_6",,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_2: Columna del catálogo local 
 CATALOG_CODE_2: Filtrado del catálogo local
 CATALOG_TABLE_2: Nombre de tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2"
-t_ctar_sign_proc_participant,CTAR_sign-proc-participant_KBTQ_role-person_MMRule.conf,DELIVERED,18.3.0,CTAR,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_7: Columna del catálogo local 
+CATALOG_CODE_7: Filtrado del catálogo local
+CATALOG_TABLE_7: Nombre de tabla local",", CATALOG_COLUMN_7, CATALOG_CODE_7, CATALOG_TABLE_7",,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_3: Columna del catálogo local 
 CATALOG_CODE_3: Filtrado del catálogo local
 CATALOG_TABLE_3: Nombre de tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3"
-t_ctar_sign_proc_participant,CTAR_sign-proc-participant_MRField.conf,DELIVERED,15.1.0,CTAR,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_8: Columna del catálogo local 
+CATALOG_CODE_8: Filtrado del catálogo local
+CATALOG_TABLE_8: Nombre de tabla local",", CATALOG_COLUMN_8, CATALOG_CODE_8, CATALOG_TABLE_8",,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_4: Columna del catálogo local 
 CATALOG_CODE_4: Filtrado del catálogo local
 CATALOG_TABLE_4: Nombre de tabla local",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_TABLE_4"
-t_ctar_sign_proc_participant,CTAR_sign-proc-participant_MRField.conf,DELIVERED,15.1.0,CTAR,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_0: Columna del catálogo local 
-CATALOG_CODE_0: Filtrado del catálogo local
-CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,"CUTOFF_DATE: Date of the data
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_9: Columna del catálogo local 
+CATALOG_CODE_9: Filtrado del catálogo local
+CATALOG_TABLE_9: Nombre de tabla local",", CATALOG_COLUMN_9, CATALOG_CODE_9, CATALOG_TABLE_9",,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_5: Columna del catálogo local 
 CATALOG_CODE_5: Filtrado del catálogo local
 CATALOG_TABLE_5: Nombre de tabla local",", CATALOG_COLUMN_5, CATALOG_CODE_5, CATALOG_TABLE_5"
-t_ctar_sign_proc_participant,CTAR_sign-proc-participant_MRField.conf,DELIVERED,15.1.0,CTAR,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_1: Columna del catálogo local 
-CATALOG_CODE_1: Filtrado del catálogo local
-CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,"CUTOFF_DATE: Date of the data
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRField.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_10: Columna del catálogo local 
+CATALOG_CODE_10: Filtrado del catálogo local
+CATALOG_TABLE_10: Nombre de tabla local",", CATALOG_COLUMN_10, CATALOG_CODE_10, CATALOG_TABLE_10",,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_7: Columna del catálogo local 
 CATALOG_CODE_7: Filtrado del catálogo local
 CATALOG_TABLE_7: Nombre de tabla local",", CATALOG_COLUMN_7, CATALOG_CODE_7, CATALOG_TABLE_7"
-t_ctar_sign_proc_participant,CTAR_sign-proc-participant_MRObject.conf,DELIVERED,15.1.0,CTAR,"CUTOFF_DATE: Date of the data 
+t_cmov_nobbva_categorized_mov,CMOV_nobbva-categorized-mov_MRObject.conf,DELIVERED,15.1.0,CMOV,"CUTOFF_DATE: Date of the data 
 FECHA_VOLUMETRIC: Date of values to compare with 
 LOWER_BOUND: Lower percentage bound 
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_6: Columna del catálogo local 
 CATALOG_CODE_6: Filtrado del catálogo local
 CATALOG_TABLE_6: Nombre de tabla local",", CATALOG_COLUMN_6, CATALOG_CODE_6, CATALOG_TABLE_6"
-t_ctar_signature_process,CTAR_signature-process_MRField.conf,DELIVERED,18.3.3,CTAR,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+t_ctar_sign_proc_contract,CTAR_sign-proc-contract_MRField.conf,DELIVERED,18.3.3,CTAR,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_8: Columna del catálogo local 
 CATALOG_CODE_8: Filtrado del catálogo local
 CATALOG_TABLE_8: Nombre de tabla local",", CATALOG_COLUMN_8, CATALOG_CODE_8, CATALOG_TABLE_8"
-t_ctar_signature_process,CTAR_signature-process_MRField.conf,DELIVERED,18.3.3,CTAR,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_0: Columna del catálogo local 
-CATALOG_CODE_0: Filtrado del catálogo local
-CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,"CUTOFF_DATE: Date of the data
+t_ctar_sign_proc_participant,CTAR_sign-proc-participant_KBTQ_role-person_MMRule.conf,DELIVERED,18.3.0,CTAR,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_9: Columna del catálogo local 
 CATALOG_CODE_9: Filtrado del catálogo local
 CATALOG_TABLE_9: Nombre de tabla local",", CATALOG_COLUMN_9, CATALOG_CODE_9, CATALOG_TABLE_9"
-t_ctar_signature_process,CTAR_signature-process_MRField.conf,DELIVERED,18.3.3,CTAR,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_1: Columna del catálogo local 
-CATALOG_CODE_1: Filtrado del catálogo local
-CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,"CUTOFF_DATE: Date of the data
+t_ctar_sign_proc_participant,CTAR_sign-proc-participant_MRField.conf,DELIVERED,15.1.0,CTAR,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_10: Columna del catálogo local 
 CATALOG_CODE_10: Filtrado del catálogo local
 CATALOG_TABLE_10: Nombre de tabla local",", CATALOG_COLUMN_10, CATALOG_CODE_10, CATALOG_TABLE_10"
-t_ctar_signature_process,CTAR_signature-process_MRField.conf,DELIVERED,18.3.3,CTAR,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_2: Columna del catálogo local 
-CATALOG_CODE_2: Filtrado del catálogo local
-CATALOG_TABLE_2: Nombre de tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2",,,,"CUTOFF_DATE: Date of the data
+t_ctar_sign_proc_participant,CTAR_sign-proc-participant_MRField.conf,DELIVERED,15.1.0,CTAR,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_11: Columna del catálogo local 
 CATALOG_CODE_11: Filtrado del catálogo local
 CATALOG_TABLE_11: Nombre de tabla local",", CATALOG_COLUMN_11, CATALOG_CODE_11, CATALOG_TABLE_11"
-t_ctar_signature_process,CTAR_signature-process_MRField.conf,DELIVERED,18.3.3,CTAR,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_3: Columna del catálogo local
-CATALOG_CODE_3: Filtrado del catálogo local
-CATALOG_TABLE_3: Nombre de tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3",,,,"CUTOFF_DATE: Date of the data
+t_ctar_sign_proc_participant,CTAR_sign-proc-participant_MRField.conf,DELIVERED,15.1.0,CTAR,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,"CUTOFF_DATE: Date of the data
 SOURCE: Origin of data (gf_information_source_type)","CUTOFF_DATE, SOURCE"
-t_ctar_signature_process,CTAR_signature-process_MRObject.conf,DELIVERED,15.1.0,CTAR,"CUTOFF_DATE: Date of the data 
+t_ctar_sign_proc_participant,CTAR_sign-proc-participant_MRObject.conf,DELIVERED,15.1.0,CTAR,"CUTOFF_DATE: Date of the data 
 FECHA_VOLUMETRIC: Date of values to compare with 
 LOWER_BOUND: Lower percentage bound 
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"CUTOFF_DATE: Date of the data
@@ -478,7 +463,7 @@ FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound
 SOURCE: Origin of data (gf_information_source_type)","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE"
-t_dast_crypto_exchange,DAST_crypto-exchange_MRField.conf,DELIVERED,13.0.3,DAST,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
+t_ctar_signature_process,CTAR_signature-process_MRField.conf,DELIVERED,18.3.3,CTAR,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_0: Columna del catálogo local 
      CATALOG_CODE_0: Filtrado del catálogo local
@@ -486,7 +471,10 @@ t_dast_crypto_exchange,DAST_crypto-exchange_MRField.conf,DELIVERED,13.0.3,DAST,C
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository","CUTOFF_DATE, CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0, extralibs"
-t_dast_crypto_exchange,DAST_crypto-exchange_MRField.conf,DELIVERED,13.1.0,DAST,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
+t_ctar_signature_process,CTAR_signature-process_MRField.conf,DELIVERED,18.3.3,CTAR,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_1: Columna del catálogo local 
      CATALOG_CODE_1: Filtrado del catálogo local
@@ -494,10 +482,10 @@ t_dast_crypto_exchange,DAST_crypto-exchange_MRField.conf,DELIVERED,13.1.0,DAST,C
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1, extralibs"
-t_dast_crypto_exchange,DAST_crypto-exchange_MRObject.conf,DELIVERED,13.0.3,DAST,"CUTOFF_DATE: Date of the data 
-FECHA_VOLUMETRIC: Date of values to compare with 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"RUNNING JOB PARAMS:
+t_ctar_signature_process,CTAR_signature-process_MRField.conf,DELIVERED,18.3.3,CTAR,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_2: Columna del catálogo local 
      CATALOG_CODE_2: Filtrado del catálogo local
@@ -505,7 +493,10 @@ UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2, extralibs"
-t_dast_crypto_exchange_account,DAST_crypto-exchange-account_DAST_crypto-exchange_MMRule.conf,DELIVERED,13.1.0,DAST,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
+t_ctar_signature_process,CTAR_signature-process_MRField.conf,DELIVERED,18.3.3,CTAR,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2",,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_3: Columna del catálogo local 
      CATALOG_CODE_3: Filtrado del catálogo local
@@ -513,14 +504,20 @@ t_dast_crypto_exchange_account,DAST_crypto-exchange-account_DAST_crypto-exchange
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3, extralibs"
-t_dast_crypto_exchange_account,DAST_crypto-exchange-account_MRField.conf,DELIVERED,13.0.3,DAST,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
+t_ctar_signature_process,CTAR_signature-process_MRField.conf,DELIVERED,18.3.3,CTAR,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3",,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_4: Columna del catálogo local 
      CATALOG_CODE_4: Filtrado del catálogo local
      CATALOG_TABLE_4: Nombre de tabla local
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_TABLE_4, extralibs"
-t_dast_crypto_exchange_account,DAST_crypto-exchange-account_MRField.conf,DELIVERED,13.1.0,DAST,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
+t_ctar_signature_process,CTAR_signature-process_MRObject.conf,DELIVERED,15.1.0,CTAR,"CUTOFF_DATE: Date of the data 
+FECHA_VOLUMETRIC: Date of values to compare with 
+LOWER_BOUND: Lower percentage bound 
+UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_5: Columna del catálogo local 
      CATALOG_CODE_5: Filtrado del catálogo local
@@ -528,10 +525,7 @@ t_dast_crypto_exchange_account,DAST_crypto-exchange-account_MRField.conf,DELIVER
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_5, CATALOG_CODE_5, CATALOG_TABLE_5, extralibs"
-t_dast_crypto_exchange_account,DAST_crypto-exchange-account_MRObject.conf,DELIVERED,13.0.3,DAST,"CUTOFF_DATE: Date of the data 
-FECHA_VOLUMETRIC: Date of values to compare with 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"RUNNING JOB PARAMS:
+t_dast_crypto_exchange,DAST_crypto-exchange_MRField.conf,DELIVERED,13.0.3,DAST,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_6: Columna del catálogo local 
      CATALOG_CODE_6: Filtrado del catálogo local
@@ -539,7 +533,78 @@ UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_6, CATALOG_CODE_6, CATALOG_TABLE_6, extralibs"
-t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED,18.4.1,DTAU,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
+t_dast_crypto_exchange,DAST_crypto-exchange_MRField.conf,DELIVERED,13.1.0,DAST,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_7: Columna del catálogo local 
+     CATALOG_CODE_7: Filtrado del catálogo local
+     CATALOG_TABLE_7: Nombre de tabla local
+
+JOB EXTRALIBS:
+     extralibs: Link to custom repository",", CATALOG_COLUMN_7, CATALOG_CODE_7, CATALOG_TABLE_7, extralibs"
+t_dast_crypto_exchange,DAST_crypto-exchange_MRObject.conf,DELIVERED,13.0.3,DAST,"CUTOFF_DATE: Date of the data 
+FECHA_VOLUMETRIC: Date of values to compare with 
+LOWER_BOUND: Lower percentage bound 
+UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"CUTOFF_DATE: Date of the data 
+FECHA_VOLUMETRIC: Date of values to compare with 
+LOWER_BOUND: Lower percentage bound 
+UPPER_BOUND: Upper percentage bound 
+IS6.9_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, IS6.9_CRITICAL"
+t_dast_crypto_exchange_account,DAST_crypto-exchange-account_DAST_crypto-exchange_MMRule.conf,DELIVERED,13.1.0,DAST,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data 
+FECHA_VOLUMETRIC: Date of values to compare with 
+LOWER_BOUND: Lower percentage bound 
+UPPER_BOUND: Upper percentage bound 
+IS_VOL_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, IS_VOL_CRITICAL"
+t_dast_crypto_exchange_account,DAST_crypto-exchange-account_MRField.conf,DELIVERED,13.0.3,DAST,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0"
+t_dast_crypto_exchange_account,DAST_crypto-exchange-account_MRField.conf,DELIVERED,13.1.0,DAST,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1"
+t_dast_crypto_exchange_account,DAST_crypto-exchange-account_MRObject.conf,DELIVERED,13.0.3,DAST,"CUTOFF_DATE: Date of the data 
+FECHA_VOLUMETRIC: Date of values to compare with 
+LOWER_BOUND: Lower percentage bound 
+UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2"
+t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED,18.4.1,DTAU,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_3: Columna del catálogo local 
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3"
+t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local 
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_4: Columna del catálogo local 
+CATALOG_CODE_4: Filtrado del catálogo local
+CATALOG_TABLE_4: Nombre de tabla local",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_TABLE_4"
+t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_1: Columna del catálogo local 
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_0: Columna del catálogo local
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0"
+t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_2: Columna del catálogo local 
+CATALOG_CODE_2: Filtrado del catálogo local
+CATALOG_TABLE_2: Nombre de tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2",,,,"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_6: Columna del catálogo local 
+     CATALOG_CODE_6: Filtrado del catálogo local
+     CATALOG_TABLE_6: Nombre de tabla local
+
+JOB EXTRALIBS:
+     extralibs: Link to custom repository",", CATALOG_COLUMN_6, CATALOG_CODE_6, CATALOG_TABLE_6, extralibs"
+t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED,18.4.1,DTAU,"RUNNING JOB PARAMS:
+     CUTOFF_DATE: Date of the data
+     CATALOG_COLUMN_4: Columna del catálogo local 
+     CATALOG_CODE_4: Filtrado del catálogo local
+     CATALOG_TABLE_4: Nombre de tabla local
+JOB EXTRALIBS:
+     extralibs: Link to custom repository",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_TABLE_4, extralibs",,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_7: Columna del catálogo local 
      CATALOG_CODE_7: Filtrado del catálogo local
@@ -548,45 +613,12 @@ t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_7, CATALOG_CODE_7, CATALOG_TABLE_7, extralibs"
 t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_0: Columna del catálogo local 
-CATALOG_CODE_0: Filtrado del catálogo local
-CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,"CUTOFF_DATE: Date of the data 
-FECHA_VOLUMETRIC: Date of values to compare with 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound 
-IS6.9_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, IS6.9_CRITICAL"
-t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_1: Columna del catálogo local 
-CATALOG_CODE_1: Filtrado del catálogo local
-CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,"CUTOFF_DATE: Date of the data 
-FECHA_VOLUMETRIC: Date of values to compare with 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound 
-IS_VOL_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, IS_VOL_CRITICAL"
-t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_2: Columna del catálogo local 
-CATALOG_CODE_2: Filtrado del catálogo local
-CATALOG_TABLE_2: Nombre de tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2",,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_0: Columna del catálogo local 
-CATALOG_CODE_0: Filtrado del catálogo local
-CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0"
-t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED,18.4.1,DTAU,"RUNNING JOB PARAMS:
-     CUTOFF_DATE: Date of the data
-     CATALOG_COLUMN_4: Columna del catálogo local 
-     CATALOG_CODE_4: Filtrado del catálogo local
-     CATALOG_TABLE_4: Nombre de tabla local
-JOB EXTRALIBS:
-     extralibs: Link to custom repository",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_TABLE_4, extralibs",,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_1: Columna del catálogo local 
-CATALOG_CODE_1: Filtrado del catálogo local
-CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1"
-t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_3: Columna del catálogo local 
 CATALOG_CODE_3: Filtrado del catálogo local
 CATALOG_TABLE_3: Nombre de tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3",,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_2: Columna del catálogo local 
-CATALOG_CODE_2: Filtrado del catálogo local
-CATALOG_TABLE_2: Nombre de tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2"
+CATALOG_COLUMN_3: Columna del catálogo local
+CATALOG_CODE_3: Filtrado del catálogo local
+CATALOG_TABLE_3: Nombre de tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3"
 t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED,18.4.1,DTAU,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_5: Columna del catálogo local 
@@ -595,50 +627,42 @@ t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRField.conf,DELIVERED
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_5, CATALOG_CODE_5, CATALOG_TABLE_5, extralibs",,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_3: Columna del catálogo local 
-CATALOG_CODE_3: Filtrado del catálogo local
-CATALOG_TABLE_3: Nombre de tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3"
+CATALOG_COLUMN_1: Columna del catálogo local
+CATALOG_CODE_1: Filtrado del catálogo local
+CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1"
 t_dtau_act_regis_hist_inf_rpt,DTAU_act-regis-hist-inf-rpt_MRObject.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data 
 FECHA_VOLUMETRIC: Date of values to compare with 
 LOWER_BOUND: Lower percentage bound 
 UPPER_BOUND: Upper percentage bound 
 IS_VOL_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, IS_VOL_CRITICAL",,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_4: Columna del catálogo local 
-CATALOG_CODE_4: Filtrado del catálogo local
-CATALOG_TABLE_4: Nombre de tabla local",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_TABLE_4"
-t_dtau_activity_register,DTAU_activity-register_MRField.conf,DELIVERED,18.4.1,DTAU,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_0: Columna del catálogo local
-CATALOG_CODE_0: Filtrado del catálogo local
-CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0"
+SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, SOURCE"
+t_dtau_activity_register,DTAU_activity-register_MRField.conf,DELIVERED,18.4.1,DTAU,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data 
+FECHA_VOLUMETRIC: Date of values to compare with 
+LOWER_BOUND: Lower percentage bound 
+UPPER_BOUND: Upper percentage bound 
+IS_VOL_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule
+SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, IS_VOL_CRITICAL, SOURCE"
 t_dtau_activity_register,DTAU_activity-register_MRField.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_0: Columna del catálogo local 
 CATALOG_CODE_0: Filtrado del catálogo local
-CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,"RUNNING JOB PARAMS:
-     CUTOFF_DATE: Date of the data
-     CATALOG_COLUMN_6: Columna del catálogo local 
-     CATALOG_CODE_6: Filtrado del catálogo local
-     CATALOG_TABLE_6: Nombre de tabla local
-
-JOB EXTRALIBS:
-     extralibs: Link to custom repository",", CATALOG_COLUMN_6, CATALOG_CODE_6, CATALOG_TABLE_6, extralibs"
+CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,"CUTOFF_DATE: Date of the data
+SOURCE: Origin of data (gf_source_system_sust_type)","CUTOFF_DATE, SOURCE"
 t_dtau_activity_register,DTAU_activity-register_MRField.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_1: Columna del catálogo local 
 CATALOG_CODE_1: Filtrado del catálogo local
-CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,"RUNNING JOB PARAMS:
-     CUTOFF_DATE: Date of the data
-     CATALOG_COLUMN_7: Columna del catálogo local 
-     CATALOG_CODE_7: Filtrado del catálogo local
-     CATALOG_TABLE_7: Nombre de tabla local
-
-JOB EXTRALIBS:
-     extralibs: Link to custom repository",", CATALOG_COLUMN_7, CATALOG_CODE_7, CATALOG_TABLE_7, extralibs"
+CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,"CUTOFF_DATE: Date of the data
+FECHA_VOLUMETRIC: Date of values to compare with
+LOWER_BOUND: Lower percentage bound
+UPPER_BOUND: Upper percentage bound
+SOURCE: Origin of data (gf_source_system_sust_type)","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE"
 t_dtau_activity_register,DTAU_activity-register_MRField.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_2: Columna del catálogo local 
 CATALOG_CODE_2: Filtrado del catálogo local
 CATALOG_TABLE_2: Nombre de tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2",,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_3: Columna del catálogo local
-CATALOG_CODE_3: Filtrado del catálogo local
-CATALOG_TABLE_3: Nombre de tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3"
+CATALOG_COLUMN_0: Columna del catálogo local
+CATALOG_CODE_0: Filtrado del catálogo local
+CATALOG_TABLE_0: Nombre de tabla local
+SOURCE: Origin of data (g_data_source_origin_type)",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0, SOURCE"
 t_dtau_activity_register,DTAU_activity-register_MRField.conf,DELIVERED,18.4.1,DTAU,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_6: Columna del catálogo local 
@@ -649,12 +673,13 @@ JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_6, CATALOG_CODE_6, CATALOG_TABLE_6, extralibs",,,,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_1: Columna del catálogo local
 CATALOG_CODE_1: Filtrado del catálogo local
-CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1"
+CATALOG_TABLE_1: Nombre de tabla local
+SOURCE: Origin of data (g_data_source_origin_type)",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1, SOURCE"
 t_dtau_activity_register,DTAU_activity-register_MRField.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_3: Columna del catálogo local 
 CATALOG_CODE_3: Filtrado del catálogo local
 CATALOG_TABLE_3: Nombre de tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3",,,,"CUTOFF_DATE: Date of the data
-SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, SOURCE"
+SOURCE: Origin of data (g_data_source_origin_ex1_type)","CUTOFF_DATE, SOURCE"
 t_dtau_activity_register,DTAU_activity-register_MRField.conf,DELIVERED,18.4.1,DTAU,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_7: Columna del catálogo local 
@@ -662,65 +687,57 @@ t_dtau_activity_register,DTAU_activity-register_MRField.conf,DELIVERED,18.4.1,DT
      CATALOG_TABLE_7: Nombre de tabla local
 
 JOB EXTRALIBS:
-     extralibs: Link to custom repository",", CATALOG_COLUMN_7, CATALOG_CODE_7, CATALOG_TABLE_7, extralibs",,,,"CUTOFF_DATE: Date of the data 
-FECHA_VOLUMETRIC: Date of values to compare with 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound 
-IS_VOL_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule
-SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, IS_VOL_CRITICAL, SOURCE"
+     extralibs: Link to custom repository",", CATALOG_COLUMN_7, CATALOG_CODE_7, CATALOG_TABLE_7, extralibs",,,,"CUTOFF_DATE: Date of the data
+CATALOG_COLUMN_5: Columna del catálogo local
+CATALOG_CODE_5: Filtrado del catálogo local
+CATALOG_TABLE_5: Nombre de tabla local",", CATALOG_COLUMN_5, CATALOG_CODE_5, CATALOG_TABLE_5"
 t_dtau_activity_register,DTAU_activity-register_MRField.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_4: Columna del catálogo local 
 CATALOG_CODE_4: Filtrado del catálogo local
 CATALOG_TABLE_4: Nombre de tabla local",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_TABLE_4",,,,"CUTOFF_DATE: Date of the data
-SOURCE: Origin of data (gf_source_system_sust_type)","CUTOFF_DATE, SOURCE"
+CATALOG_COLUMN_6: Columna del catálogo local
+CATALOG_CODE_6: Filtrado del catálogo local
+CATALOG_TABLE_6: Nombre de tabla local",", CATALOG_COLUMN_6, CATALOG_CODE_6, CATALOG_TABLE_6"
 t_dtau_activity_register,DTAU_activity-register_MRField.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_5: Columna del catálogo local 
 CATALOG_CODE_5: Filtrado del catálogo local
 CATALOG_TABLE_5: Nombre de tabla local",", CATALOG_COLUMN_5, CATALOG_CODE_5, CATALOG_TABLE_5",,,,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound
-SOURCE: Origin of data (gf_source_system_sust_type)","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE"
+CATALOG_COLUMN_4: Columna del catálogo local
+CATALOG_CODE_4: Filtrado del catálogo local
+CATALOG_TABLE_4: Nombre de tabla local",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_TABLE_4"
 t_dtau_activity_register,DTAU_activity-register_MRObject.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data 
 FECHA_VOLUMETRIC: Date of values to compare with 
 LOWER_BOUND: Lower percentage bound 
 UPPER_BOUND: Upper percentage bound 
-IS_VOL_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, IS_VOL_CRITICAL",,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_0: Columna del catálogo local
-CATALOG_CODE_0: Filtrado del catálogo local
-CATALOG_TABLE_0: Nombre de tabla local
-SOURCE: Origin of data (g_data_source_origin_type)",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0, SOURCE"
-t_dtau_historic_info_request,DTAU_historic-info-request_MRField.conf,DELIVERED,18.4.1,DTAU,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_1: Columna del catálogo local
-CATALOG_CODE_1: Filtrado del catálogo local
-CATALOG_TABLE_1: Nombre de tabla local
-SOURCE: Origin of data (g_data_source_origin_type)",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1, SOURCE"
-t_dtau_historic_info_request,DTAU_historic-info-request_MRObject.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data 
-FECHA_VOLUMETRIC: Date of values to compare with 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound 
-IS_VOL_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, IS_VOL_CRITICAL",,,,"CUTOFF_DATE: Date of the data
-SOURCE: Origin of data (g_data_source_origin_ex1_type)","CUTOFF_DATE, SOURCE"
-t_ejb6_contract_calculations,EJB6_contract-calculations_KCOG_country_MMRule.conf,DELIVERED,18.3.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_5: Columna del catálogo local
-CATALOG_CODE_5: Filtrado del catálogo local
-CATALOG_TABLE_5: Nombre de tabla local",", CATALOG_COLUMN_5, CATALOG_CODE_5, CATALOG_TABLE_5"
-t_ejb6_contract_calculations,EJB6_contract-calculations_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_6: Columna del catálogo local
-CATALOG_CODE_6: Filtrado del catálogo local
-CATALOG_TABLE_6: Nombre de tabla local",", CATALOG_COLUMN_6, CATALOG_CODE_6, CATALOG_TABLE_6"
-t_ejb6_contract_calculations,EJB6_contract-calculations_KSAN_contract-global-local_MMRule.conf,DELIVERED,18.3.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_4: Columna del catálogo local
-CATALOG_CODE_4: Filtrado del catálogo local
-CATALOG_TABLE_4: Nombre de tabla local",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_TABLE_4"
-t_ejb6_contract_calculations,EJB6_contract-calculations_MRField.conf,DELIVERED,15.1.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"RUNNING JOB PARAMS:
+IS_VOL_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, IS_VOL_CRITICAL",,,,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      SOURCE: Origin of data (gf_information_source_id)
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", SOURCE, extralibs"
-t_ejb6_contract_calculations,EJB6_contract-calculations_MRField.conf,DELIVERED,18.3.3,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+t_dtau_historic_info_request,DTAU_historic-info-request_MRField.conf,DELIVERED,18.4.1,DTAU,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
 SOURCE_LIST: Origin of data (gf_information_source_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST"
+t_dtau_historic_info_request,DTAU_historic-info-request_MRObject.conf,DELIVERED,18.4.1,DTAU,"CUTOFF_DATE: Date of the data 
+FECHA_VOLUMETRIC: Date of values to compare with 
+LOWER_BOUND: Lower percentage bound 
+UPPER_BOUND: Upper percentage bound 
+IS_VOL_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, IS_VOL_CRITICAL",,,,"CUTOFF_DATE: Date of the data
+FECHA_VOLUMETRIC: Date of values to compare with
+LOWER_BOUND: Lower percentage bound
+UPPER_BOUND: Upper percentage bound
+SOURCE_LIST: Origin of data (gf_information_source_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE_LIST"
+t_ejb6_contract_calculations,EJB6_contract-calculations_KCOG_country_MMRule.conf,DELIVERED,18.3.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+SOURCE_LIST: Origin of data (gf_source_system_sust_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST"
+t_ejb6_contract_calculations,EJB6_contract-calculations_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+FECHA_VOLUMETRIC: Date of values to compare with
+LOWER_BOUND: Lower percentage bound
+UPPER_BOUND: Upper percentage bound
+SOURCE_LIST: Origin of data (gf_source_system_sust_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE_LIST"
+t_ejb6_contract_calculations,EJB6_contract-calculations_KSAN_contract-global-local_MMRule.conf,DELIVERED,18.3.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,CLOSING_DATE: Closing date of the data,CLOSING_DATE
+t_ejb6_contract_calculations,EJB6_contract-calculations_MRField.conf,DELIVERED,15.1.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+ENTIFIC_ID: Information sender identifier","CUTOFF_DATE, ENTIFIC_ID"
+t_ejb6_contract_calculations,EJB6_contract-calculations_MRField.conf,DELIVERED,18.3.3,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
+SOURCE_LIST: Origin of data (gf_source_info_origin_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST"
 t_ejb6_contract_calculations,EJB6_contract-calculations_MRObject.conf,DELIVERED,15.1.0,EJB6,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
@@ -728,29 +745,18 @@ UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound
-SOURCE_LIST: Origin of data (gf_information_source_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE_LIST"
+SOURCE_LIST: Origin of data (gf_source_info_origin_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE_LIST"
 t_ejb6_contract_calculations_dp,EJB6_contract-calculations-dp_KSAN_contract-global-local_MMRule.conf,DELIVERED,18.3.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-SOURCE_LIST: Origin of data (gf_source_system_sust_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST"
-t_ejb6_contract_calculations_dp,EJB6_contract-calculations-dp_MRField.conf,DELIVERED,18.3.3,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound
-SOURCE_LIST: Origin of data (gf_source_system_sust_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE_LIST"
-t_ejb6_contract_calculations_dp,EJB6_contract-calculations-dp_MRField.conf,DELIVERED,15.1.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,CLOSING_DATE: Closing date of the data,CLOSING_DATE
+SOURCE_LIST: Origin of data (gf_source_info_origin_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST"
+t_ejb6_contract_calculations_dp,EJB6_contract-calculations-dp_MRField.conf,DELIVERED,18.3.3,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_ejb6_contract_calculations_dp,EJB6_contract-calculations-dp_MRField.conf,DELIVERED,15.1.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_ejb6_contract_calculations_dp,EJB6_contract-calculations-dp_MRObject.conf,DELIVERED,15.1.0,EJB6,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,"CUTOFF_DATE: Date of the data
-ENTIFIC_ID: Information sender identifier","CUTOFF_DATE, ENTIFIC_ID"
-t_ejb6_digital_sales,EJB6_digital-sales_KCOG_country_MMRule.conf,DELIVERED,18.3.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-SOURCE_LIST: Origin of data (gf_source_info_origin_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST"
-t_ejb6_digital_sales,EJB6_digital-sales_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound
-SOURCE_LIST: Origin of data (gf_source_info_origin_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE_LIST"
-t_ejb6_digital_sales,EJB6_digital-sales_KSAN_contract-global-local_MMRule.conf,DELIVERED,18.3.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,"CUTOFF_DATE: Date of the data
-SOURCE_LIST: Origin of data (gf_source_info_origin_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST"
+UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
+t_ejb6_digital_sales,EJB6_digital-sales_KCOG_country_MMRule.conf,DELIVERED,18.3.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_ejb6_digital_sales,EJB6_digital-sales_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_ejb6_digital_sales,EJB6_digital-sales_KSAN_contract-global-local_MMRule.conf,DELIVERED,18.3.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_ejb6_digital_sales,EJB6_digital-sales_MRField.conf,DELIVERED,15.1.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_ejb6_digital_sales,EJB6_digital-sales_MRField.conf,DELIVERED,17.0.0,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_ejb6_digital_sales,EJB6_digital-sales_MRField.conf,DELIVERED,18.3.3,EJB6,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -823,15 +829,12 @@ FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
 t_g5m3_sust_mob_operations,G5M3_sust-mob-operations_KSAN_contract-global-local_MMRule.conf,DELIVERED,18.3.0,G5M3,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_g5m3_sust_mob_operations,G5M3_sust-mob-operations_MRField.conf,DELIVERED,18.3.3,G5M3,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_g5m3_sust_mob_operations,G5M3_sust-mob-operations_MRField.conf,DELIVERED,15.1.0,G5M3,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_g5m3_sust_mob_operations,G5M3_sust-mob-operations_MRField.conf,DELIVERED,18.4.2,G5M3,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_g5m3_sust_mob_operations,G5M3_sust-mob-operations_MRField.conf,DELIVERED,16.0.5,G5M3,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_g5m3_sust_mob_operations,G5M3_sust-mob-operations_MRObject.conf,DELIVERED,15.1.0,G5M3,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
 t_g5m3_sust_mob_operations,G5M3_sust-mob-operations_RZUA_sust-operations-eod_MMRule.conf,DELIVERED,18.3.1,G5M3,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_g5m3_sust_mob_operations,t_g5m3_sust_mob_operations-qlm-MRField.conf,DELIVERED,19.0.0,G5M3,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_g5m3_sust_mob_operations_cib,G5M3_sust-mob-operations-cib_G5M3_sust-mob-operations-cib_MMRule.conf,DELIVERED,15.1.0,G5M3,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      PREVIOUS_CUTOFF_DATE: Previous date to be compared
@@ -1036,12 +1039,11 @@ t_kcdg_graph_edges,KCDG_graph-edges_MRObject.conf,DELIVERED,18.2.0,KCDG,"CUTOFF_
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_kcdg_graph_nodes,KCDG_graph-nodes_MRField.conf,DELIVERED,17.6.0,KCDG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_kcdg_graph_nodes,KCDG_graph-nodes_MRField.conf,DELIVERED,18.4.5,KCDG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kcdg_graph_nodes,KCDG_graph-nodes_MRObject.conf,DELIVERED,18.2.0,KCDG,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
+t_kcdg_graph_nodes,t_kcdg_graph_nodes-qlm-MRField.conf,DELIVERED,19.0.0,KCDG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kceg_agg_balances,KCEG_agg-balances_KBTQ_customer-info_MMRule.conf,DELIVERED,18.1.0,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kceg_agg_balances,KCEG_agg-balances_KCOG_country_MMRule.conf,DELIVERED,18.3.0,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kceg_agg_balances,KCEG_agg-balances_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -1984,9 +1986,6 @@ t_kszg_trnslty_by_channel,KSZG_trnslty-by-channel_KCOG_entity_MMRule.conf,DELIVE
 SOURCE_LIST: Origin of data (gf_source_info_origin_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST",,,,,
 t_kszg_trnslty_by_channel,KSZG_trnslty-by-channel_MRField.conf,DELIVERED,18.4.7,KSZG,"CUTOFF_DATE: Date of the data
 SOURCE_LIST: Origin of data (gf_source_info_origin_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST",,,,,
-t_kszg_trnslty_by_channel,KSZG_trnslty-by-channel_MRField.conf,DELIVERED,15.1.0,KSZG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_kszg_trnslty_by_channel,KSZG_trnslty-by-channel_MRField.conf,DELIVERED,18.3.5,KSZG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_kszg_trnslty_by_channel,KSZG_trnslty-by-channel_MRField.conf,DELIVERED,18.4.5,KSZG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kszg_trnslty_by_channel,KSZG_trnslty-by-channel_MRObject.conf,DELIVERED,18.4.7,KSZG,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
@@ -2128,28 +2127,6 @@ t_kwth_transport_trip_estimation,KWTH_transport-trip-estimation_MRObject.conf,DE
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_client_carbon_data_scp3,L9CT_client-carbon-data-scp3_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_client_carbon_data_scp3,L9CT_client-carbon-data-scp3_MRField.conf,DELIVERED,15.1.0,L9CT,"RUNNING JOB PARAMS:
-     CUTOFF_DATE: Date of the data
-
-JOB EXTRALIBS:
-     extralibs: Link to custom repository","CUTOFF_DATE, extralibs",,,,,
-t_l9ct_client_carbon_data_scp3,L9CT_client-carbon-data-scp3_MRField.conf,DELIVERED,18.3.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_client_carbon_data_scp3,L9CT_client-carbon-data-scp3_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_client_cmpny_carbon_data,L9CT_client-cmpny-carbon-data_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_client_cmpny_carbon_data,L9CT_client-cmpny-carbon-data_MRField.conf,DELIVERED,15.1.0,L9CT,"RUNNING JOB PARAMS:
-     CUTOFF_DATE: Date of the data
-
-JOB EXTRALIBS:
-     extralibs: Link to custom repository","CUTOFF_DATE, extralibs",,,,,
-t_l9ct_client_cmpny_carbon_data,L9CT_client-cmpny-carbon-data_MRField.conf,DELIVERED,18.3.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_client_cmpny_carbon_data,L9CT_client-cmpny-carbon-data_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
 t_l9ct_co_asset_rel_activity,L9CT_co-asset-rel-activity_L9CT_co-asset-rel-activity_MMRule.conf,DELIVERED,17.0.0,L9CT,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
 
@@ -2222,14 +2199,6 @@ SOURCE: Origin of data (g_data_source_origin_ex1_type)","CUTOFF_DATE, SOURCE",,,
 t_l9ct_country_econ_act_metric,L9CT_country-econ-act-metric_MRField.conf,DELIVERED,17.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9ct_country_econ_act_metric,L9CT_country-econ-act-metric_MRField.conf,DELIVERED,18.3.3,L9CT,"CUTOFF_DATE: Date of the data
 SOURCE: Origin of data (g_data_source_origin_ex1_type)","CUTOFF_DATE, SOURCE",,,,,
-t_l9ct_cs_ncs_co_tx_alig_sctr_r,L9CT_cs-ncs-co-tx-alig-sctr-r_KSAG_global-customer_rel_MMRule.conf,DELIVERED,18.3.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_cs_ncs_co_tx_alig_sctr_r,L9CT_cs-ncs-co-tx-alig-sctr-r_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_cs_ncs_co_tx_alig_sctr_r,L9CT_cs-ncs-co-tx-alig-sctr-r_MRField.conf,DELIVERED,16.1.6,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_cs_ncs_co_tx_alig_sctr_r,L9CT_cs-ncs-co-tx-alig-sctr-r_MRField.conf,DELIVERED,18.3.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_cs_ncs_co_tx_alig_sctr_r,L9CT_cs-ncs-co-tx-alig-sctr-r_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
 t_l9ct_eco_activity_taxo,L9CT_eco-activity-taxo_MRField.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
 SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, SOURCE",,,,,
 t_l9ct_eco_activity_taxo,L9CT_eco-activity-taxo_MRField.conf,DELIVERED,16.0.6,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -2272,14 +2241,6 @@ t_l9ct_em_factors_motor_ve,L9CT_em-factors-motor-ve_MRObject.conf,DELIVERED,15.1
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_esg_ext_data_comp_annl,L9CT_esg-ext-data-comp-annl_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_esg_ext_data_comp_annl,L9CT_esg-ext-data-comp-annl_MRField.conf,DELIVERED,17.0.1,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_esg_ext_data_comp_annl,L9CT_esg-ext-data-comp-annl_MRField.conf,DELIVERED,16.0.2,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_esg_ext_data_comp_annl,L9CT_esg-ext-data-comp-annl_MRField.conf,DELIVERED,18.3.4,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_esg_ext_data_comp_annl,L9CT_esg-ext-data-comp-annl_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data 
-FECHA_VOLUMETRIC: Date of values to compare with 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
 t_l9ct_esg_ext_data_companies,L9CT_esg-ext-data-companies_KCOG_country_MMRule.conf,DELIVERED,18.3.3,L9CT,"CUTOFF_DATE: Date of the data
 SOURCE: Origin of data (g_data_source_origin_ex1_type)","CUTOFF_DATE, SOURCE",,,,,
 t_l9ct_esg_ext_data_companies,L9CT_esg-ext-data-companies_MRField.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
@@ -2294,13 +2255,6 @@ FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound 
 UPPER_BOUND: Upper percentage bound
 SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE",,,,,
-t_l9ct_esg_scores_industry_taxo,L9CT_esg-scores-industry-taxo_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_esg_scores_industry_taxo,L9CT_esg-scores-industry-taxo_MRField.conf,DELIVERED,16.1.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_esg_scores_industry_taxo,L9CT_esg-scores-industry-taxo_MRField.conf,DELIVERED,18.2.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_esg_scores_industry_taxo,L9CT_esg-scores-industry-taxo_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
 t_l9ct_gp_cust_ext_data_comp,L9CT_gp-cust-ext-data-comp_KSAG_holding-business-group_MMRule.conf,DELIVERED,16.1.7,L9CT,"CUTOFF_DATE: Date of the data
 SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, SOURCE",,,,,
 t_l9ct_gp_cust_ext_data_comp,L9CT_gp-cust-ext-data-comp_L9CT_esg-ext-data-companies_MMRule.conf,DELIVERED,18.3.0,L9CT,"CUTOFF_DATE: Date of the data
@@ -2322,70 +2276,6 @@ t_l9ct_green_bonds_secty_flag,L9CT_green-bonds-secty-flag_MRObject.conf,DELIVERE
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_grp_clnt_cmpny_crbn_data,L9CT_grp-clnt-cmpny-crbn-data_KSAG_holding-business-group_MMRule.conf,DELIVERED,18.3.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_clnt_cmpny_crbn_data,L9CT_grp-clnt-cmpny-crbn-data_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_clnt_cmpny_crbn_data,L9CT_grp-clnt-cmpny-crbn-data_MRField.conf,DELIVERED,15.1.0,L9CT,"RUNNING JOB PARAMS:
-     CUTOFF_DATE: Date of the data
-
-JOB EXTRALIBS:
-     extralibs: Link to custom repository","CUTOFF_DATE, extralibs",,,,,
-t_l9ct_grp_clnt_cmpny_crbn_data,L9CT_grp-clnt-cmpny-crbn-data_MRField.conf,DELIVERED,16.1.7,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_clnt_cmpny_crbn_data,L9CT_grp-clnt-cmpny-crbn-data_MRField.conf,DELIVERED,17.0.1,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_clnt_cmpny_crbn_data,L9CT_grp-clnt-cmpny-crbn-data_MRField.conf,DELIVERED,18.3.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_clnt_cmpny_crbn_data,L9CT_grp-clnt-cmpny-crbn-data_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_grp_clnt_crbn_data_scp3,L9CT_grp-clnt-crbn-data-scp3_KSAG_holding-business-group_MMRule.conf,DELIVERED,18.3.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_clnt_crbn_data_scp3,L9CT_grp-clnt-crbn-data-scp3_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_clnt_crbn_data_scp3,L9CT_grp-clnt-crbn-data-scp3_MRField.conf,DELIVERED,15.1.0,L9CT,"RUNNING JOB PARAMS:
-     CUTOFF_DATE: Date of the data
-
-JOB EXTRALIBS:
-     extralibs: Link to custom repository","CUTOFF_DATE, extralibs",,,,,
-t_l9ct_grp_clnt_crbn_data_scp3,L9CT_grp-clnt-crbn-data-scp3_MRField.conf,DELIVERED,16.1.7,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_clnt_crbn_data_scp3,L9CT_grp-clnt-crbn-data-scp3_MRField.conf,DELIVERED,18.3.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_clnt_crbn_data_scp3,L9CT_grp-clnt-crbn-data-scp3_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_grp_cs_co_tx_align_sctr_r,L9CT_grp-cs-co-tx-align-sctr-r_KSAG_holding-business-group_MMRule.conf,DELIVERED,18.3.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_cs_co_tx_align_sctr_r,L9CT_grp-cs-co-tx-align-sctr-r_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_cs_co_tx_align_sctr_r,L9CT_grp-cs-co-tx-align-sctr-r_MRField.conf,DELIVERED,16.1.7,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_cs_co_tx_align_sctr_r,L9CT_grp-cs-co-tx-align-sctr-r_MRField.conf,DELIVERED,18.4.1,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_cs_co_tx_align_sctr_r,L9CT_grp-cs-co-tx-align-sctr-r_MRField.conf,DELIVERED,18.3.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_cs_co_tx_align_sctr_r,L9CT_grp-cs-co-tx-align-sctr-r_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_grp_nclnt_cmpny_crbn_data,L9CT_grp-nclnt-cmpny-crbn-data_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_nclnt_cmpny_crbn_data,L9CT_grp-nclnt-cmpny-crbn-data_MRField.conf,DELIVERED,15.1.0,L9CT,"RUNNING JOB PARAMS:
-     CUTOFF_DATE: Date of the data
-
-JOB EXTRALIBS:
-     extralibs: Link to custom repository","CUTOFF_DATE, extralibs",,,,,
-t_l9ct_grp_nclnt_cmpny_crbn_data,L9CT_grp-nclnt-cmpny-crbn-data_MRField.conf,DELIVERED,18.3.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_nclnt_cmpny_crbn_data,L9CT_grp-nclnt-cmpny-crbn-data_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_grp_nclnt_crbn_data_scp3,L9CT_grp-nclnt-crbn-data-scp3_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_nclnt_crbn_data_scp3,L9CT_grp-nclnt-crbn-data-scp3_MRField.conf,DELIVERED,15.1.0,L9CT,"RUNNING JOB PARAMS:
-     CUTOFF_DATE: Date of the data
-
-JOB EXTRALIBS:
-     extralibs: Link to custom repository","CUTOFF_DATE, extralibs",,,,,
-t_l9ct_grp_nclnt_crbn_data_scp3,L9CT_grp-nclnt-crbn-data-scp3_MRField.conf,DELIVERED,18.3.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_nclnt_crbn_data_scp3,L9CT_grp-nclnt-crbn-data-scp3_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_grp_ncs_co_tx_alig_sctr_r,L9CT_grp-ncs-co-tx-alig-sctr-r_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_ncs_co_tx_alig_sctr_r,L9CT_grp-ncs-co-tx-alig-sctr-r_MRField.conf,DELIVERED,18.3.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_grp_ncs_co_tx_alig_sctr_r,L9CT_grp-ncs-co-tx-alig-sctr-r_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
 t_l9ct_industry_agg_esg_scores,L9CT_industry-agg-esg-scores_MRField.conf,DELIVERED,16.1.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9ct_industry_agg_esg_scores,L9CT_industry-agg-esg-scores_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9ct_industry_agg_esg_scores,L9CT_industry-agg-esg-scores_MRField.conf,DELIVERED,16.1.7,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -2393,50 +2283,6 @@ t_l9ct_industry_agg_esg_scores,L9CT_industry-agg-esg-scores_MRField.conf,DELIVER
 t_l9ct_industry_agg_esg_scores,L9CT_industry-agg-esg-scores_MRField.conf,DELIVERED,18.3.7,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9ct_industry_agg_esg_scores,L9CT_industry-agg-esg-scores_MRField.conf,DELIVERED,18.2.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9ct_industry_agg_esg_scores,L9CT_industry-agg-esg-scores_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_inst_esg_scores_dimension,L9CT_inst-esg-scores-dimension_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_inst_esg_scores_dimension,L9CT_inst-esg-scores-dimension_MRField.conf,DELIVERED,18.3.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_inst_esg_scores_dimension,L9CT_inst-esg-scores-dimension_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_institutions_esg,L9CT_institutions-esg_L9CT_insts-esg-scores-general_MMRule.conf,DELIVERED,18.3.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_institutions_esg,L9CT_institutions-esg_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_institutions_esg,L9CT_institutions-esg_MRField.conf,DELIVERED,17.2.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_institutions_esg,L9CT_institutions-esg_MRField.conf,DELIVERED,17.0.1,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_institutions_esg,L9CT_institutions-esg_MRField.conf,DELIVERED,17.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_institutions_esg,L9CT_institutions-esg_MRField.conf,DELIVERED,18.3.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_institutions_esg,L9CT_institutions-esg_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_insts_esg_scores_cases,L9CT_insts-esg-scores-cases_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_insts_esg_scores_cases,L9CT_insts-esg-scores-cases_MRField.conf,DELIVERED,17.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_insts_esg_scores_cases,L9CT_insts-esg-scores-cases_MRField.conf,DELIVERED,18.3.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_insts_esg_scores_cases,L9CT_insts-esg-scores-cases_MRField.conf,DELIVERED,16.1.2,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_insts_esg_scores_cases,L9CT_insts-esg-scores-cases_MRField.conf,DELIVERED,18.3.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_insts_esg_scores_cases,L9CT_insts-esg-scores-cases_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_insts_esg_scores_criteria,L9CT_insts-esg-scores-criteria_L9CT_inst-esg-scores-dimension_MMRule.conf,DELIVERED,18.3.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_insts_esg_scores_criteria,L9CT_insts-esg-scores-criteria_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_insts_esg_scores_criteria,L9CT_insts-esg-scores-criteria_MRField.conf,DELIVERED,16.1.1,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_insts_esg_scores_criteria,L9CT_insts-esg-scores-criteria_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_l9ct_insts_esg_scores_general,L9CT_insts-esg-scores-general_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_insts_esg_scores_general,L9CT_insts-esg-scores-general_MRField.conf,DELIVERED,15.1.0,L9CT,"RUNNING JOB PARAMS:
-     CUTOFF_DATE: Date of the data
-
-JOB EXTRALIBS:
-     extralibs: Link to custom repository","CUTOFF_DATE, extralibs",,,,,
-t_l9ct_insts_esg_scores_general,L9CT_insts-esg-scores-general_MRField.conf,DELIVERED,17.0.1,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_insts_esg_scores_general,L9CT_insts-esg-scores-general_MRField.conf,DELIVERED,18.3.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_insts_esg_scores_general,L9CT_insts-esg-scores-general_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
@@ -2829,7 +2675,7 @@ t_re4m_phrase_mention,RE4M_phrase-mention_MRField.conf,DELIVERED,18.3.1,RE4M,CUT
 t_re4m_phrase_mention,RE4M_phrase-mention_MRField.conf,DELIVERED,18.3.1,RE4M,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_1: Columna del catálogo local
 CATALOG_CODE_1: Filtrado del catálogo local
-CATALOG_TABLE_1: Nombre de tabla local",", SOURCE, extralibs",,,,,
+CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,,
 t_re4m_phrase_mention,RE4M_phrase-mention_RE4M_phrase-transcription_MMRule.conf,DELIVERED,16.1.4,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_re4m_phrase_transcr_obfsc,RE4M_phrase-transcr-obfsc_MRField.conf,DELIVERED,17.0.0,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_re4m_phrase_transcr_obfsc,RE4M_phrase-transcr-obfsc_MRField.conf,DELIVERED,17.0.0,RE4M,"CUTOFF_DATE: Date of the data
@@ -2993,7 +2839,7 @@ UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND
 t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_KBTQ_eom-customer_MMRule.conf,DELIVERED,18.3.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_KSAG_holding-business-group_MMRule.conf,DELIVERED,18.3.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_MRField.conf,DELIVERED,15.1.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_MRField.conf,DELIVERED,15.1.0,RZUA,CUTOFF_DATE: Date of the data,", SOURCE, extralibs",,,,,
 t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_MRField.conf,DELIVERED,18.3.3,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_MRField.conf,DELIVERED,16.0.5,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_MRObject.conf,DELIVERED,15.1.0,RZUA,"CUTOFF_DATE: Date of the data
@@ -3087,7 +2933,6 @@ CATALOG_CODE_0: Filtrado del catálogo local
 CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,,
 t_tdi3_communication,TDI3_communication_KCOG_country_MMRule.conf,DELIVERED,18.3.0,TDI3,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_tdi3_communication,TDI3_communication_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,TDI3,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_tdi3_communication,TDI3_communication_L9SV_placement-display_MMRule.conf,DELIVERED,15.1.0,TDI3,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_tdi3_communication,TDI3_communication_MRField.conf,DELIVERED,16.0.2,TDI3,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_tdi3_communication,TDI3_communication_MRField.conf,DELIVERED,15.1.0,TDI3,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_tdi3_communication,TDI3_communication_MRField.conf,DELIVERED,16.1.7,TDI3,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -3149,6 +2994,85 @@ FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
 t_yfvh_cards_calc_balances,YFVH_cards-calc-balances_MRField.conf,DELIVERED,18.3.6,YFVH,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
 ,,,,,,#N/A,,,,,
 ,,,,,,#N/A,,,,,
 ,,,,,,#N/A,,,,,
