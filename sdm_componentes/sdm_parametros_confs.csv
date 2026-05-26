@@ -884,19 +884,6 @@ t_j7il_customer_personalization,J7IL_customer-personalization_MRObject.conf,DELI
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_j7il_customer_refusals,J7IL_customer-refusals_KBTQ_role-person_MMRule.conf,DELIVERED,18.3.0,J7IL,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_j7il_customer_refusals,J7IL_customer-refusals_KCOG_country_MMRule.conf,DELIVERED,18.3.0,J7IL,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_j7il_customer_refusals,J7IL_customer-refusals_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,J7IL,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_j7il_customer_refusals,J7IL_customer-refusals_MRField.conf,DELIVERED,15.1.0,J7IL,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_j7il_customer_refusals,J7IL_customer-refusals_MRField.conf,DELIVERED,18.3.3,J7IL,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_j7il_customer_refusals,J7IL_customer-refusals_MRField.conf,DELIVERED,15.1.0,J7IL,"CUTOFF_DATE: Date of the data
-CATALOG_COLUMN_0: Columna del catálogo local 
-CATALOG_CODE_0: Filtrado del catálogo local
-CATALOG_TABLE_0: Nombre de tabla local",", CATALOG_COLUMN_0, CATALOG_CODE_0, CATALOG_TABLE_0",,,,,
-t_j7il_customer_refusals,J7IL_customer-refusals_MRObject.conf,DELIVERED,15.1.0,J7IL,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
 t_j7il_email_notifications,J7IL_email-notifications_MRField.conf,DELIVERED,18.4.6,J7IL,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_j7il_notification_type,J7IL_notification-type_MRField.conf,DELIVERED,18.4.6,J7IL,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_j7il_notifications,J7IL_notifications_MRField.conf,DELIVERED,18.4.6,J7IL,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -1032,13 +1019,12 @@ t_katc_relevant_facts,KATC_relevant-facts_MRObject.conf,DELIVERED,15.1.0,KATC,"C
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_kcdg_graph_edges,KCDG_graph-edges_KCDG_graph-nodes_MMRule.conf,DELIVERED,18.3.0,KCDG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_kcdg_graph_edges,KCDG_graph-edges_KCDG_graph-nodes_MMRule.conf,DELIVERED,18.2.0,KCDG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kcdg_graph_edges,KCDG_graph-edges_MRField.conf,DELIVERED,17.6.0,KCDG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kcdg_graph_edges,KCDG_graph-edges_MRObject.conf,DELIVERED,18.2.0,KCDG,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
+t_kcdg_graph_edges,t_kcdg_graph_edges-qlm-MMRule_01.conf,DELIVERED,19.0.2,KCDG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kcdg_graph_nodes,KCDG_graph-nodes_MRObject.conf,DELIVERED,18.2.0,KCDG,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
@@ -1169,13 +1155,14 @@ t_kceg_customer_registers,KCEG_customer-registers_KCEG_customer-cancellations_MM
 t_kceg_customer_registers,KCEG_customer-registers_KCOG_branch_MMRule.conf,DELIVERED,18.3.0,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kceg_customer_registers,KCEG_customer-registers_KCOG_country_MMRule.conf,DELIVERED,18.3.0,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kceg_customer_registers,KCEG_customer-registers_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_kceg_customer_registers,KCEG_customer-registers_MRField.conf,DELIVERED,15.1.0,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_kceg_customer_registers,KCEG_customer-registers_MRField.conf,DELIVERED,18.3.3,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_kceg_customer_registers,KCEG_customer-registers_MRField.conf,DELIVERED,17.5.0,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kceg_customer_registers,KCEG_customer-registers_MRObject.conf,DELIVERED,15.1.0,KCEG,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
+t_kceg_customer_registers,t_kceg_customer_registers-qlm-MRField.conf,DELIVERED,15.1.0,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_kceg_customer_registers,t_kceg_customer_registers-qlm-MRField.conf,DELIVERED,18.3.3,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_kceg_customer_registers,t_kceg_customer_registers-qlm-MRField.conf,DELIVERED,17.5.0,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_kceg_customer_registers,t_kceg_customer_registers-qlm-MRField.conf,DELIVERED,19.0.1,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kceg_fx_cust_channel_activity,KCEG_fx-cust-channel-activity_KBTQ_customer-info_MMRule.conf,DELIVERED,18.3.0,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kceg_fx_cust_channel_activity,KCEG_fx-cust-channel-activity_KCEG_fx-cust-gnrl-feat_MMRule.conf,DELIVERED,18.3.0,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kceg_fx_cust_channel_activity,KCEG_fx-cust-channel-activity_MRField.conf,DELIVERED,16.0.9,KCEG,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -1469,17 +1456,13 @@ t_kctd_interaction_activity,KCTD_interaction-activity_KCOG_currency_MMRule.conf,
 ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe.","CLOSING_DATE, ADOBE_REPORT_SUITE_NAME",,,,,
 t_kctd_interaction_activity,KCTD_interaction-activity_KCOG_language_MMRule.conf,DELIVERED,18.3.3,KCTD,"CLOSING_DATE: Closing date of the data
 ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe.","CLOSING_DATE, ADOBE_REPORT_SUITE_NAME",,,,,
-t_kctd_interaction_activity,KCTD_interaction-activity_MRField.conf,DELIVERED,18.3.3,KCTD,"CLOSING_DATE: Closing date of the data
-ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe.","CLOSING_DATE, ADOBE_REPORT_SUITE_NAME",,,,,
-t_kctd_interaction_activity,KCTD_interaction-activity_MRField.conf,DELIVERED,15.1.0,KCTD,"CLOSING_DATE: Closing date of the data
-ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe.","CLOSING_DATE, ADOBE_REPORT_SUITE_NAME",,,,,
-t_kctd_interaction_activity,KCTD_interaction-activity_MRField.conf,DELIVERED,18.2.0,KCTD,"CLOSING_DATE: Closing date of the data
-ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe.","CLOSING_DATE, ADOBE_REPORT_SUITE_NAME",,,,,
 t_kctd_interaction_activity,KCTD_interaction-activity_MRObject.conf,DELIVERED,15.1.0,KCTD,"CLOSING_DATE: Closing date of the data 
 DATE_VOLUMETRIC: Closing date of values to compare with
 ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe. 
 LOWER_BOUND: Lower percentage bound 
 UPPER_BOUND: Upper percentage bound","CLOSING_DATE, DATE_VOLUMETRIC, ADOBE_REPORT_SUITE_NAME, LOWER_BOUND, UPPER_BOUND",,,,,
+t_kctd_interaction_activity,t_kctd_interaction_activity-qlm-MRField.conf,DELIVERED,19.0.2,KCTD,"CLOSING_DATE: Closing date of the data
+ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe.","CLOSING_DATE, ADOBE_REPORT_SUITE_NAME",,,,,
 t_kctd_interaction_activity_his,KCTD_interaction-activity-his_MRField.conf,DELIVERED,18.3.5,KCTD,CLOSING_DATE: Closing date of the data,CLOSING_DATE,,,,,
 t_kctd_interaction_agg_quality,KCTD_interaction-agg-quality_MRField.conf,DELIVERED,15.1.0,KCTD,"CUTOFF_DATE: Date of the data
 ADOBE_REPORT_SUITE_NAME: The report suite name for the adobe.","CUTOFF_DATE, ADOBE_REPORT_SUITE_NAME",,,,,
@@ -1770,12 +1753,12 @@ t_kpan_credit_fclty_proposals,KPAN_credit-fclty-proposals_KCOG_country_MMRule.co
 t_kpan_credit_fclty_proposals,KPAN_credit-fclty-proposals_KCOG_currency_MMRule.conf,DELIVERED,18.3.3,KPAN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kpan_credit_fclty_proposals,KPAN_credit-fclty-proposals_MRField.conf,DELIVERED,15.1.0,KPAN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kpan_credit_fclty_proposals,KPAN_credit-fclty-proposals_MRField.conf,DELIVERED,18.3.3,KPAN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_kpan_credit_fclty_proposals,KPAN_credit-fclty-proposals_MRObject.conf,DELIVERED,15.1.0,KPAN,"CUTOFF_DATE: Date of the data
+t_kpan_credit_fclty_proposals,KPAN_credit-fclty-proposals_YH2J_gbl-channel-hier-master_MMRule.conf,DELIVERED,18.3.3,KPAN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_kpan_credit_fclty_proposals,KPAN_credit-fclty-proposals_YH2J_gbl-product-hier-master_MMRule.conf,DELIVERED,18.3.3,KPAN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_kpan_credit_fclty_proposals,t_kpan_credit_fclty_proposals-qlm-MRObject.conf,DELIVERED,19.0.2,KPAN,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_kpan_credit_fclty_proposals,KPAN_credit-fclty-proposals_YH2J_gbl-channel-hier-master_MMRule.conf,DELIVERED,18.3.3,KPAN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_kpan_credit_fclty_proposals,KPAN_credit-fclty-proposals_YH2J_gbl-product-hier-master_MMRule.conf,DELIVERED,18.3.3,KPAN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kpan_credit_fclty_proposals_dp,KPAN_credit-fclty-proposals-dp_KCOG_country_MMRule.conf,DELIVERED,18.3.3,KPAN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kpan_credit_fclty_proposals_dp,KPAN_credit-fclty-proposals-dp_KCOG_currency_MMRule.conf,DELIVERED,18.3.3,KPAN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_kpan_credit_fclty_proposals_dp,KPAN_credit-fclty-proposals-dp_MRField.conf,DELIVERED,18.3.3,KPAN,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -2127,6 +2110,8 @@ t_kwth_transport_trip_estimation,KWTH_transport-trip-estimation_MRObject.conf,DE
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
+t_l9ct_asset_detail_annual,t_l9ct_asset_detail_annual-qlm-MRField.conf,DELIVERED,19.0.1,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_l9ct_asset_emissions,t_l9ct_asset_emissions-qlm-MRField.conf,DELIVERED,19.0.1,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9ct_co_asset_rel_activity,L9CT_co-asset-rel-activity_L9CT_co-asset-rel-activity_MMRule.conf,DELIVERED,17.0.0,L9CT,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
 
@@ -2269,13 +2254,11 @@ FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound
 SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE",,,,,
-t_l9ct_green_bonds_secty_flag,L9CT_green-bonds-secty-flag_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_green_bonds_secty_flag,L9CT_green-bonds-secty-flag_MRField.conf,DELIVERED,18.3.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9ct_green_bonds_secty_flag,L9CT_green-bonds-secty-flag_MRField.conf,DELIVERED,16.0.2,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9ct_green_bonds_secty_flag,L9CT_green-bonds-secty-flag_MRObject.conf,DELIVERED,15.1.0,L9CT,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
+t_l9ct_green_bonds_secty_flag,t_l9ct_green_bonds_secty_flag-qlm-MRField.conf,DELIVERED,19.0.2,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9ct_industry_agg_esg_scores,L9CT_industry-agg-esg-scores_MRField.conf,DELIVERED,16.1.3,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9ct_industry_agg_esg_scores,L9CT_industry-agg-esg-scores_MRField.conf,DELIVERED,15.1.0,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9ct_industry_agg_esg_scores,L9CT_industry-agg-esg-scores_MRField.conf,DELIVERED,16.1.7,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -2385,12 +2368,10 @@ FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound 
 UPPER_BOUND: Upper percentage bound
 SOURCE: Origin of data (gf_information_source_id)","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, SOURCE",,,,,
+t_l9ct_vessel_info_annual,t_l9ct_vessel_info_annual-qlm-MRField.conf,DELIVERED,19.0.2,L9CT,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9sv_digital_marketing_costs,L9SV_digital-marketing-costs_KCOG_country_MMRule.conf,DELIVERED,18.3.5,L9SV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9sv_digital_marketing_costs,L9SV_digital-marketing-costs_KCOG_currency_MMRule.conf,DELIVERED,18.3.5,L9SV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9sv_digital_marketing_costs,L9SV_digital-marketing-costs_MRField.conf,DELIVERED,16.0.5,L9SV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9sv_digital_marketing_costs,L9SV_digital-marketing-costs_MRField.conf,DELIVERED,18.3.3,L9SV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9sv_digital_marketing_costs,L9SV_digital-marketing-costs_MRField.conf,DELIVERED,16.1.1,L9SV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_l9sv_digital_marketing_costs,L9SV_digital-marketing-costs_MRField.conf,DELIVERED,18.3.5,L9SV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_l9sv_digital_marketing_costs,t_l9sv_digital_marketing_costs-qlm-MRField.conf,DELIVERED,19.0.2,L9SV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9sv_keyword_search_metric,L9SV_keyword-search-metric_MRField.conf,DELIVERED,17.2.0,L9SV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_l9sv_organic_search_metric,L9SV_organic-search-metric_MRField.conf,DELIVERED,18.3.3,L9SV,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_msx9_loans_calc_balances,MSX9_loans-calc-balances_KCOG_currency_MMRule.conf,DELIVERED,18.3.3,MSX9,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -2702,28 +2683,33 @@ LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
 t_re4m_phys_interaction_attach,RE4M_phys-interaction-attach_MRField.conf,DELIVERED,18.3.7,NOLS,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_re4m_physical_interaction,RE4M_physical-interaction_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_re4m_physical_interaction,RE4M_physical-interaction_MRField.conf,DELIVERED,16.1.3,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_re4m_physical_interaction,RE4M_physical-interaction_MRField.conf,DELIVERED,16.1.3,RE4M,"CUTOFF_DATE: Date of the data
+t_re4m_physical_interaction,RE4M_physical-interaction_MRObject.conf,DELIVERED,16.1.3,RE4M,"CUTOFF_DATE: Date of the data
+FECHA_VOLUMETRIC: Date of values to compare with
+LOWER_BOUND: Lower percentage bound
+UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
+t_re4m_physical_interaction,RE4M_physical-interaction_NM7R_lead_MMRule.conf,DELIVERED,16.1.3,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_re4m_physical_interaction,t_re4m_physical_interaction-qlm-MRField.conf,DELIVERED,19.0.2,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+t_re4m_physical_interaction,t_re4m_physical_interaction-qlm-MRField.conf,DELIVERED,19.0.2,RE4M,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_1: Columna del catálogo local 
 CATALOG_CODE_1: Filtrado del catálogo local
 CATALOG_TABLE_1: Nombre de tabla local",", CATALOG_COLUMN_1, CATALOG_CODE_1, CATALOG_TABLE_1",,,,,
-t_re4m_physical_interaction,RE4M_physical-interaction_MRField.conf,DELIVERED,16.1.3,RE4M,"CUTOFF_DATE: Date of the data
+t_re4m_physical_interaction,t_re4m_physical_interaction-qlm-MRField.conf,DELIVERED,19.0.2,RE4M,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_2: Columna del catálogo local 
 CATALOG_CODE_2: Filtrado del catálogo local
 CATALOG_TABLE_2: Nombre de tabla local",", CATALOG_COLUMN_2, CATALOG_CODE_2, CATALOG_TABLE_2",,,,,
-t_re4m_physical_interaction,RE4M_physical-interaction_MRField.conf,DELIVERED,16.1.3,RE4M,"CUTOFF_DATE: Date of the data
+t_re4m_physical_interaction,t_re4m_physical_interaction-qlm-MRField.conf,DELIVERED,19.0.2,RE4M,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_3: Columna del catálogo local 
 CATALOG_CODE_3: Filtrado del catálogo local
 CATALOG_TABLE_3: Nombre de tabla local",", CATALOG_COLUMN_3, CATALOG_CODE_3, CATALOG_TABLE_3",,,,,
-t_re4m_physical_interaction,RE4M_physical-interaction_MRField.conf,DELIVERED,16.1.3,RE4M,"CUTOFF_DATE: Date of the data
+t_re4m_physical_interaction,t_re4m_physical_interaction-qlm-MRField.conf,DELIVERED,19.0.2,RE4M,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_4: Columna del catálogo local 
 CATALOG_CODE_4: Filtrado del catálogo local
 CATALOG_TABLE_4: Nombre de tabla local",", CATALOG_COLUMN_4, CATALOG_CODE_4, CATALOG_TABLE_4",,,,,
-t_re4m_physical_interaction,RE4M_physical-interaction_MRField.conf,DELIVERED,16.1.3,RE4M,"CUTOFF_DATE: Date of the data
+t_re4m_physical_interaction,t_re4m_physical_interaction-qlm-MRField.conf,DELIVERED,19.0.2,RE4M,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_5: Columna del catálogo local 
 CATALOG_CODE_5: Filtrado del catálogo local
 CATALOG_TABLE_5: Nombre de tabla local",", CATALOG_COLUMN_5, CATALOG_CODE_5, CATALOG_TABLE_5",,,,,
-t_re4m_physical_interaction,RE4M_physical-interaction_MRField.conf,DELIVERED,16.1.3,RE4M,"RUNNING JOB PARAMS:
+t_re4m_physical_interaction,t_re4m_physical_interaction-qlm-MRField.conf,DELIVERED,19.0.2,RE4M,"RUNNING JOB PARAMS:
      CUTOFF_DATE: Date of the data
      CATALOG_COLUMN_7: Columna del catálogo local 
      CATALOG_CODE_7: Filtrado del catálogo local
@@ -2731,17 +2717,10 @@ t_re4m_physical_interaction,RE4M_physical-interaction_MRField.conf,DELIVERED,16.
 
 JOB EXTRALIBS:
      extralibs: Link to custom repository",", CATALOG_COLUMN_7, CATALOG_CODE_7, CATALOG_TABLE_7, extralibs",,,,,
-t_re4m_physical_interaction,RE4M_physical-interaction_MRField.conf,DELIVERED,16.1.3,RE4M,"CUTOFF_DATE: Date of the data
+t_re4m_physical_interaction,t_re4m_physical_interaction-qlm-MRField.conf,DELIVERED,19.0.2,RE4M,"CUTOFF_DATE: Date of the data
 CATALOG_COLUMN_6: Columna del catálogo local 
 CATALOG_CODE_6: Filtrado del catálogo local
 CATALOG_TABLE_6: Nombre de tabla local",", CATALOG_COLUMN_6, CATALOG_CODE_6, CATALOG_TABLE_6",,,,,
-t_re4m_physical_interaction,RE4M_physical-interaction_MRField.conf,DELIVERED,18.3.3,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_re4m_physical_interaction,RE4M_physical-interaction_MRField.conf,DELIVERED,17.5.0,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_re4m_physical_interaction,RE4M_physical-interaction_MRObject.conf,DELIVERED,16.1.3,RE4M,"CUTOFF_DATE: Date of the data
-FECHA_VOLUMETRIC: Date of values to compare with
-LOWER_BOUND: Lower percentage bound
-UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_re4m_physical_interaction,RE4M_physical-interaction_NM7R_lead_MMRule.conf,DELIVERED,16.1.3,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_re4m_physical_interaction_acti,RE4M_physical-interaction-acti_KBTQ_role-person_MMRule.conf,DELIVERED,16.1.6,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_re4m_physical_interaction_acti,RE4M_physical-interaction-acti_KCOG_country_MMRule.conf,DELIVERED,18.3.0,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_re4m_physical_interaction_acti,RE4M_physical-interaction-acti_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -2800,18 +2779,12 @@ UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND
 t_re4m_typification_interaction,RE4M_typification-interaction_RE4M_physical-interaction_MMRule.conf,DELIVERED,18.3.0,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_re4m_virt_asst_msg_cnt,RE4M_virt-asst-msg-cnt_MRField.conf,DELIVERED,18.3.3,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_re4m_virt_asst_msg_data,RE4M_virt-asst-msg-data_MRField.conf,DELIVERED,18.3.3,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_re4m_virtual_assistant_message,RE4M_virtual-assistant-message_MRField.conf,DELIVERED,16.0.4,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_re4m_virtual_assistant_message,RE4M_virtual-assistant-message_RE4M_physical-interaction_MMRule.conf,DELIVERED,18.3.0,RE4M,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_contract_output_emissions,RZUA_contract-output-emissions_KCOG_country_MMRule.conf,DELIVERED,15.1.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_rzua_contract_output_emissions,RZUA_contract-output-emissions_MRField.conf,DELIVERED,16.0.3,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_rzua_contract_output_emissions,RZUA_contract-output-emissions_MRField.conf,DELIVERED,18.1.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_rzua_contract_output_emissions,RZUA_contract-output-emissions_MRField.conf,DELIVERED,16.1.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_rzua_contract_output_emissions,RZUA_contract-output-emissions_MRField.conf,DELIVERED,18.3.3,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_rzua_contract_output_emissions,RZUA_contract-output-emissions_MRField.conf,DELIVERED,16.0.6,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_contract_output_emissions,RZUA_contract-output-emissions_MRObject.conf,DELIVERED,15.1.0,RZUA,"CUTOFF_DATE: Date of the data
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
+t_rzua_contract_output_emissions,t_rzua_contract_output_emissions-qlm-MRField.conf,DELIVERED,19.0.2,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_ctrct_goods_emiss_intst,RZUA_ctrct-goods-emiss-intst_KCOG_country_MMRule.conf,DELIVERED,18.3.3,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_ctrct_goods_emiss_intst,RZUA_ctrct-goods-emiss-intst_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_ctrct_goods_emiss_intst,RZUA_ctrct-goods-emiss-intst_KSAN_contract-global-local_MMRule.conf,DELIVERED,18.3.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -2821,13 +2794,6 @@ t_rzua_ctrct_goods_emiss_intst,RZUA_ctrct-goods-emiss-intst_MRObject.conf,DELIVE
 FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
-t_rzua_issuance_output_emissions,RZUA_issuance-output-emissions_MRField.conf,DELIVERED,15.1.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_rzua_issuance_output_emissions,RZUA_issuance-output-emissions_MRField.conf,DELIVERED,18.3.3,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_rzua_issuance_output_emissions,RZUA_issuance-output-emissions_MRObject.conf,DELIVERED,15.1.0,RZUA,"CUTOFF_DATE: Date of the data 
-FECHA_VOLUMETRIC: Date of values to compare with 
-LOWER_BOUND: Lower percentage bound 
-UPPER_BOUND: Upper percentage bound 
-IS_VOL_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, IS_VOL_CRITICAL",,,,,
 t_rzua_operations_cust_scope,RZUA_operations-cust-scope_MRField.conf,DELIVERED,18.3.3,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_operations_cust_scope,RZUA_operations-cust-scope_MRField.conf,DELIVERED,15.1.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_operations_cust_scope,RZUA_operations-cust-scope_MRField.conf,DELIVERED,16.0.2,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -2839,7 +2805,7 @@ UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND
 t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_KBTQ_eom-customer_MMRule.conf,DELIVERED,18.3.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_KCOG_entity_MMRule.conf,DELIVERED,18.3.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_KSAG_holding-business-group_MMRule.conf,DELIVERED,18.3.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
-t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_MRField.conf,DELIVERED,15.1.0,RZUA,CUTOFF_DATE: Date of the data,", SOURCE, extralibs",,,,,
+t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_MRField.conf,DELIVERED,15.1.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_MRField.conf,DELIVERED,18.3.3,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_MRField.conf,DELIVERED,16.0.5,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
 t_rzua_operations_cust_scope_cib,RZUA_operations-cust-scope-cib_MRObject.conf,DELIVERED,15.1.0,RZUA,"CUTOFF_DATE: Date of the data
@@ -2883,7 +2849,7 @@ t_rzua_sust_kpi_link_rvw_alert,RZUA_sust-kpi-link-rvw-alert_MRObject.conf,DELIVE
 FECHA_VOLUMETRIC: Date of values to compare with 
 LOWER_BOUND: Lower percentage bound 
 UPPER_BOUND: Upper percentage bound 
-IS_VOL_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND, IS_VOL_CRITICAL",,,,,
+IS_VOL_CRITICAL: Optional parameter to disable the criticality of the 6.9 rule",", SOURCE, extralibs",,,,,
 t_rzua_sust_operations,RZUA_sust-operations_KCOG_entity_MMRule.conf,DELIVERED,18.3.3,RZUA,"CUTOFF_DATE: Date of the data
 SOURCE_LIST: Origin of data (gf_source_system_sust_type): Example: 'SOURCE_LIST': "" 'A', 'B' ""","CUTOFF_DATE, SOURCE_LIST",,,,,
 t_rzua_sust_operations,RZUA_sust-operations_MRField.conf,DELIVERED,15.1.0,RZUA,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
@@ -2994,6 +2960,28 @@ FECHA_VOLUMETRIC: Date of values to compare with
 LOWER_BOUND: Lower percentage bound
 UPPER_BOUND: Upper percentage bound","CUTOFF_DATE, FECHA_VOLUMETRIC, LOWER_BOUND, UPPER_BOUND",,,,,
 t_yfvh_cards_calc_balances,YFVH_cards-calc-balances_MRField.conf,DELIVERED,18.3.6,YFVH,CUTOFF_DATE: Date of the data,CUTOFF_DATE,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
+,,,,,,#N/A,,,,,
 ,,,,,,#N/A,,,,,
 ,,,,,,#N/A,,,,,
 ,,,,,,#N/A,,,,,
